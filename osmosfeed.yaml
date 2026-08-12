@@ -3,7 +3,7 @@
 # https://github.com/osmoscraft/osmosfeed/blob/master/docs/osmosfeed-yaml-reference.md
 #########################
 
-cacheUrl: https://thhk8zC8OHU0.github.io/myfeedreader/cache.json
+cacheUrl: https://thhk8zc8ohu0.github.io/myfeedreader/cache.json
 sources:
   - href: https://www.4gamer.net/rss/nintendo_switch/nintendo_switch_news.xml
   - href: https://news.yahoo.co.jp/rss/media/asahibc/all.xml
