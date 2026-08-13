@@ -2,10 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-13T21:28:07.320Z</updated>
+    <updated>2026-08-13T23:27:48.876Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[姪「「ねえ、オジサンは自分の家がないの?　どうしてずっとおばあちゃんの家にいるの?」」]]></title>
+        <id>https://itainews.com/archives/2066035.html</id>
+        <link href="https://itainews.com/archives/2066035.html"/>
+        <updated>2026-08-13T23:00:19.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：★：2026/08/13(木) 10:45:37.91 ID:MlvxMbm10●.net
+
+
+
+
+
+
+
+あと少しで、、この家はおじさんの家だからねって言えばいいのではww「オジサンは自分の家がないの？」姪っ子の無邪気な問いにショック。実家暮らしを続ける45歳会社員の未婚男性「夏休みよ、はよ終わ...]]></summary>
+        <author>
+            <name>nobi0929</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「1枚のガラス板に見えるiPhone」へ前進か。サプライチェーンで画面が確認？]]></title>
+        <id>https://gadget.phileweb.com/?p=130625</id>
+        <link href="https://gadget.phileweb.com/post-130625/"/>
+        <updated>2026-08-13T22:30:00.000Z</updated>
+        <summary type="html"><![CDATA[アップルが2027年の発売を目指していると噂されるiPhone 20周年特別モデル（通称、iPhone 20 Pro）をめぐり、計画を断念したかどうかについて相反する報道が飛び交っている。そんななか、実際にiPhone 20 Pro向けディスプレイをサプライチェーンで確認したとの証言が現れた。 この […]]]></summary>
+        <author>
+            <name>多根清史</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「中国と敵対するより友好関係を築く方が合理的だと思いませんか？」]]></title>
+        <id>https://itainews.com/archives/2066032.html</id>
+        <link href="https://itainews.com/archives/2066032.html"/>
+        <updated>2026-08-13T22:00:46.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：★：2026/08/12(水) 22:09:37.71 ID:wHps0pKu0●.net
+
+
+
+
+
+
+
+中国と敵対するより友好関係を築く方が合理的だと思いませんか？ pic.twitter.com/Ymj78BmJE6— かい@日中友好 (@Kai_JP_CN) August 12, 2026 
+
+
+
+
+
+
+    https://i.imgur.com/Gxx0yBJ.jpeg 
+
+
+
+
+
+
+
+
+...]]></summary>
+        <author>
+            <name>nobi0929</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レゴ風の組み立て式オーディオ「AudioBricks」。ブロックは3Dプリンターで自作可能]]></title>
+        <id>https://gadget.phileweb.com/?p=130601</id>
+        <link href="https://gadget.phileweb.com/post-130601/"/>
+        <updated>2026-08-13T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[イタリアのデザイナー、パオロ・カヴィリア氏は、LEGOのようなブロックを組み上げると本格的なオーディオ機器が完成するという「AudioBricks」プロジェクトを立ち上げ、4つのキットの販売を開始した。 LEGOと言えば、知育玩具としてだけでなく、最近はプラモデル的な商品展開も人気のLEGOブロック […]]]></summary>
+        <author>
+            <name>Munenori Taniguchi</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天文初心者にも楽しんでほしい。Unistellar CEOが語るAR双眼鏡「ENVISION」誕生秘話]]></title>
+        <id>https://gadget.phileweb.com/?p=130680</id>
+        <link href="https://gadget.phileweb.com/post-130680/"/>
+        <updated>2026-08-13T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[フランスのスタートアップ、Unistellar（ユニステラ）が、AR表示を重ね合わせながら天体観測などが楽しめるスマート双眼鏡「ENVISION（エンビジョン）」の正式発売に向けた最終段階に入った。 7月末に東京で開催されたENVISIONのプレス体験会に合わせて来日した、ユニステラの共同創業者兼C […]]]></summary>
+        <author>
+            <name>山本 敦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[スーツケースに隠し9億円相当の覚醒剤を密輸か 32歳の男、桂・カミンスキ・コーディ・信太郎容疑者を逮捕 羽田空港で今年最多量を押収]]></title>
         <id>https://itainews.com/archives/2066051.html</id>
@@ -4509,25 +4591,6 @@ in the development and deployment of UV SPAD detectors. This review presents the
 imaging with single-photon detection, this review aims to support future silicon-based complementary metal-oxide-semiconductor (CMOS) high-speed, large-format UV SPAD arrays, and their integration into next-generation imaging systems.]]></summary>
         <author>
             <name>Image Sensors World</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【えいじ】レギュラー終了に全力で物申す【有吉の壁】 #shorts]]></title>
-        <id>https://www.youtube.com/shorts/-nLHNGt5zXY</id>
-        <link href="https://www.youtube.com/shorts/-nLHNGt5zXY"/>
-        <updated>2026-07-15T11:00:37.000Z</updated>
-        <summary type="html"><![CDATA[----------------------------------------------------------------------------------------------------------------------------------------------------有吉の壁は毎週水曜...]]></summary>
-        <author>
-            <name>有吉の壁【公式】壁チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【有吉の壁】番組から皆様へ【大切なお知らせ】]]></title>
-        <id>https://www.youtube.com/watch?v=rJb3Gsi553Q</id>
-        <link href="https://www.youtube.com/watch?v=rJb3Gsi553Q"/>
-        <updated>2026-07-15T11:00:30.000Z</updated>
-        <author>
-            <name>有吉の壁【公式】壁チャンネル</name>
         </author>
     </entry>
 </feed>
