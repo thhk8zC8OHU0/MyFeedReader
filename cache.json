@@ -2748,6 +2748,16 @@
       "siteUrl": "https://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "https://image-sensors-world.blogspot.com/2026/08/ieee-4001-standard-announced.html",
+          "author": null,
+          "description": "See also IEEE blogpost: https://standards.ieee.org/beyond-standards/how-good-is-the-camera-ieee-4001-gives-answers/ \nHow good is your camera, actually? This question is addressed by the new IEEE 4001 standard, developed by a large group of people from the hyperspectral imaging community, recognizing that an improvement over current practice in this field is needed. This standard defines a set of performance characteristics that are directly comparable between cameras. It can be seen as an analog to the EMVA 1288 for image sensors, by defining a similarly comprehensive specification for complete cameras. To serve this purpose, some new characteristics have been developed for IEEE 4001. The standard also defines camera-related metadata that quantify the effects imprinted by the camera on an …",
+          "link": "https://image-sensors-world.blogspot.com/2026/08/ieee-4001-standard-announced.html",
+          "publishedOn": "2026-08-14T16:00:00.000Z",
+          "wordCount": 4161,
+          "title": "IEEE 4001 Standard announced",
+          "imageUrl": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzhFN2rLrATgSYx-Sp-9AWCyj6OK8A2wxy-ldZQkC3Zm-3ajeM-dTPoAjMS5KvyJOF6ZybnFqdL7ZK4pEwj1lFdSZ_rHvAB9wrmnhCzWuIT6Lbfa0azQVxSxb_gO4vKrb7VdO2PeG6QI5YZo1ayK_JO5ISxbNCe-LYJ2nWeKQemf2V5jeDoM37/w1200-h630-p-k-no-nu/image.png"
+        },
+        {
           "id": "https://image-sensors-world.blogspot.com/2026/08/st-releases-dtof-sensor-with-54x42.html",
           "author": null,
           "description": "STMicroelectronics unveils new compact direct Time-of-Flight 3D LiDAR module bringing high-resolution spatial awareness to compact edge AI systems with industry-leading resolution and performance\nVL53L9 is the first direct Time-of-Flight (dToF) 3D LiDAR all-in-one module in ST’s portfolio, offering a resolution of 2.3K zones, wide field of view, on-chip processing, 100 frames per second, and sensing range from 5 centimeters to 9 meters.\nDesigned to meet the evolving needs of customers and partners across diverse industries, including robotics, industrial automation, smart buildings, AR/VR, and healthcare.\nSTMicroelectronics (NYSE: STM), a global semiconductor leader serving customers across the spectrum of electronics applications, today [June 23, 2026] announced the launch of the VL53L9, …",
@@ -2844,6 +2854,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=316599",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「山芳製菓 増量 ポテトチップス わさビーフ（おかわり45％増量作戦）」を世界一詳しく調査しました。  […]",
+          "link": "https://foodfighter.jp/famima-wasabeef-zoryo",
+          "publishedOn": "2026-08-14T17:17:10.000Z",
+          "wordCount": 2045,
+          "title": "【ファミマ】山芳製菓 増量 ポテトチップス わさビーフ（おかわり45％増量作戦）【新作コンビニお菓子】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/4a1b1ebeb4b1dab1abdcfef48a8702c1.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=316578",
           "author": "foodfighter",
@@ -3624,6 +3644,16 @@
       "feedUrl": "https://note.com/hima_kuuhaku/rss",
       "siteUrl": "https://note.com/hima_kuuhaku",
       "articles": [
+        {
+          "id": "https://note.com/hima_kuuhaku/n/nbcdbd92a4da6",
+          "author": null,
+          "description": "続きをみる",
+          "link": "https://note.com/hima_kuuhaku/n/nbcdbd92a4da6",
+          "publishedOn": "2026-08-14T18:06:15.000Z",
+          "wordCount": 2447,
+          "title": "リュウジ「美味しんぼは料理監修がないから駄目」お前何いってんの",
+          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/9813cb445d67b498588e53261a75f631a58ef0fd.png"
+        },
         {
           "id": "https://note.com/hima_kuuhaku/n/nf4b063ac95af",
           "author": null,

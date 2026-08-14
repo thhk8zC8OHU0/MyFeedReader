@@ -2,10 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-14T15:10:47.947Z</updated>
+    <updated>2026-08-14T18:10:12.015Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[リュウジ「美味しんぼは料理監修がないから駄目」お前何いってんの]]></title>
+        <id>https://note.com/hima_kuuhaku/n/nbcdbd92a4da6</id>
+        <link href="https://note.com/hima_kuuhaku/n/nbcdbd92a4da6"/>
+        <updated>2026-08-14T18:06:15.000Z</updated>
+        <summary type="html"><![CDATA[続きをみる]]></summary>
+        <author>
+            <name>暇空茜</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【ファミマ】山芳製菓 増量 ポテトチップス わさビーフ（おかわり45％増量作戦）【新作コンビニお菓子】]]></title>
+        <id>https://foodfighter.jp/?p=316599</id>
+        <link href="https://foodfighter.jp/famima-wasabeef-zoryo"/>
+        <updated>2026-08-14T17:17:10.000Z</updated>
+        <summary type="html"><![CDATA[毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「山芳製菓 増量 ポテトチップス わさビーフ（おかわり45％増量作戦）」を世界一詳しく調査しました。  […]]]></summary>
+        <author>
+            <name>foodfighter</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IEEE 4001 Standard announced]]></title>
+        <id>https://image-sensors-world.blogspot.com/2026/08/ieee-4001-standard-announced.html</id>
+        <link href="https://image-sensors-world.blogspot.com/2026/08/ieee-4001-standard-announced.html"/>
+        <updated>2026-08-14T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[See also IEEE blogpost: https://standards.ieee.org/beyond-standards/how-good-is-the-camera-ieee-4001-gives-answers/ 
+How good is your camera, actually? This question is addressed by the new IEEE 4001 standard, developed by a large group of people from the hyperspectral imaging community, recognizing that an improvement over current practice in this field is needed. This standard defines a set of performance characteristics that are directly comparable between cameras. It can be seen as an analog to the EMVA 1288 for image sensors, by defining a similarly comprehensive specification for complete cameras. To serve this purpose, some new characteristics have been developed for IEEE 4001. The standard also defines camera-related metadata that quantify the effects imprinted by the camera on an …]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[阿波踊りで見物客から財布を盗んだ疑い 京都府の７３歳女を逮捕(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/965213c825ea003e6206ba84eb189db86df882a5?source=rss</id>
