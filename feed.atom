@@ -2,10 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-14T22:54:19.441Z</updated>
+    <updated>2026-08-14T23:51:14.544Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[日本で働いた外国人、出国後の住民税滞納額割合18.6％　強制徴収の仕組みなく逃げ得の状態]]></title>
+        <id>https://itainews.com/archives/2066069.html</id>
+        <link href="https://itainews.com/archives/2066069.html"/>
+        <updated>2026-08-14T23:03:25.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：：2026/08/14(金) 11:10:19.34 ID:t6/3HtQL0●.net PLT(21000)
+
+
+
+
+
+
+
+日本で働いた外国人　出国後の住民税滞納額割合18.6％　全体4.6％で目立つ徴収漏れhttps://t.co/7xuWDuHKiI納税しないまま帰国すると、徴収できない事態になりうる。前年の所得に基づき6月か...]]></summary>
+        <author>
+            <name>takakichi5346</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[２１歳スリランカ人留学生を逮捕 知人の胸を刃物で刺した疑い(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/38716afe5665e9ab8793caf45039c9aea7348f59?source=rss</id>
@@ -5659,15 +5677,6 @@ Field-validated in June 2026, Mantara is powered by Hearth, the platform succeed
         <updated>2026-07-16T13:11:14.000Z</updated>
         <author>
             <name>ジェラードンチャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[【メンタル最弱ハスキー】ビビり散らかしてとうとう立ってしまったハスキーが面白過ぎました]]></title>
-        <id>https://www.youtube.com/watch?v=rcs9GZqT9zE</id>
-        <link href="https://www.youtube.com/watch?v=rcs9GZqT9zE"/>
-        <updated>2026-07-16T11:00:08.000Z</updated>
-        <author>
-            <name>もちごめ兄弟ちゃんねる</name>
         </author>
     </entry>
 </feed>
