@@ -723,6 +723,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/38716afe5665e9ab8793caf45039c9aea7348f59?source=rss",
+          "author": null,
+          "description": "大阪市鶴見区の路上で知人男性を複数回刺して殺害しようとした疑いでスリランカ人留学生の男が逮捕されました。\n\n　警察は事件の詳しい経緯を調べています。\n\n　大阪市鶴見区に住むスリランカ国籍で留学生のナ",
+          "link": "https://news.yahoo.co.jp/articles/38716afe5665e9ab8793caf45039c9aea7348f59?source=rss",
+          "publishedOn": "2026-08-14T22:03:55.000Z",
+          "wordCount": 1650,
+          "title": "２１歳スリランカ人留学生を逮捕 知人の胸を刃物で刺した疑い(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260815-00082062-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/965213c825ea003e6206ba84eb189db86df882a5?source=rss",
           "author": null,
           "description": "阿波おどりの見物客のポーチから財布を盗んだとして徳島県警は１４日、京都府に住む女（７３）を現行犯逮捕しました。\n\n　窃盗の疑いで現行犯逮捕された京都府に住む無職の女（７３）は１４日午後７時２０分ごろ",
@@ -3008,6 +3018,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2066067.html",
+          "author": "nobi0929",
+          "description": "1 名前：nita ★：2026/08/14(金) 08:04:20.31 ID:tHmWT34Q9.net\n\n\n\n\n\n\n\n騙される方も馬鹿すぎる20代男性1万7000円被害　SNSで「性的サービスを提供する」投稿見つけ…DM送り PayPayで支払い済ませ、指定されたホテルで待つも…相手は一向に現れず　詐欺被害に気づく（Ａ...",
+          "link": "https://itainews.com/archives/2066067.html",
+          "publishedOn": "2026-08-14T22:00:50.000Z",
+          "wordCount": 3263,
+          "title": "【青森】20代男性SNSで「性的サービスを提供する」投稿にPayPayで1万6900円支払い　ホテルで待つも「あやな」は一向に現れず　詐欺被害に",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/2/a2667f2b-s.jpg"
+        },
+        {
           "id": "https://itainews.com/archives/2066081.html",
           "author": "damono3856",
           "description": "1 名前：ぐれ ★：2026/08/14(金) 15:35:02.70 ID:PELFidxu9.net\n\n\n\n\n\n\n\n市バス運転士、乗務かばんを客席に置いたまま運行し紛失…ドラレコには客がかばん持って降りる姿映る : 読売新聞 https://t.co/UOvCZuuOsh #京都市交通局— 読売新聞　大阪デジタル編集部 (@osaka_...",
@@ -3869,16 +3889,6 @@
           "publishedOn": "2026-07-19T03:00:06.000Z",
           "wordCount": null,
           "title": "【因縁？】カミナリ VS U字工事 北関東対決！【有吉の壁】【オープニング先行】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=ZByyEt2QAA4",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=ZByyEt2QAA4",
-          "publishedOn": "2026-07-16T10:00:27.000Z",
-          "wordCount": null,
-          "title": "【有吉の壁】22日水曜よる7時〜▼一般人の壁を越えろ！おもしろ那須塩原の人選手権▼第二のモナキ発掘オーディション【予告】",
           "imageUrl": null
         }
       ]
