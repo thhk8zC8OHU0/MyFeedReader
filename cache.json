@@ -6,6 +6,26 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/553/G055390/20260814033/",
+          "author": null,
+          "description": "任天堂は本日（2026年8月14日），「スプラトゥーン3」に新たなブキ「PETシューターレプリカ」を追加すると発表した。このブキは，「スプラトゥーン」シリーズ初のスピンオフ作品「スプラトゥーンレイダース」に登場するシューターだ。性能は「スプラシューターコラボ」と同じであるとされている。",
+          "link": "https://www.4gamer.net/games/553/G055390/20260814033/",
+          "publishedOn": "2026-08-14T10:30:15.000Z",
+          "wordCount": 8218,
+          "title": "「スプラトゥーン3」に新たなブキ「PETシューター レプリカ」が登場。「スプラトゥーン レイダース」のクリアデータがあれば入手可能",
+          "imageUrl": "https://www.4gamer.net/games/553/G055390/20260814033/SS/001.png"
+        },
+        {
+          "id": "https://www.4gamer.net/games/900/G090093/20260814031/",
+          "author": null,
+          "description": "FireshineGamesは2026年8月13日，WeirdBelugaが開発した新作タイトル「Duskfade」をリリースした。本作は，謎の時計塔の影響で永遠の闇に飲み込まれてしまった世界を舞台に，主人公の「ジリアン」が相棒の機械鳥「クックー」とともに塔から姉を助け出す，3Dアクションプラットフォーマーだ。",
+          "link": "https://www.4gamer.net/games/900/G090093/20260814031/",
+          "publishedOn": "2026-08-14T10:13:00.000Z",
+          "wordCount": 8467,
+          "title": "クロックパンクの世界をさまざまなアクションで冒険する3DプラットフォームADV「Duskfade」，配信開始",
+          "imageUrl": "https://www.4gamer.net/games/900/G090093/20260814031/SS/003.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/958/G095815/20260814018/",
           "author": null,
           "description": "任天堂は本日（2026年8月14日），「あつまれどうぶつの森」の新グッズを発売した。今回発売されたグッズは，作中の航空会社「ドードー・エアラインズ」や「リゾートホテル」などをモチーフにしたものだ。スノーグローブ，キーホルダーセット，タオルマット，Tシャツ＆バンダナなどのグッズが販売されている。",
@@ -702,6 +722,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/6938da076574e17767e448df40efef7113463718?source=rss",
+          "author": null,
+          "description": "阪神高速環状線で、飲酒して車を時速約１６０キロで運転して死亡事故を起こしたとして、建設作業員の丸岡航太被告（２２）が危険運転致死の罪で起訴されました。\n\n　事故現場の最高速度は６０キロでした。",
+          "link": "https://news.yahoo.co.jp/articles/6938da076574e17767e448df40efef7113463718?source=rss",
+          "publishedOn": "2026-08-14T11:50:52.000Z",
+          "wordCount": 1661,
+          "title": "速度超過による危険運転致死傷罪　大阪で初の立件　阪神高速環状線で飲酒し時速約１６０キロ走行で死亡事故　２２歳の男を起訴(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00082059-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/58981eb166479b7f5569372d9a22a70f8b479ed4?source=rss",
+          "author": null,
+          "description": "沖縄県名護市辺野古沖で、同志社国際高校の生徒らを乗せた船が転覆し２人が死亡した事故で、亡くなった女子生徒の遺族が１４日、学校側に対し「教育活動の適切性」について、中立性を確保して検証するよう求める緊",
+          "link": "https://news.yahoo.co.jp/articles/58981eb166479b7f5569372d9a22a70f8b479ed4?source=rss",
+          "publishedOn": "2026-08-14T10:02:58.000Z",
+          "wordCount": 1691,
+          "title": "辺野古転覆事故　亡くなった女子生徒の遺族が学校（同志社）側に「教育活動の適切性」について中立性を確保して検証するよう求める緊急要望書を提出(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00082058-asahibcv-000-2-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/a6092c40ef9dd3c5f6e9074b5c5c1a747d3d9fc5?source=rss",
+          "author": null,
+          "description": "終戦前日に多くの市民が亡くなった「京橋大空襲」の遺族らが、犠牲者を追悼しました。\n\n　ＪＲ京橋駅にある京橋大空襲の慰霊碑前では、遺族や関係者らが出席し、毎年８月１４日に慰霊祭が営まれています。",
+          "link": "https://news.yahoo.co.jp/articles/a6092c40ef9dd3c5f6e9074b5c5c1a747d3d9fc5?source=rss",
+          "publishedOn": "2026-08-14T09:37:11.000Z",
+          "wordCount": 1684,
+          "title": "戦後８１年　大阪・京橋駅空襲の遺族らが犠牲者追悼する慰霊祭営まれる　地元の中学生も参加「平和の尊さをこれからも考え続けていきたい」(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00082057-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/3b27a315160447e5bd4ab7e4d7c3a67590606ada?source=rss",
           "author": null,
@@ -2775,6 +2825,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=316578",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「大盛ミートソース（おかわり45％増量作戦）」を世界一詳しく調査しました。   【ファミマ】 […]",
+          "link": "https://foodfighter.jp/famima-meat-sauce-zoryo",
+          "publishedOn": "2026-08-14T11:08:58.000Z",
+          "wordCount": 2029,
+          "title": "【ファミマ】大盛ミートソース（おかわり45％増量作戦）【新作コンビニ弁当】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/23a25b4ed51634338469cfd53381973d.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=316560",
           "author": "foodfighter",
           "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、”みんなの食卓でありたい。”安全・安心にこだわった牛めしが食べられる牛丼チェーン「松屋」へ進撃しました […]",
@@ -2907,6 +2967,46 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066080.html",
+          "author": "damono3856",
+          "description": "1 名前：おっさん友の会 ★：2026/08/14(金) 17:38:10.27 ID:xk8IxTS49.net\n\n\n\n\n\n\n\nイギリスから家族と旅行中の12歳女子中学生が行方不明　東京・大田区の民泊施設を1人で出た様子が防犯カメラに映る　警視庁が情報提供呼びかけ https://t.co/SmHEG8Me7f— TBS NEWS DIG ...",
+          "link": "https://itainews.com/archives/2066080.html",
+          "publishedOn": "2026-08-14T11:31:35.000Z",
+          "wordCount": 3286,
+          "title": "イギリスから家族と旅行中の12歳女子中学生が行方不明　東京・大田区の民泊施設から姿消す",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/5/a5b7c272-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066063.html",
+          "author": "damono3856",
+          "description": "1 名前：煮卵 ★：2026/08/14(金) 00:33:33.02 ID:gbsccMAK9.net\n\n\n\n\n\n\n\n190万円持ってベンチで寝るなんて、どんな神経しているのか？ベンチで寝込んでいる男性のリュック盗んだか…中には現金190万円　「寝ている人の財布を盗もうとしている」との通報から警察官に見つ...",
+          "link": "https://itainews.com/archives/2066063.html",
+          "publishedOn": "2026-08-14T11:02:21.000Z",
+          "wordCount": 3204,
+          "title": "【静岡】ベンチで寝込んでいる男性のリュック盗んだか…中には現金190万円　窃盗の疑いで男を逮捕",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/d/1de67bd8-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066070.html",
+          "author": "damono3856",
+          "description": "1 名前：もん様！：2026/08/14(金) 11:27:15.60 ID:EDLul17m0●.net\n\n\n\n\n\n\n\n千葉の記録的大雨　タクシー水没で客の女性（66）など計4人死亡1人不明1人軽傷　床上浸水45件　床下浸水39件　自衛隊が帰宅困難者を輸送 https://t.co/FMJhDmx3pf— FNNプライムオンライン (@FN...",
+          "link": "https://itainews.com/archives/2066070.html",
+          "publishedOn": "2026-08-14T10:31:14.000Z",
+          "wordCount": 3606,
+          "title": "タクシー水没でお客さん死亡　運ちゃん逃げ切る",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/a/5a094a40-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066062.html",
+          "author": "damono3856",
+          "description": "1 名前：ぐれ ★：2026/08/13(木) 23:56:44.23 ID:UtyTgszc9.net\n\n\n\n\n\n\n\n高市首相の｢消費税減税｣で日本が終わる…国民にいい顔をしたいだけの政策で地方に1.6兆円を押し付ける無責任 https://t.co/BKpwiP8eED— PRESIDENT Online / プレジデントオンライン (@Pre_Online)...",
+          "link": "https://itainews.com/archives/2066062.html",
+          "publishedOn": "2026-08-14T10:01:59.000Z",
+          "wordCount": 4632,
+          "title": "高市首相の｢消費税減税｣で日本が終わる…国民にいい顔をしたいだけの政策で地方に1.6兆円を押し付ける無責任",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/1/e/1ec7fddd-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066061.html",
           "author": "damono3856",
@@ -3562,6 +3662,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC-ASnhD1JXr-AISPr0tv_OA",
       "articles": [
         {
+          "id": "https://www.youtube.com/watch?v=4ssJZ6WHr5c",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=4ssJZ6WHr5c",
+          "publishedOn": "2026-08-14T10:00:23.000Z",
+          "wordCount": null,
+          "title": "【有吉の壁】19日水曜よる7時～▼一般人の壁を越えろ！EBiDANライブの人選手権！【予告】",
+          "imageUrl": null
+        },
+        {
           "id": "https://www.youtube.com/shorts/MwpTrT6y15Q",
           "author": null,
           "description": "----------------------------------------------------------------------------------------------------------------------------------------------------有吉の壁は毎週水曜...",
@@ -3704,6 +3814,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJopoT40y_vazwcaYc2LAg",
       "siteUrl": "https://www.youtube.com/channel/UCqJopoT40y_vazwcaYc2LAg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/OJUCDHDcfpY",
+          "author": null,
+          "description": "フルの動画は関連動画からご覧いただけます！【Special Thanks】　Composer→光田康典 Yasunori Mitsuda@squareenix @squareenixmusicchannel9893 ​⁠#クロノトリガー #chronotrigger #gamemusic #retrogaming...",
+          "link": "https://www.youtube.com/shorts/OJUCDHDcfpY",
+          "publishedOn": "2026-08-14T11:12:34.000Z",
+          "wordCount": 3120,
+          "title": "【クロノ・トリガー名曲20選】クラリネットだけで吹いてみたメドレー！（前半）#クロノトリガー #chronotrigger #クラリネット #gamemusic #clarinet #ゲーム音楽",
+          "imageUrl": "https://i.ytimg.com/vi/OJUCDHDcfpY/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLBsD_GKbMwpJAcXQ_cwezx5wpgKXA&usqp=CCk"
+        },
         {
           "id": "https://www.youtube.com/watch?v=DzHyhewV3x4",
           "author": null,
@@ -3872,6 +3992,16 @@
       "siteUrl": "https://www.youtube.com/channel/UC8dQYBMH_mW_gXlSIusty7g",
       "articles": [
         {
+          "id": "https://www.youtube.com/shorts/v6DQEmQ31d0",
+          "author": null,
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "link": "https://www.youtube.com/shorts/v6DQEmQ31d0",
+          "publishedOn": "2026-08-14T11:00:06.000Z",
+          "wordCount": 3299,
+          "title": "犬と心が通じ合うと起こる事… #柴犬 #shortvideo",
+          "imageUrl": "https://i.ytimg.com/vi/v6DQEmQ31d0/oardefault.jpg?sqp=-oaymwEkCJUDENAFSFqQAgHyq4qpAxMIARUAAAAAJQAAyEI9AICiQ3gB&rs=AOn4CLB3s-F-eWP1rL-nrgc9RnEe7cRPfg&usqp=CCk"
+        },
+        {
           "id": "https://www.youtube.com/watch?v=AeWm-Fz7dc0",
           "author": null,
           "description": "",
@@ -3958,6 +4088,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCplhkHsYKxXjTde1lq8F-4w",
       "siteUrl": "https://www.youtube.com/channel/UCplhkHsYKxXjTde1lq8F-4w",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=rgkBr5MNhQs",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=rgkBr5MNhQs",
+          "publishedOn": "2026-08-14T11:01:40.000Z",
+          "wordCount": null,
+          "title": "なぜかリモコンが大好きな猫を撫で回したらこうなっちゃいました笑",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=gSa_Ng3wyBA",
           "author": null,
@@ -4242,6 +4382,66 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/column/animehack_editors/127225/",
+          "author": null,
+          "description": "8月14日午後9時から、日本テレビ系「金曜ロードショー」にて宮﨑駿監督の「風の谷のナウシカ」が放送されます。宮﨑監督がアニメ専門誌「アニメージュ」で連載していた同名漫画を、自身で1984年に映画...",
+          "link": "https://anime.eiga.com/news/column/animehack_editors/127225/",
+          "publishedOn": "2026-08-14T12:00:00.000Z",
+          "wordCount": 890,
+          "title": "「風の谷のナウシカ」あらすじ、声優まとめ　スタジオジブリ第0作、宮﨑駿作品に連続出演した島本須美",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127237/",
+          "author": null,
+          "description": "テレビアニメ「新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦」の放送が9月30日からスタートすることが決定し、畠中祐、川島零士、長岡龍歩、潘めぐみの出演が明らかになった。PV...",
+          "link": "https://anime.eiga.com/news/127237/",
+          "publishedOn": "2026-08-14T12:00:00.000Z",
+          "wordCount": 852,
+          "title": "「新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦」9月30日放送開始　スペイン代表役に畠中祐、川島零士、長岡龍歩、潘めぐみ",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/127233/",
+          "author": null,
+          "description": "アニメ「邪神ちゃんドロップキック」のテレビシリーズほか全37話が、8月20日までの期間限定でYouTubeの「公式邪神ちゃんねる」で無料配信されている。 熊本復興応援チャリティー企画の一環として...",
+          "link": "https://anime.eiga.com/news/127233/",
+          "publishedOn": "2026-08-14T11:00:00.000Z",
+          "wordCount": 802,
+          "title": "「邪神ちゃんドロップキック」全37話を無料配信　収益を熊本地震復興支援のため寄付",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
+          "id": "https://anime.eiga.com/news/column/tokuten_list/127230/",
+          "author": null,
+          "description": "コラム「アニメ入場特典リスト」では、アニメ、2.5次元作品、特撮、漫画原作の作品を中心に今後配布される主な入場特典（入場者特典、入場者プレゼント、来場者特典）を紹介する。 今週末は、本日公開の「...",
+          "link": "https://anime.eiga.com/news/column/tokuten_list/127230/",
+          "publishedOn": "2026-08-14T10:00:00.000Z",
+          "wordCount": 987,
+          "title": "【入場特典リスト 8月最新版】本日公開「パトレイバー EZY File 2」に注目　「映画ちいかわ」の特典は？",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127232/",
           "author": null,
