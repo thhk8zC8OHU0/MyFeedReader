@@ -723,6 +723,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/d80ea129129e5339d87c94d37e975f3b3153e445?source=rss",
+          "author": null,
+          "description": "夏の高校野球、第１１日第３試合は三重（三重）と履正社（大阪）が対戦し、５－２で三重が勝利しました。",
+          "link": "https://news.yahoo.co.jp/articles/d80ea129129e5339d87c94d37e975f3b3153e445?source=rss",
+          "publishedOn": "2026-08-15T07:16:32.000Z",
+          "wordCount": 1630,
+          "title": "【夏の高校野球】三重（三重）が履正社（大阪）に５－２で勝利　第１１日第３試合(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260815-00082065-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/76dd29c36c95df62003adf24f398c8dec7f10c6f?source=rss",
           "author": null,
           "description": "夏の高校野球、第１１日第２試合は智弁和歌山（和歌山）と 敦賀気比（福井）が対戦し、延長タイブレークの末、７－３で智弁和歌山が勝利しました。",
@@ -2945,6 +2955,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=316617",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「増量 3色そぼろ＆チキン南蛮弁当（おかわり45％増量作戦）」を世界一詳しく調査しました。 &nbsp […]",
+          "link": "https://foodfighter.jp/famima-soboro-bento-zoryo",
+          "publishedOn": "2026-08-15T06:16:38.000Z",
+          "wordCount": 2037,
+          "title": "【ファミマ】増量 3色そぼろ＆チキン南蛮弁当（おかわり45％増量作戦）【新作コンビニ弁当】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/7c4cc4da1d23a8042758c40536e71733.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=316599",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、ファミリーマートの新商品「山芳製菓 増量 ポテトチップス わさビーフ（おかわり45％増量作戦）」を世界一詳しく調査しました。  […]",
@@ -3097,6 +3117,36 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066092.html",
+          "author": "damono3856",
+          "description": "1 名前：煮卵 ★：2026/08/14(金) 20:52:58.16 ID:SQKUsKsF9.net\n\n\n\n\n\n\n\n不法残留と知りながらベトナム人男女3人を解体工事現場で働かせた疑いで逮捕 トルコ人男性を不起訴処分(東海テレビ)#Yahooニュースhttps://t.co/bje0YqRVN3— speedworker777 (@speedworker777) Au...",
+          "link": "https://itainews.com/archives/2066092.html",
+          "publishedOn": "2026-08-15T07:02:13.000Z",
+          "wordCount": 3184,
+          "title": "【愛知】不法残留と知りながらベトナム人男女3人を解体工事現場で働かせた疑い 逮捕のトルコ人男を不起訴処分",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/5/752885fc-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066095.html",
+          "author": "nobi0929",
+          "description": "1 名前：お断り ★：2026/08/15(土) 07:47:34.68 ID:rDhVUdaj9.net\n\n\n\n\n\n\n\n【速報】小泉防衛大臣　靖国神社参拝 #FNNプライムオンライン https://t.co/0G495aTPCU— FNNプライムオンライン (@FNN_News) August 14, 2026 \n\n\n\n\n\n\n\n\n\n\n\n【速報】小泉防衛相が靖国神社を参拝...",
+          "link": "https://itainews.com/archives/2066095.html",
+          "publishedOn": "2026-08-15T06:30:31.000Z",
+          "wordCount": 3738,
+          "title": "【速報】 小泉防衛相が靖国神社を参拝",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/d/adc25cd3-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2066091.html",
+          "author": "damono3856",
+          "description": "1 名前：♪♪♪ ★：2026/08/14(金) 18:55:09.53 ID:hwHGEc6G9.net\n\n\n\n\n\n\n\n乳歯20本が全部虫歯、前歯が折れていても放置…小児専門歯科医が明かす「歯の治療をしてもらえない子どもたち」の実態 https://t.co/DX7XxeZgqW https://t.co/j6znYtzQdm— AERA DIGITAL (@dot_a...",
+          "link": "https://itainews.com/archives/2066091.html",
+          "publishedOn": "2026-08-15T06:01:08.000Z",
+          "wordCount": 3316,
+          "title": "乳歯20本が全部虫歯、前歯が折れていても放置…小児専門歯科医が明かす「歯の治療をしてもらえない子どもたち」の実態",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/3/2/32959c19-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066088.html",
           "author": "nobi0929",
