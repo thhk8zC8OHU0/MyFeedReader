@@ -723,6 +723,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/76dd29c36c95df62003adf24f398c8dec7f10c6f?source=rss",
+          "author": null,
+          "description": "夏の高校野球、第１１日第２試合は智弁和歌山（和歌山）と 敦賀気比（福井）が対戦し、延長タイブレークの末、７－３で智弁和歌山が勝利しました。",
+          "link": "https://news.yahoo.co.jp/articles/76dd29c36c95df62003adf24f398c8dec7f10c6f?source=rss",
+          "publishedOn": "2026-08-15T04:47:42.000Z",
+          "wordCount": 1644,
+          "title": "【夏の高校野球】智弁和歌山（和歌山）が 敦賀気比（福井）に７－３で勝利　第１１日第２試合(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260815-00082064-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/549bf657923c52ede2449580c31f091602d876d4?source=rss",
+          "author": null,
+          "description": "徳島県鳴門市の踏切付近で、鉄道の撮影をしていた男性を車でひき殺そうとしたとして、男が逮捕されました。「びびらせてやろうと思った」と話しているということです。\n\n　殺人未遂などの疑いで逮捕された吉田政",
+          "link": "https://news.yahoo.co.jp/articles/549bf657923c52ede2449580c31f091602d876d4?source=rss",
+          "publishedOn": "2026-08-15T03:22:24.000Z",
+          "wordCount": 1647,
+          "title": "「撮り鉄」と踏切付近でトラブルか　車で男性をひき殺そうとした疑い　５５歳男を逮捕　徳島・鳴門市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260815-00082063-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/38716afe5665e9ab8793caf45039c9aea7348f59?source=rss",
           "author": null,
           "description": "大阪市鶴見区の路上で知人男性を複数回刺して殺害しようとした疑いでスリランカ人留学生の男が逮捕されました。\n\n　警察は事件の詳しい経緯を調べています。\n\n　大阪市鶴見区に住むスリランカ国籍で留学生のナ",
@@ -3077,6 +3097,36 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066084.html",
+          "author": "dqnplus",
+          "description": "1 ：♪♪♪ ★：2026/08/14(金) 18:58:32.55 ID:hwHGEc6G9.net\n\n\n\n\n\n\n\n\n\n女性だと思い声をかけてホテルへ、実は男だった　誘ってきた20代男性を昏睡状態にさせ現金奪った疑い　マレーシア国籍の男逮捕 https://t.co/VAMIw0aGOq #昏睡状態 #マレーシア #ムハンマド #マレ...",
+          "link": "https://itainews.com/archives/2066084.html",
+          "publishedOn": "2026-08-15T04:31:46.000Z",
+          "wordCount": 3149,
+          "title": "女性だと思いホテルへ、実は男だった　誘ってきた20代男性を昏睡状態にさせ現金奪った疑い　マレーシア国籍の男逮捕",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/3/e3fd96ff-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066082.html",
+          "author": "dqnplus",
+          "description": "1 ：鉄チーズ烏 ★：2026/08/14(金) 17:06:43.40 ID:uoN/r5cF9.net\n\n\n\n\n\n\n\n\n\n\n『マトリックス』監督が激白！キャストが「全員トランスジェンダー」の新作、ハリウッドに出資拒否される - THR Japan https://t.co/roBsU34q65— セクマイ(LGBTAPXDQQs)🏳️‍🌈🏳️‍⚧️ト...",
+          "link": "https://itainews.com/archives/2066082.html",
+          "publishedOn": "2026-08-15T04:01:15.000Z",
+          "wordCount": 3352,
+          "title": "【映画】『マトリックス』監督が激白！キャストが「全員トランスジェンダー」の新作、ハリウッドに出資拒否される",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/f/9ff9d5fb-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066078.html",
+          "author": "dqnplus",
+          "description": "1 ：それでも動く名無し：2026/08/14(金) 12:42:08.16 ID:c3aqAm2v0.net\n\n\n\n\n\n\n\n\n\n「女子枠はおかしい」と憤っている男子高校生・浪人生が少なくないようです。そうした憤りを抱くのであれば、他の差別にも目を向けてください。人種差別、女性差別、学歴差別、職業差別、...",
+          "link": "https://itainews.com/archives/2066078.html",
+          "publishedOn": "2026-08-15T03:31:12.000Z",
+          "wordCount": 3918,
+          "title": "九大教授「女子枠にキレてる男子多いらしいけど、そんな差別が嫌なら他の差別にもキレろやw」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/c/bcd0e428-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066076.html",
           "author": "dqnplus",
