@@ -4873,6 +4873,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/127120/",
+          "author": null,
+          "description": "ディズニー＆ピクサーの「カーズ」公開20周年を記念して、同作が9月4～10日の1週間限定で全国劇場上映（日本語吹き替え版）されることが決定。あわせて、20周年を記念した特別なビジュアル（※後日公...",
+          "link": "https://anime.eiga.com/news/127120/",
+          "publishedOn": "2026-08-15T12:00:00.000Z",
+          "wordCount": 718,
+          "title": "「カーズ」公開20周年、9月4日から1週間限定で劇場上映　入場特典は特別なビジュアルのポストカード",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/127221/",
           "author": null,
           "description": "テレビアニメ「ゲーム世界転生〈ダン活〉～ゲーマーは【ダンジョン就活のススメ】を〈はじめから〉プレイする～」の放送が2027年1月からスタートすることが決定し、主人公のゼフィルス役を上村祐翔が務め...",

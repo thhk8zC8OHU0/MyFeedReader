@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-15T11:41:11.241Z</updated>
+    <updated>2026-08-15T12:00:37.449Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「カーズ」公開20周年、9月4日から1週間限定で劇場上映　入場特典は特別なビジュアルのポストカード]]></title>
+        <id>https://anime.eiga.com/news/127120/</id>
+        <link href="https://anime.eiga.com/news/127120/"/>
+        <updated>2026-08-15T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[ディズニー＆ピクサーの「カーズ」公開20周年を記念して、同作が9月4～10日の1週間限定で全国劇場上映（日本語吹き替え版）されることが決定。あわせて、20周年を記念した特別なビジュアル（※後日公...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[味の素リュウジが再現した美味しんぼうどんは出来損ないだという話]]></title>
         <id>https://note.com/hima_kuuhaku/n/n12b7c9bcc039</id>
