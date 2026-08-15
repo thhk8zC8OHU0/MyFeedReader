@@ -1550,6 +1550,56 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/c5y4zzvnj10o#0",
+          "author": null,
+          "description": "英ケンブリッジ大学の元教授で、盗作疑惑の中心人物だったジェイソン・アーデイ氏（41）が14日、死亡しているのが発見された。アーデイ氏は2023年、37歳でケンブリッジ大学史上最年少の黒人教授に任命されたが、盗作疑惑といくつかの経歴に関する疑惑を受けて先週、ケンブリッジ大学の教育社会学教授を辞任したばかりだった。同氏はこれらの疑惑を否定していた。",
+          "link": "https://www.bbc.com/japanese/articles/c5y4zzvnj10o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-15T02:25:11.000Z",
+          "wordCount": 1752,
+          "title": "英ケンブリッジ大の元教授を遺体で発見、盗作疑惑の渦中に",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/e1f2/live/c7b603c0-91a2-11f1-964d-6f76397ea067.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cj9dggljr4zo#0",
+          "author": null,
+          "description": "ベルギーで家屋を改築していた建設業者がこのほど、地下室の壁に封じ込められていた、推定900万ユーロ（約16.6億円）相当の金塊を発見した。",
+          "link": "https://www.bbc.com/japanese/articles/cj9dggljr4zo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-15T02:24:34.000Z",
+          "wordCount": 1726,
+          "title": "ベルギーで家屋の壁に16億円超相当の金塊と金貨、改修工事の作業員が発見",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/2945/live/c7871a50-97de-11f1-bb4c-d758974ed97b.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cx27ddk449do#0",
+          "author": null,
+          "description": "BBCは、ドナルド・トランプ米大統領がBBCを相手に少なくとも100億ドル（約1兆6000億円）の損害賠償を請求している訴訟について、トランプ氏の家族に文書提出と証言を求める召喚状の送達を認めるよう裁判所に求めている。",
+          "link": "https://www.bbc.com/japanese/articles/cx27ddk449do?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-15T02:09:34.000Z",
+          "wordCount": 1865,
+          "title": "BBC、トランプ氏の家族への召喚状送達を裁判所に求める　「パノラマ」訴訟で",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/8bb9/live/bd08d920-982d-11f1-8cf9-eb47c9176e95.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cd69epv88ylo#0",
+          "author": null,
+          "description": "米保険会社の最高経営責任者（CEO）を米ニューヨーク・マンハッタンで射殺した罪で起訴されているルイージ・マンジョーネ被告（28）は14日、殺害を認めた。複数の州で相手を尾行し死亡させるという連邦法違反について、罪状認否で有罪を認めた。",
+          "link": "https://www.bbc.com/japanese/articles/cd69epv88ylo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-15T00:34:15.000Z",
+          "wordCount": 1809,
+          "title": "マンジョーネ被告、米保険会社CEO殺害を認める",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/475a/live/4ceb94d0-9827-11f1-87b9-bf39baa58377.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cn4ndpvn23yo#0",
+          "author": null,
+          "description": "イスラエル占領下のパレスチナ・ヨルダン川西岸地区の村で、イスラエル人入植者らがパレスチナ人住民の住宅を包囲している問題で、人道支援の活動家らは14日、閉じ込められている住民に物資を届けようと試みた。",
+          "link": "https://www.bbc.com/japanese/articles/cn4ndpvn23yo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-15T00:17:41.000Z",
+          "wordCount": 1958,
+          "title": "包囲されたパレスチナ人住宅に活動家が支援物資届けようと　イスラエル人入植者は再びテント設置　ヨルダン川西岸地区",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/3f4a/live/021031f0-97fa-11f1-870d-5d08c49babb2.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/crk5vxr2yy2o#0",
           "author": null,
           "description": "米首都ワシントンの総合文化施設「ジョン・F・ケネディ舞台芸術センター」の理事会は13日、同施設の外壁にドナルド・トランプ大統領の名前を再び追加することを決定した。",
@@ -2631,6 +2681,16 @@
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
         {
+          "id": "https://atsugi-lab.com/?p=60988",
+          "author": "fumie",
+          "description": "夏バテ知らずで、暑い日ほどたくさん食べてしまうふみえ＠あつらぼです。（普段よりエネルギーを消耗している気分になるのです…！） 今回は、そんな「夏でもガッツリ食べたい！」派の皆様へ、朗報ですよー☆ 本厚木駅からすぐの場所に、とんかつの名店が手…",
+          "link": "https://atsugi-lab.com/open-ippekoppe-atsugi202608/",
+          "publishedOn": "2026-08-15T01:58:38.000Z",
+          "wordCount": 835,
+          "title": "【開店予定】都内で有名なとんかつの名店が手掛ける「とんかつ檍のカレー屋 いっぺこっぺ」8月26日グランドオープン予定！［厚木市泉町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/08/ippekoppe202608.jpg"
+        },
+        {
           "id": "https://atsugi-lab.com/?p=61060",
           "author": "fumie",
           "description": "こんにちは、ふみえ＠あつらぼです。 姉妹サイト海老名らぼ で特に話題になっている情報だけ、不定期ですが厚木らぼでもピックアップでお伝えしています。 今回は、海老名の人気ラーメン店2店の来訪レポートや、海老名駅西口エリアで開催されるイベント情…",
@@ -3017,6 +3077,56 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066076.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/08/14(金) 14:36:05.93 ID:sTeqY1i60●.net \n\n\n\n\n\n\n\n\n\n\nこちらの「志村義人」氏は回天搭乗員ではありません。「UTY テレビ山梨」様は志村氏の証言ありきで史料からの裏付け作業を行わないまま放送したのではありませんか？なぜ「UTY テレビ山梨」は史実にそぐ...",
+          "link": "https://itainews.com/archives/2066076.html",
+          "publishedOn": "2026-08-15T03:01:52.000Z",
+          "wordCount": 3061,
+          "title": "96歳「回天搭乗員でもう少しで出撃するとこだったんじゃ」ミリオタ「ダウト、名簿にあんたの名前無い」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/b/eb0efc4d.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066077.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/08/14(金) 14:43:19.66 ID:frciZato0●.net \n\n\n\n\n\n\n\n\n\n\n女子達のカフェ会話「年収二千万以下は男として認めない」に対し…片岡凜が痛烈一言 - 芸能 : 日刊スポーツ https://t.co/wlf3I0PqO2— Ghost of kyiv (@fling_elk) August 13, 2026 \n\n\n\n\n\n\n\n\nhttps://w...",
+          "link": "https://itainews.com/archives/2066077.html",
+          "publishedOn": "2026-08-15T02:31:54.000Z",
+          "wordCount": 3418,
+          "title": "女子達のカフェ会話「年収二千万以下は男として認めない」に対し…片岡凜が痛烈一言",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/0/e0ba8b61-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066083.html",
+          "author": "takakichi5346",
+          "description": "1 名前：nita ★：2026/08/14(金) 17:37:31.65 ID:CK0Bw0n69.net\n\n\n\n\n\n\n\n実は妻ではない女性とラブホテルに　バスローブ姿でたばこ吸いオンライン会見　秋田県推進監を停職6ヵ月など懲戒処分 https://t.co/QTfedJdOmt— FNNプライムオンライン (@FNN_News) August 14, 20...",
+          "link": "https://itainews.com/archives/2066083.html",
+          "publishedOn": "2026-08-15T02:00:38.000Z",
+          "wordCount": 3397,
+          "title": "【🏩】実は妻ではない女性とラブホテルに　バスローブ姿でたばこ吸いオンライン会見　秋田県職員を停職6ヵ月など懲戒処分",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/9/59e83ccf-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066074.html",
+          "author": "takakichi5346",
+          "description": "1 名前：ぐれ ★：2026/08/14(金) 14:01:59.92 ID:PELFidxu9.net\n\n\n\n\n\n\n\nロシアに対抗措置検討 － 政府、制裁強化浮上かhttps://t.co/LDb20rBmHA— 共同通信公式 (@kyodo_official) August 14, 2026 \n\n\n\n\n\n\n8/14(金) 13:23\n共同通信\n\n　日本政府は14日、ロシアのプーチン...",
+          "link": "https://itainews.com/archives/2066074.html",
+          "publishedOn": "2026-08-15T01:01:26.000Z",
+          "wordCount": 4083,
+          "title": "ロシアに対抗措置検討　政府、制裁強化浮上か",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/5/e5fb8c78-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066073.html",
+          "author": "takakichi5346",
+          "description": "1 名前：少考さん ★：2026/08/14(金) 12:46:46.48 ID:Vpgbp3nE9.net\n\n\n\n\n\n\n\n「風呂キャン」流行で救われた人々　入浴は「日本人の美しい風習」か https://t.co/Mc37ij5KYi— 朝日新聞(asahi shimbun） (@asahi) August 14, 2026 \n\n\n\n\n\n\n「風呂キャン」流行で救われた人...",
+          "link": "https://itainews.com/archives/2066073.html",
+          "publishedOn": "2026-08-15T00:04:17.000Z",
+          "wordCount": 3830,
+          "title": "「風呂キャン」流行で救われた人々　入浴は「日本人の美しい風習」か",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/1/e1e6dc4c-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066069.html",
           "author": "takakichi5346",
@@ -4483,6 +4593,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/127227/",
+          "author": null,
+          "description": "「ポケットモンスター」のアニメ「POKÉTOON」シリーズの最新作「カメールと、夏のつづき」が、ポケモン公式YouTubeチャンネルで公開された。 「POKÉTOON」シリーズは、作品ごとにポケ...",
+          "link": "https://anime.eiga.com/news/127227/",
+          "publishedOn": "2026-08-15T03:00:00.000Z",
+          "wordCount": 809,
+          "title": "ポケモンアニメ「POKÉTOON」最新作「カメールと、夏のつづき」公開　監督は「超かぐや姫！」の山下清悟",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/127229/",
           "author": null,
           "description": "現在大ヒット公開中のディズニー＆ピクサーの人気シリーズ最新作「トイ・ストーリー5」が快進撃を続けている。累計興行収入が110億円を突破し、歴代ピクサー作品として史上最高となる記録を打ち立てた。 ...",
@@ -5092,16 +5217,6 @@
           "publishedOn": "2026-07-18T13:27:22.000Z",
           "wordCount": null,
           "title": "一目見ただけでヤバそうな病気に罹った患者が来て、終わり悟った【ジェラードン】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=V-zczfaGx5M",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=V-zczfaGx5M",
-          "publishedOn": "2026-07-16T13:11:14.000Z",
-          "wordCount": null,
-          "title": "ホストクラブに４年に１度現れる、伝説の激イタ客が来店【ジェラードン】",
           "imageUrl": null
         }
       ]
