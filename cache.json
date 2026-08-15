@@ -723,6 +723,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/ef9c222ecd70108e80ff1cd8e41b1b6964d450de?source=rss",
+          "author": null,
+          "description": "１５日午後、奈良県十津川村で、川遊びをしていたベトナム国籍の男性が溺れ、意識不明の状態で病院に搬送されましたが、死亡しました。\n\n　警察によりますと、１５日午後０時半ごろ、奈良県十津川村上野地で、オ",
+          "link": "https://news.yahoo.co.jp/articles/ef9c222ecd70108e80ff1cd8e41b1b6964d450de?source=rss",
+          "publishedOn": "2026-08-15T09:48:11.000Z",
+          "wordCount": 1645,
+          "title": "川遊び中のベトナム国籍の男性　溺れて死亡　奈良・十津川村(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260815-00082066-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/d80ea129129e5339d87c94d37e975f3b3153e445?source=rss",
           "author": null,
           "description": "夏の高校野球、第１１日第３試合は三重（三重）と履正社（大阪）が対戦し、５－２で三重が勝利しました。",
@@ -3117,6 +3127,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066093.html",
+          "author": "damono3856",
+          "description": "1 名前：♪♪♪ ★：2026/08/15(土) 00:58:50.55 ID:IMv4PNkP9.net\n\n\n\n\n\n\n\nロシア外相が日本批判“アメリカと協力して軍事化”https://t.co/02m2N1PUcn #nhk_news— NHKニュース (@nhk_news) August 14, 2026  \n\n\n\n\n\n\nhttps://news.web.nhk/newsweb/na/nd-20260814de4417...",
+          "link": "https://itainews.com/archives/2066093.html",
+          "publishedOn": "2026-08-15T09:03:33.000Z",
+          "wordCount": 3469,
+          "title": "ロシア外相が日本批判「アメリカと協力して軍事化」　色丹住民はプーチン氏を支持、日本側の反応に不満",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/9/09e514e0-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066090.html",
           "author": "nobi0929",
