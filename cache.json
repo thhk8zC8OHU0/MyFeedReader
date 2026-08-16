@@ -733,6 +733,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/c625646174cac473ebc780bf797f72d653f90364?source=rss",
+          "author": null,
+          "description": "夏の高校野球、第１２日第４試合は横浜（神奈川）と霞ケ浦（茨城）が対戦し、５－２で横浜が勝利しました。",
+          "link": "https://news.yahoo.co.jp/articles/c625646174cac473ebc780bf797f72d653f90364?source=rss",
+          "publishedOn": "2026-08-16T08:07:11.000Z",
+          "wordCount": 1629,
+          "title": "【夏の高校野球】横浜（神奈川）が霞ケ浦（茨城）に５－２で勝利　第１２日第４試合(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260816-00082074-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/8d400bcd053418593f67b1a49bfc14aa8aa46e9b?source=rss",
           "author": null,
           "description": "夏の高校野球、第１２日第３試合は花巻東（岩手）と英明（香川）が対戦し、４－０で花巻東が勝利しました。",
@@ -3045,6 +3055,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=316673",
+          "author": "foodfighter",
+          "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの店舗限定「お店で焼いた明太フランス」を世界一詳しく調査しました。   【セブンイレブン】お店で焼いた […]",
+          "link": "https://foodfighter.jp/711sej-mentaiko-bread",
+          "publishedOn": "2026-08-16T08:17:12.000Z",
+          "wordCount": 2031,
+          "title": "【セブンイレブン】お店で焼いた明太フランス【セブンカフェベーカリー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/ffa6637a406da6ce10e78e17ee9b9146.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=316661",
           "author": "foodfighter",
           "description": "毎日、チェーン店の新メニュー、コンビニ新商品（スイーツ・アイス・弁当など）を探しています。   今回は、定番メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。 &nbs […]",
@@ -3217,6 +3237,26 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066127.html",
+          "author": "damono3856",
+          "description": "1 名前：♪♪♪ ★：2026/08/16(日) 00:23:17.13 ID:IWn0Vx4o9.net\n\n\n\n\n\n\n\n米がウの攻撃支援とロシア外相、米国務省に説明要求 https://t.co/gtYFOa5nNE https://t.co/gtYFOa5nNE— ロイター (@ReutersJapan) August 14, 2026  \n\n\n\n\n\n\nhttps://news.yahoo.co.jp/articles...",
+          "link": "https://itainews.com/archives/2066127.html",
+          "publishedOn": "2026-08-16T08:30:00.000Z",
+          "wordCount": 3224,
+          "title": "ウクライナの攻撃を米国が支援、ロシア外相　米国務省に説明要求",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/0/805ea7dd-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066124.html",
+          "author": "nobi0929",
+          "description": "1 名前：鉄チーズ烏 ★：2026/08/15(土) 18:18:41.87 ID:cyXz9uNl9.net\n\n\n\n\n\n\n\n大谷翔平が熊本地震など被災地へ寄付「大きな称賛を送るべき」“大谷マニア”があえて発信のワケは？（スポニチアネックス） https://t.co/qZY9PHKrjS— ライオン (@Lkz12kIBpWaAdwH) August...",
+          "link": "https://itainews.com/archives/2066124.html",
+          "publishedOn": "2026-08-16T08:00:50.000Z",
+          "wordCount": 3326,
+          "title": "【ド軍】大谷翔平が熊本地震など被災地へ１億超え寄付　慈善活動を“公表しない”人間性を米識者が称賛「彼は何度も…」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/e/9e7e2bbf-s.jpg"
+        },
         {
           "id": "https://itainews.com/archives/2066125.html",
           "author": "takakichi5346",
@@ -5122,6 +5162,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127199/",
+          "author": null,
+          "description": "スタジオジブリ珠玉の2作品「耳をすませば」と「借りぐらしのアリエッティ」が、スタジオジブリが監修した最高画質の4Ｋデジタルリマスターとして映画館に帰ってくる。10月23日～11月2日までの期間限...",
+          "link": "https://anime.eiga.com/news/127199/",
+          "publishedOn": "2026-08-16T09:00:00.000Z",
+          "wordCount": 806,
+          "title": "スタジオジブリ「耳をすませば」「借りぐらしのアリエッティ」4Kデジタルリマスター、IMAXで10月23日～11月2日上映",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127234/",
           "author": null,
