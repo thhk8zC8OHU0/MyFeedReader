@@ -733,6 +733,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/94b18ecaa645cfc93ee6f47950dcf63a88bd3ccc?source=rss",
+          "author": null,
+          "description": "京都のお盆の伝統行事、「五山送り火」が１６日夜、営まれ、京都の市街地を囲む山々に点火された「大」の文字などが、夜空を彩りました。\n\n　「五山送り火」は、お盆に迎えた先祖の霊を送り、無病息災を祈る行事",
+          "link": "https://news.yahoo.co.jp/articles/94b18ecaa645cfc93ee6f47950dcf63a88bd3ccc?source=rss",
+          "publishedOn": "2026-08-16T13:43:11.000Z",
+          "wordCount": 1637,
+          "title": "京都で伝統行事「五山送り火」　「帰っていくんかな」夏の夜空に思いはせる(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260816-00082076-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/c625646174cac473ebc780bf797f72d653f90364?source=rss",
           "author": null,
           "description": "夏の高校野球、第１２日第４試合は横浜（神奈川）と霞ケ浦（茨城）が対戦し、５－２で横浜が勝利しました。",
@@ -3238,6 +3248,26 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2066136.html",
+          "author": "damono3856",
+          "description": "1 名前：muffin ★：2026/08/16(日) 11:57:59.06 ID:l6UaQn7D9.net\n\n\n\n\n\n\n\n暴走し過ぎた、あまりにも代償が大きい「今はやってない」高樹沙耶、石垣島離れ〝行き着いた〟姿に反響続々「あれから変わったね」「女優、高樹沙耶に戻ってほしい」(西スポWEB OTTO!)#Yahooニュ...",
+          "link": "https://itainews.com/archives/2066136.html",
+          "publishedOn": "2026-08-16T13:01:44.000Z",
+          "wordCount": 3204,
+          "title": "「今はやってない」「大麻のことをやめようと思ったんですね、言うのを」高樹沙耶、石垣島離れ〝行き着いた〟姿に反響続々",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/b/5ba07789-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066135.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/08/16(日) 10:47:49.11 ID:GOcqZcv70.net\n\n\n\n\n\n\n\n金井船長に主導権と説明　平和丸船長、辺野古転覆事故　きょう５カ月、海保の捜査続くhttps://t.co/mK7PxvW3Go 海保は２隻が危険なリーフエッジに向かった理由に関心をもっているが、このときも平和丸は金...",
+          "link": "https://itainews.com/archives/2066135.html",
+          "publishedOn": "2026-08-16T12:03:04.000Z",
+          "wordCount": 3327,
+          "title": "諸喜田武容疑者と柴田鉄也容疑者「レイパー金井が全部悪い」と供述",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/e/7eb41d80-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2066143.html",
           "author": "damono3856",
           "description": "1 名前：煮卵 ★：2026/08/16(日) 12:48:03.57 ID:3aHALGmR9.net\n\n\n\n\n\n\n\nプロテイン高騰止まらず、2年で価格が倍増も　健康志向で市場拡大（朝日新聞） - Yahoo!ニュースもうこれ以上は勘弁してくれ😭 https://t.co/AJqyJIPHis— ふぇると (@felt_ya) August 16, 2026  \n...",
@@ -5223,6 +5253,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/127153/",
+          "author": null,
+          "description": "累計発行部数25万部を突破したやまやで氏による人気BL漫画「お前のほうからキスしてくれよ」が、実写ドラマ化することが決定。主演に鈴木仁、押田岳を迎え、今秋フジテレビで放送＆FODで独占見放題配信...",
+          "link": "https://anime.eiga.com/news/127153/",
+          "publishedOn": "2026-08-16T13:00:00.000Z",
+          "wordCount": 728,
+          "title": "BL漫画「お前のほうからキスしてくれよ」今秋実写ドラマ化　主演は鈴木仁＆押田岳",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/127154/",
           "author": null,
           "description": "アニメーションスタジオ「イルミネーション」が、「FLY！ フライ！」以来3年ぶりに贈る完全オリジナルストーリーとなる新作「ノット・アローン」の日本公開が2027年に決定。あわせて、ティザー予告が...",
@@ -5919,6 +5964,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRaaCxSF8nEpfG3ZHesXKxw",
       "siteUrl": "https://www.youtube.com/channel/UCRaaCxSF8nEpfG3ZHesXKxw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=VQg6q7UbYHA",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=VQg6q7UbYHA",
+          "publishedOn": "2026-08-16T13:33:17.000Z",
+          "wordCount": null,
+          "title": "料理美味いのに、店主がタンクトップで脇丸見えだから、お客さん来なくなって潰れた【ジェラードン】",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/watch?v=0m9SLieSJuc",
           "author": null,
