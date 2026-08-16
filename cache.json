@@ -733,6 +733,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/8d400bcd053418593f67b1a49bfc14aa8aa46e9b?source=rss",
+          "author": null,
+          "description": "夏の高校野球、第１２日第３試合は花巻東（岩手）と英明（香川）が対戦し、４－０で花巻東が勝利しました。",
+          "link": "https://news.yahoo.co.jp/articles/8d400bcd053418593f67b1a49bfc14aa8aa46e9b?source=rss",
+          "publishedOn": "2026-08-16T05:41:54.000Z",
+          "wordCount": 1627,
+          "title": "【夏の高校野球】花巻東（岩手）が英明（香川）に４－０で勝利　第１２日第３試合(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260816-00082073-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/cb773da360a9a3d3db794f79e7ac6454a81f8e8b?source=rss",
           "author": null,
           "description": "徳島県鳴門市で、鉄道の撮影をしていた男性を車でひき殺そうとしたなどとして、逮捕された男が「胸ぐらをつかんだ」と暴行の容疑については認めていることが新たに分かりました。\n\n　殺人未遂と暴行の疑いで送検",
@@ -3208,6 +3218,26 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2066121.html",
+          "author": "takakichi5346",
+          "description": "1 名前：muffin ★：2026/08/15(土) 18:55:02.08 ID:t+4C7lIv9.net\n\n\n\n\n\n\n\n「辞めろ」「金返せ」WEST.“ダブル結婚発表”にブチギレファン続出　「明菜・マッチの頃のようにタレントを縛れなくなりアイドルビジネスが厳しくなった」の声https://t.co/yVXp3A7nZ5#デイリー...",
+          "link": "https://itainews.com/archives/2066121.html",
+          "publishedOn": "2026-08-16T06:00:42.000Z",
+          "wordCount": 3016,
+          "title": "「辞めろ」「金返せ」　アイドルグループWEST.“ダブル結婚発表”にブチギレファン続出「来世はアイドルはやらないでね」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/2/02c812be-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066122.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/08/15(土) 17:00:04.81 ID:eySM/fiO0●.net\n\n\n\n\n\n\n\n\n\n\n公衆トイレの個室使用料は「性差別」、女性がウィーン市を提訴 https://t.co/D0bkvu1IhP— AFPBB News (@afpbbcom) August 15, 2026 \n\n\n\n\n\n\n\n\n【AFP＝時事】公衆トイレへの利用をめぐる性差別があるとし...",
+          "link": "https://itainews.com/archives/2066122.html",
+          "publishedOn": "2026-08-16T05:31:51.000Z",
+          "wordCount": 3226,
+          "title": "男性が小便器で小便するのは無料なのに女性がブース内で小便するのは100円取られる。性差別だ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/0/8064134a-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2066119.html",
           "author": "dqnplus",
           "description": "1 ：ぐれ ★：2026/08/15(土) 18:26:17.63 ID:vkitkqQP9.net\n\n\n\n\n\n\n\n\n\nhttps://t.co/uK0OBWBPrUというYouTube番組を知りました。大学の入学難易度を基準に学生をからかうというスタイルには強い嫌悪感を覚えます。高田ふーみんなる人物が「痛い人」であることを全国に発...",
@@ -5072,6 +5102,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127234/",
+          "author": null,
+          "description": "テレビアニメ「スキップとローファー」の第2期「スキップとローファー 2nd season」の放送開始時期が2027年4月に決まり、ティザーPVと記念イラストが公開された。 同作は、高松美咲氏が「...",
+          "link": "https://anime.eiga.com/news/127234/",
+          "publishedOn": "2026-08-16T06:00:00.000Z",
+          "wordCount": 803,
+          "title": "「スキップとローファー」第2期は27年4月放送開始、ティザーPV公開　みつみ役の黒沢ともよらからコメント",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127238/",
           "author": null,
