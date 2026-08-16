@@ -5223,6 +5223,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/127154/",
+          "author": null,
+          "description": "アニメーションスタジオ「イルミネーション」が、「FLY！ フライ！」以来3年ぶりに贈る完全オリジナルストーリーとなる新作「ノット・アローン」の日本公開が2027年に決定。あわせて、ティザー予告が...",
+          "link": "https://anime.eiga.com/news/127154/",
+          "publishedOn": "2026-08-16T12:00:00.000Z",
+          "wordCount": 723,
+          "title": "イルミネーション完全オリジナル最新作「ノット・アローン」27年公開　ティモシー・シャラメ＆セレーナ・ゴメスが声優として参加",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/127169/",
           "author": null,
           "description": "「ちびまる子ちゃん」で知られる漫画家・エッセイストのさくらももこさん（2018年死去）のエッセイ集「ふじさん」が、8月26日に新潮社から発売される。価格は1980円（税込）。 同書は、さくらさん...",

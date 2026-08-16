@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-16T11:42:04.094Z</updated>
+    <updated>2026-08-16T12:02:20.055Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[イルミネーション完全オリジナル最新作「ノット・アローン」27年公開　ティモシー・シャラメ＆セレーナ・ゴメスが声優として参加]]></title>
+        <id>https://anime.eiga.com/news/127154/</id>
+        <link href="https://anime.eiga.com/news/127154/"/>
+        <updated>2026-08-16T12:00:00.000Z</updated>
+        <summary type="html"><![CDATA[アニメーションスタジオ「イルミネーション」が、「FLY！ フライ！」以来3年ぶりに贈る完全オリジナルストーリーとなる新作「ノット・アローン」の日本公開が2027年に決定。あわせて、ティザー予告が...]]></summary>
+        <author>
+            <name>アニメ・声優ニュース - アニメハック</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[プロテイン高騰止まらず、2年で価格が倍増も　健康志向で市場拡大]]></title>
         <id>https://itainews.com/archives/2066143.html</id>
