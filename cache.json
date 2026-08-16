@@ -2968,6 +2968,16 @@
       "siteUrl": "https://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "https://image-sensors-world.blogspot.com/2026/08/iiss-2027-awards-nominations-open.html",
+          "author": null,
+          "description": "Call for 2027 IISS award nominations is now open. \nIISS AWARD NOMINATIONS:\n    Walter Kosonocky Award: call for nomination and nomination form (Due Jan 15, 2027)\n    IISS Awards: call for nomination and nomination form (Due Nov 30, 2026)",
+          "link": "https://image-sensors-world.blogspot.com/2026/08/iiss-2027-awards-nominations-open.html",
+          "publishedOn": "2026-08-16T16:18:49.382Z",
+          "wordCount": 3818,
+          "title": "IISS 2027 Awards Nominations Open",
+          "imageUrl": null
+        },
+        {
           "id": "https://image-sensors-world.blogspot.com/2026/08/ieee-4001-standard-announced.html",
           "author": null,
           "description": "See also IEEE blogpost: https://standards.ieee.org/beyond-standards/how-good-is-the-camera-ieee-4001-gives-answers/ \nHow good is your camera, actually? This question is addressed by the new IEEE 4001 standard, developed by a large group of people from the hyperspectral imaging community, recognizing that an improvement over current practice in this field is needed. This standard defines a set of performance characteristics that are directly comparable between cameras. It can be seen as an analog to the EMVA 1288 for image sensors, by defining a similarly comprehensive specification for complete cameras. To serve this purpose, some new characteristics have been developed for IEEE 4001. The standard also defines camera-related metadata that quantify the effects imprinted by the camera on an …",
