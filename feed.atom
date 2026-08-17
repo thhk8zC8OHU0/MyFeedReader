@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-17T20:57:06.827Z</updated>
+    <updated>2026-08-17T21:54:32.624Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[渋谷に“最新ガジェット体験スペース”誕生、「&count」8月20日オープン]]></title>
+        <id>https://gadget.phileweb.com/?p=130879</id>
+        <link href="https://gadget.phileweb.com/post-130879/"/>
+        <updated>2026-08-17T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[約100点の厳選された最新ガジェットが用意された “ガジェット体験スペース” が東京・渋谷にオープンする。手掛けるのは、中国・深圳からテクノロジー製品を世界に広めている企業、Fastlane（ファストレーン）だ。 このスペースは、敵と遭遇することを意味するゲーム用語から「&count」（エン […]]]></summary>
+        <author>
+            <name>編集部：平山洸太</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sony TSMC collab]]></title>
         <id>https://image-sensors-world.blogspot.com/2026/08/sony-tsmc-collab.html</id>
