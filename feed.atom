@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-17T18:02:03.269Z</updated>
+    <updated>2026-08-17T19:42:44.586Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[Sony TSMC collab]]></title>
+        <id>https://image-sensors-world.blogspot.com/2026/08/sony-tsmc-collab.html</id>
+        <link href="https://image-sensors-world.blogspot.com/2026/08/sony-tsmc-collab.html"/>
+        <updated>2026-08-17T18:42:55.752Z</updated>
+        <summary type="html"><![CDATA[Link: https://www.sony-semicon.com/en/news/2026/2026081101.html
+Sony Semiconductor Solutions and TSMC Agreed to Establish Joint Venture for Next-Generation Image Sensors
+Atsugi, Japan and HSINCHU, Taiwan, R.O.C., August 11, 2026 - Sony Semiconductor Solutions Corporation (“Sony”) and Taiwan Semiconductor Manufacturing Company Limited (“TSMC”) (TWSE: 2330, NYSE: TSM) today announced the execution of a legally binding definitive agreement for the establishment of Advanced Vision Semiconductor Manufacturing Corporation as a joint venture (“JV”) in Koshi City, Kumamoto Prefecture, Japan. The JV will serve as a core hub for the development and manufacturing activities required for the volume production of image sensors for smartphones utilizing advanced manufacturing process technology. The JV …]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[昨今の話題]]></title>
         <id>https://logipara.com/?p=13387</id>
