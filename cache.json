@@ -803,6 +803,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/a06465163ae9206cafd64a856b1c53e111a66765?source=rss",
+          "author": null,
+          "description": "7月10日から12日までの3日間、中国・上海で開かれた、「BilibiliWorld 2026（ビリビリワールド）」。\n\n　中国の動画配信サイト｢bilibili(ビリビリ)｣が主催し、2017年に",
+          "link": "https://news.yahoo.co.jp/articles/a06465163ae9206cafd64a856b1c53e111a66765?source=rss",
+          "publishedOn": "2026-08-17T22:00:00.000Z",
+          "wordCount": 1793,
+          "title": "中国を席巻する「谷子（グーズ）経済」とは！？　アニメ関連グッズの爆発的人気が背景に？　バンダイナムコやタカラトミーも注力する新市場　【海外特派員特集】(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260814-00082054-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/5d42837869d84eeaaaa7f0175117e992c195114c?source=rss",
           "author": null,
           "description": "和歌山県かつらぎ町のブドウ畑からシャインマスカット約１００房（時価３０万円相当）を盗んだ疑いで農家の男が逮捕されました。\n\n　和歌山県紀の川市に住む６８歳の農家の男は、１５日午前０時半ごろから午前１",
@@ -2914,6 +2924,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=130846",
+          "author": "Munenori Taniguchi",
+          "description": "Makestremeと名乗るハッカーは、約2分（2.9MB）の音楽データを数枚のQRコードに分割保存する手法を編み出し、電子工作者向けコミュニティサイトHackster.ioに公開した。 この手法は2.9MBのMP3ファイルを約21KBの潜在的トークンに圧縮し、約1000分の1にまで圧縮して8つのQ […]",
+          "link": "https://gadget.phileweb.com/post-130846/",
+          "publishedOn": "2026-08-17T22:00:00.000Z",
+          "wordCount": 722,
+          "title": "音楽を紙に印刷、ニューラルコーデックでデータ量1000分の1",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/eeaf03e6a3ea26c1af75453c6d691bcc.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=130879",
           "author": "編集部：平山洸太",
           "description": "約100点の厳選された最新ガジェットが用意された “ガジェット体験スペース” が東京・渋谷にオープンする。手掛けるのは、中国・深圳からテクノロジー製品を世界に広めている企業、Fastlane（ファストレーン）だ。 このスペースは、敵と遭遇することを意味するゲーム用語から「&count」（エン […]",
@@ -3687,6 +3707,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066167.html",
+          "author": "nobi0929",
+          "description": "1 名前：煮卵 ★：2026/08/17(月) 10:06:15.80 ID:zR7it0pF9.net\n\n\n\n\n\n\n\n【独自】客のクレカ盗み化粧品購入か バイト先のスポーツ施設のロッカーからマスターキー使い… 慶応大学4年の女子大学生を逮捕　警視庁 https://t.co/ylEZnYYT8s— TBS NEWS DIG Powered by JNN (...",
+          "link": "https://itainews.com/archives/2066167.html",
+          "publishedOn": "2026-08-17T22:00:27.000Z",
+          "wordCount": 3252,
+          "title": "客のクレカ盗み化粧品購入か  バイト先のスポーツ施設のロッカーからマスターキー使い… 慶應大学4年の女子大学生を逮捕",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/8/0/80f9c39b-s.jpg"
+        },
         {
           "id": "https://itainews.com/archives/2066185.html",
           "author": "damono3856",
