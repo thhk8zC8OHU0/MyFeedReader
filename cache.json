@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/553/G055390/20260817005/",
+          "author": null,
+          "description": "BANDAISPIRITSは本日，「一番くじスプラトゥーン3第三弾」を2026年8月22日に発売すると発表した。価格は1回750円（税込）。本商品は，2022年9月に発売された「スプラトゥーン3」の一番くじ第3弾だ。",
+          "link": "https://www.4gamer.net/games/553/G055390/20260817005/",
+          "publishedOn": "2026-08-17T02:36:34.000Z",
+          "wordCount": 8159,
+          "title": "「一番くじ スプラトゥーン3 第三弾」，8月22日に発売決定。A賞にはスプラシューターの形をしたライトがラインナップ",
+          "imageUrl": "https://www.4gamer.net/games/553/G055390/20260817005/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/954/G095479/20260816006/",
           "author": null,
           "description": "「え？あれって今週発売だったの!?」となりがちな人のための週刊連載「今週のモチベ」。今週は，墜ちた女神の亡骸が信仰の礎となった荒廃世界を舞台とするソウルライクアクションRPG「MortalShellII」や，全面的に作り直されたリメイク作「STEINS;GATERE:BOOT」が発売される。",
@@ -752,6 +762,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/ad92d399a63958394407e3e674fbc01a922354e0?source=rss",
+          "author": null,
+          "description": "阪急電鉄によりますと１７日午前９時ごろ、神戸線の武庫之荘～西宮北口間の踏切で、人身事故が発生しました。\n\n　この影響で、神戸線は大阪梅田と神戸高速の新開地との間で一時、運転を見合わせていましたが、午",
+          "link": "https://news.yahoo.co.jp/articles/ad92d399a63958394407e3e674fbc01a922354e0?source=rss",
+          "publishedOn": "2026-08-17T00:21:30.000Z",
+          "wordCount": 1604,
+          "title": "【運転再開】阪急神戸線で一時運転見合わせ　人身事故の影響(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260817-00082078-asahibcv-000-2-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/9281c1fe9117d6baf08452bd2b6acd5aa0fd5ef6?source=rss",
           "author": null,
@@ -1720,6 +1740,26 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/c78gg28jrj1o#0",
+          "author": null,
+          "description": "韓国の李在明（イ・ジェミョン）大統領は15日、現在も形式上は戦争状態にある北朝鮮に対し、戦争を正式に終結させるための協議を提案した。",
+          "link": "https://www.bbc.com/japanese/articles/c78gg28jrj1o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-17T03:16:42.000Z",
+          "wordCount": 1854,
+          "title": "韓国、北朝鮮との戦争を正式に終結させるための協議を提案",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/28b1/live/1f13a3e0-9881-11f1-a7ab-8b30adf0800a.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cwyrrv9v0j1o#0",
+          "author": null,
+          "description": "アメリカのトランプ大統領は16日、韓国との合同軍事演習を「大幅に削減する」と表明した。北朝鮮の金総書記との「非常に良好な関係」を理由に挙げた。",
+          "link": "https://www.bbc.com/japanese/articles/cwyrrv9v0j1o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-17T02:29:54.000Z",
+          "wordCount": 1938,
+          "title": "トランプ氏、米韓合同軍事演習の縮小を表明　対イラン戦争に韓国が不関与で",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cm2gj2yexxeo#0",
           "author": null,
           "description": "インドネシア東部フローレス島で15日午前4時58分（日本時間同6時58分）ごろ、マグニチュード（M）7.7の地震が発生した。防災当局によると、同日夕までに少なくとも38人の死亡が確認された。",
@@ -2367,6 +2407,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2608/17/news044.html",
+          "author": null,
+          "description": "マイクロチップ・テクノロジーは、産業用IoT機器向けのPoEミッドスパン「PD-9601GCI」を発表した。電源コンセントの設置や複雑な電気配線を省きつつ、産業用IoT機器に電力やデータを供給できる。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2608/17/news044.html",
+          "publishedOn": "2026-08-17T00:00:00.000Z",
+          "wordCount": 2628,
+          "title": "IoT機器をPoE対応に　IEEE 802.3bt準拠ミッドスパン",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/17/cover_news044.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2608/14/news009.html",
           "author": null,
           "description": "車載や航空宇宙、産業用途で、高信頼性と小型化、設計自由度を両立するコネクターやケーブルアセンブリが相次いで登場している。本稿では、それらの一部を紹介する。",
@@ -2861,6 +2911,16 @@
       "siteUrl": "https://atsugi-lab.com",
       "articles": [
         {
+          "id": "https://atsugi-lab.com/?p=60961",
+          "author": "fumie",
+          "description": "こんにちは、ふみえ＠あつらぼです。 今年も厚木市さんから、保育士として就職を希望する方・保育の仕事に興味がある方必見のイベント情報が届きました★ 「保育のしごと就職フェアin厚木」が9月5日（土）に開催されます！ それでは、早速詳細をどうぞ…",
+          "link": "https://atsugi-lab.com/event-hoikunoshigoto202609/",
+          "publishedOn": "2026-08-17T02:30:41.000Z",
+          "wordCount": 840,
+          "title": "【予約不要・入場無料】保育の仕事に興味がある方必見！「保育のしごと就職フェアin厚木」9月5日（土）アミューあつぎで開催★［厚木市中町］",
+          "imageUrl": "https://atsugi-lab.com/wp-content/uploads/2026/08/hoiku-rr2026.jpg"
+        },
+        {
           "id": "https://atsugi-lab.com/?p=60988",
           "author": "fumie",
           "description": "夏バテ知らずで、暑い日ほどたくさん食べてしまうふみえ＠あつらぼです。（普段よりエネルギーを消耗している気分になるのです…！） 今回は、そんな「夏でもガッツリ食べたい！」派の皆様へ、朗報ですよー☆ 本厚木駅からすぐの場所に、とんかつの名店が手…",
@@ -3105,6 +3165,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=316719",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、サクサク・やわらか・ボリューム満点のカツ丼が人気の超有名チェーン「かつや」へ進撃しました。 &n […]",
+          "link": "https://foodfighter.jp/katsuya-2026-0817",
+          "publishedOn": "2026-08-17T01:26:11.000Z",
+          "wordCount": 2059,
+          "title": "【かつや】ローストポークとロースカツの合い盛り丼【期間限定メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/de372179f22ef48acdd542b69d98d25f.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=316695",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、Starbucks（スターバックス）の新商品「芳醇巨峰フローズンティー」を世界一詳しく調査しました。   【スターバ […]",
@@ -3297,6 +3367,56 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066153.html",
+          "author": "takakichi5346",
+          "description": "1 名前：：2026/08/16(日) 17:08:16.12 ID:hkz3txa+0.net PLT(12346)\n\n\n\n\n\n\n\n【韓国「親日派財産」没収 本格化へ】https://t.co/UfXHr633pa— Yahoo!ニュース (@YahooNewsTopics) August 16, 2026 \n\n\n\n\n\n\nhttps://news.yahoo.co.jp/articles/c3aa914125dec7c304af0d3cd20...",
+          "link": "https://itainews.com/archives/2066153.html",
+          "publishedOn": "2026-08-17T03:00:27.000Z",
+          "wordCount": 3336,
+          "title": "韓国「親日派が憎い…子々孫々まで探し出し財産を没収する！！」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/5/e5543bb6-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066151.html",
+          "author": "nobi0929",
+          "description": "1 名前：ぐれ ★：2026/08/16(日) 20:22:42.26 ID:ljVpsW9e9.net\n\n\n\n\n\n\n\n千葉豪雨の放置車両2700台に増える　千葉市管理道路で2500台、県管理道路200台https://t.co/ym3rQISZ37市はこれまで約1000台としていた。県によると、県管理道路では約200台が確認されており、放置...",
+          "link": "https://itainews.com/archives/2066151.html",
+          "publishedOn": "2026-08-17T02:30:19.000Z",
+          "wordCount": 3438,
+          "title": "【千葉豪雨】放置車の撤去見通せず　2700台が道路ふさぐ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/9/b9b09d12-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2066145.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/08/16(日) 17:10:49.73 ID:XaTPcqKZ0●.net\n\n\n\n\n\n\n\n\n\n亀田興毅氏、壮絶過ぎる７億円詐欺被害　「兄貴」と慕う人物に出資４０００万→２０００万→３億→最後は土地＆マンション譲渡　さんま「アホや！」https://t.co/snXXXdT0wz #デイリースポーツ #DailySpor...",
+          "link": "https://itainews.com/archives/2066145.html",
+          "publishedOn": "2026-08-17T02:01:55.000Z",
+          "wordCount": 3406,
+          "title": "亀田興毅氏、壮絶過ぎる７億円詐欺被害　「兄貴」と慕う人物に出資４０００万→２０００万→３億→土地",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/e/0ee9e5c0-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066147.html",
+          "author": "nobi0929",
+          "description": "1 名前：★：2026/08/16(日) 19:11:31.84 ID:1QQuZD7f0●.net\n\n\n\n\n\n\n\n中国発アニメ映画「牛来」、まさかの大爆死。🤣公開9日間で興行収入は約15万円。観客は全国でたった236人。いや、15万円って……。公開初週の上映回数も全国で数百回程度。しかもSNSでは「AIで作った...",
+          "link": "https://itainews.com/archives/2066147.html",
+          "publishedOn": "2026-08-17T01:00:09.000Z",
+          "wordCount": 3503,
+          "title": "中国肝入りで制作された大型3Dアニメ映画『牛来』、興行収入15万円の超大爆死💥",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/6/06a6bb8e-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2066146.html",
+          "author": "nobi0929",
+          "description": "1 名前：Ailuropoda melanoleuca ★：2026/08/16(日) 18:36:55.83 ID:kXXKbp5B9.net\n\n\n\n\n\n\n\nM!LK塩﨑太智(25)＆2歳下セーラームーン女優“好きすぎて10年愛”「マンションに足繁く通い、匂わせも…」《スクープ撮》https://t.co/B5R4fKtlMb#週刊文春— 週刊文春 (@shukan...",
+          "link": "https://itainews.com/archives/2066146.html",
+          "publishedOn": "2026-08-17T00:00:18.000Z",
+          "wordCount": 3381,
+          "title": "【文春】国民的アイドル・M!LK塩﨑太智＆2歳下セーラームーン女優“好きすぎて10年愛”「マンションに足繁く通い、匂わせも…」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/1/01a56370-s.jpg"
+        },
         {
           "id": "https://itainews.com/archives/2066139.html",
           "author": "nobi0929",
@@ -5196,6 +5316,16 @@
       "siteUrl": "https://logipara.com",
       "articles": [
         {
+          "id": "https://logipara.com/?p=13384",
+          "author": "watanabe@logipara.com",
+          "description": "「ようやくセミが鳴けるぐらいに涼しくなった夏」 　 って、昭和の人が見たらまったく意味わからないんでしょうね",
+          "link": "https://logipara.com/diary-text/2026-08-17/",
+          "publishedOn": "2026-08-17T00:20:24.000Z",
+          "wordCount": 2744,
+          "title": "セミが夏バテする夏",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
+        {
           "id": "https://logipara.com/?p=13381",
           "author": "watanabe@logipara.com",
           "description": "ずっと 　 「シャクティマットに寝かされて泣きながら痛みに耐えるちいかわ」 　 の絵が頭にあるんですが、どこかにある絵ですか。それとも私の幻覚ですか。幻覚kならまだしも、痴呆が始まっ",
@@ -5332,6 +5462,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127235/",
+          "author": null,
+          "description": "「天幕のジャードゥーガル」と「攻殻機動隊 THE GHOST IN THE SHELL」のコラボーションイラストが披露されている。 テレビアニメとして7月から放送中の両作は、どちらもアニメーショ...",
+          "link": "https://anime.eiga.com/news/127235/",
+          "publishedOn": "2026-08-17T03:00:00.000Z",
+          "wordCount": 782,
+          "title": "「天幕のジャードゥーガル」「攻殻機動隊 THE GHOST IN THE SHELL」コラボイラスト披露　2作品ともサイエンスSARU制作",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127153/",
           "author": null,
@@ -6162,16 +6307,6 @@
           "publishedOn": "2026-07-21T12:10:13.000Z",
           "wordCount": null,
           "title": "患者のフリして空いてるベッドに泊まり続けて20年【ジェラードン】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=tb3T3DdOMgo",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=tb3T3DdOMgo",
-          "publishedOn": "2026-07-18T13:27:22.000Z",
-          "wordCount": null,
-          "title": "一目見ただけでヤバそうな病気に罹った患者が来て、終わり悟った【ジェラードン】",
           "imageUrl": null
         }
       ]
