@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/030/G103040/20260818018/",
+          "author": null,
+          "description": "ジー・モードは本日，パズルアクション「ネロ&サイ Néro & Sci ∫ Integral Edition」の配信を開始した。数字や数学記号，図形をモチーフにした世界を舞台に，主人公ネロとクラゲの…",
+          "link": "https://www.4gamer.net/games/030/G103040/20260818018/",
+          "publishedOn": "2026-08-18T06:10:39.000Z",
+          "wordCount": 8466,
+          "title": "数学の知識より直感とひらめきが重要。「ネロ&サイ Néro & Sci ∫ Integral Edition」，本日配信",
+          "imageUrl": "https://www.4gamer.net/games/030/G103040/20260818018/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/886/G088683/20260818014/",
           "author": null,
           "description": "SensorTowerは本日，「PokémonChampions」のモバイル版に関する調査データを公開した。2026年6月17日から7月16日のダウンロード数シェアは日本と米国が14％で並ぶ一方，収益では日本が約50％を占めて最大市場となった。韓国やタイでも人気が続いているほか，広告展開では日本と米国で主要チャネルに違いが見られた。",
@@ -832,6 +842,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/77505dea10523dbf532a9e5273f82ef28763d6c6?source=rss",
+          "author": null,
+          "description": "夏の高校野球、第１３日第３試合は横浜（神奈川）と花巻東（岩手）が対戦し、６－０で横浜が勝利しました。",
+          "link": "https://news.yahoo.co.jp/articles/77505dea10523dbf532a9e5273f82ef28763d6c6?source=rss",
+          "publishedOn": "2026-08-18T07:36:17.000Z",
+          "wordCount": 1633,
+          "title": "【夏の高校野球】横浜（神奈川）が花巻東（岩手）に６－０で勝利　第１３日第３試合(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260818-00082098-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/2463a2c5030e7c2df77d6f4cab5ecc620af0a2d6?source=rss",
           "author": null,
@@ -1990,6 +2010,56 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cjrvxq8w20zo#0",
+          "author": null,
+          "description": "イタリアの高級スポーツ車メーカー、フェラーリ初の電気自動車（EV）がこのほど、チャリティーオークションで4000万ドル（約64億円）で落札された。オークションで販売された新車としての最高額を記録した。",
+          "link": "https://www.bbc.com/japanese/articles/cjrvxq8w20zo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-18T08:00:27.000Z",
+          "wordCount": 1831,
+          "title": "フェラーリ初の電気自動車、約64億円で落札　新車オークションの最高額",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/e2f6/live/27d57b00-99d2-11f1-8bfd-8bbe460b94a0.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cjej8420zdwo#0",
+          "author": null,
+          "description": "フィリピン南部ミンダナオ島のサンボアンガにあるカトリック系学校で18日、銃撃事件がった。地元当局によると、学校の生徒が別の生徒を射殺した後、自分も自殺したという。",
+          "link": "https://www.bbc.com/japanese/articles/cjej8420zdwo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-18T07:51:17.000Z",
+          "wordCount": 1780,
+          "title": "フィリピンのカトリック校で生徒が銃乱射　生徒1人が撃たれ死亡、容疑者も自殺",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/a3c1/live/3d7aeed0-9ab9-11f1-9287-3d05ae90d9de.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cm2gm44pdk6o#0",
+          "author": null,
+          "description": "米国移民税関執行局（ICE）の職員は、法執行業務中に、相手に電気ショックを与えることができる手袋を間もなく装備することになる。",
+          "link": "https://www.bbc.com/japanese/articles/cm2gm44pdk6o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-18T07:15:44.000Z",
+          "wordCount": 1307,
+          "title": "米移民当局が電気ショック手袋を導入へ",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/54a1/live/bc87eea0-9693-11f1-b2ab-0dd01740f9f6.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cm2g7x98v2ko#0",
+          "author": null,
+          "description": "ロシアは17日、イギリスを、「ウクライナ危機のエスカレーションを意図的に選択した」と非難した。イギリスで製造されたドローンがロシアに対する攻撃で使われたのが明らかになったのを受けたもの。",
+          "link": "https://www.bbc.com/japanese/articles/cm2g7x98v2ko?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-18T07:04:28.000Z",
+          "wordCount": 1865,
+          "title": "ロシア、イギリスに警告　ウクライナへのドローン供給で「テロ攻撃の共犯」",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/4c2f/live/4a051380-9a94-11f1-b9fd-b3eaf80a00d7.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cwyjz9p7zzgo#1",
+          "author": null,
+          "description": "英規制当局は17日、英ヴァージンが計画する、英仏海峡トンネルを経由する鉄道サービスの開設について、同社による線路使用を仮承認すると発表した。これにより、イギリスと欧州大陸を結ぶ高速鉄道ユーロスターに対抗する計画が一歩前進することになった。",
+          "link": "https://www.bbc.com/japanese/articles/cwyjz9p7zzgo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-18T06:34:23.000Z",
+          "wordCount": 1729,
+          "title": "英ヴァージン、英仏海峡トンネル経由の鉄道サービス開設へ前進　規制当局が線路利用を仮承認",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/0d0e/live/a809a810-9a12-11f1-a05c-fdd5e0ed226e.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c87nv4l8z4po#0",
           "author": null,
           "description": "アメリカのトランプ大統領が作家E・ジーン・キャロル氏に対する性的暴行と名誉毀損で損害賠償を命じられた民事訴訟の評決をめぐり、連邦最高裁は17日、これを覆すことを狙うトランプ氏の訴えを再び退けた。",
@@ -3104,6 +3174,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=130983",
+          "author": "Munenori Taniguchi",
+          "description": "フェラーリ初のBEV（バッテリー式電気自動車）として開発されたルーチェの「0号車」が、先週土曜日にサザビーズのモントレー・オークションで、4000万ドル（約64億円）で落札された。この落札による収益金はすべて慈善団体に寄付される。 このルーチェの当初予想落札額は110万ドル（約1.8億円）だったため […]",
+          "link": "https://gadget.phileweb.com/post-130983/",
+          "publishedOn": "2026-08-18T07:50:00.000Z",
+          "wordCount": 705,
+          "title": "酷評されたフェラーリ・ルーチェの「0号車」、市販価格の約62倍、約64億円で落札",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/262575948a0942e54482b711d862b8c2.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=130936",
           "author": "多根清史",
           "description": "中国テック大手のAlibabaグループは、ゲーム開発子会社のLingxi Gamesを、アジアのプライベート・エクイティ・ファンドTrustar Capitalに売却することで合意したと報じられている。LingxiのCEOであるZhou Bingshu氏が今月初めに従業員向けに送った社内メモで合意が […]",
@@ -3937,6 +4017,36 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066197.html",
+          "author": "nobi0929",
+          "description": "1 名前：ばーど ★：2026/08/17(月) 17:54:49.50 ID:b2bEeQPZ.net\n\n\n\n\n\n\n\n「歴史を逆行させた」中国外務省が高市総理の戦没者追悼式式辞を非難 https://t.co/qGl1LJe7QR— TBS NEWS DIG Powered by JNN (@tbsnewsdig) August 17, 2026 \n\n\n\n\n\n\n高市総理が戦没者追悼式の式...",
+          "link": "https://itainews.com/archives/2066197.html",
+          "publishedOn": "2026-08-18T08:00:03.000Z",
+          "wordCount": 3097,
+          "title": "中国外務省、高市首相の追悼式式辞を批判「反省や教訓を回避し歴史を逆行させた」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/1/2152c316-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2066198.html",
+          "author": "takakichi5346",
+          "description": "1 名前：それでも動く名無し：2026/08/17(月) 06:15:57.36 ID:0DWl18uS0.net\n\n\n\n\n\n\n\n悲報：堀 大輔 テキーラ15杯飲んで泥酔していたことを『 睡眠ではなく気絶状態だったので睡眠時間には入らないです 』謎の論理でドラゴン細井も流石に苦笑いしてしまう...#堀大輔 #ショ...",
+          "link": "https://itainews.com/archives/2066198.html",
+          "publishedOn": "2026-08-18T07:04:34.000Z",
+          "wordCount": 3211,
+          "title": "【悲報】堀大輔「気絶は睡眠じゃないのでノーカンですね」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/d/0d7195eb-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066215.html",
+          "author": "nobi0929",
+          "description": "1 名前：Anonymous ★：2026/08/18(火) 10:36:51.84 ID:vpRqLus39.net\n\n\n\n\n\n\n\n【独自】お笑いトリオ「四千頭身」の都築拓紀メンバーが東京都迷惑防止条例違反の疑いで書類送検 女性のスカートの上から下半身を触ったか 警視庁(TBS NEWS DIG Powered by JNN)#Yahooニュー...",
+          "link": "https://itainews.com/archives/2066215.html",
+          "publishedOn": "2026-08-18T06:30:06.000Z",
+          "wordCount": 3255,
+          "title": "【独自】「四千頭身」都築拓紀メンバー　東京都迷惑防止条例違反の疑いで書類送検　20代女性のスカートの上から下半身を触ったか",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/7/771cd144.png"
+        },
         {
           "id": "https://itainews.com/archives/2066201.html",
           "author": "damono3856",
@@ -5704,6 +5814,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqJopoT40y_vazwcaYc2LAg",
       "siteUrl": "https://www.youtube.com/channel/UCqJopoT40y_vazwcaYc2LAg",
       "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=1FsWVQHEoy8",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=1FsWVQHEoy8",
+          "publishedOn": "2026-08-18T07:33:05.000Z",
+          "wordCount": null,
+          "title": "【Sa•Ga2秘宝伝説】必殺の一撃〜死闘の果てに キッチンでクラリネット吹く人/ Final Fantasy Legend II-Lethal Strike~Struggle to the Death",
+          "imageUrl": null
+        },
         {
           "id": "https://www.youtube.com/shorts/n99AaGBORW8",
           "author": null,
