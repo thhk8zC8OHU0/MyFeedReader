@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/015/G101555/20260818004/",
+          "author": null,
+          "description": "集英社ゲームズは本日，2026年9月17日から21日まで開催される「東京ゲームショウ2026」への出展を発表した。会場では「呪術廻戦RUMBLE:SURVIVATON」の世界初，「UN:Me」の日本初となる体験版をプレイできる。条件達成でオリジナルノベルティがもらえる。",
+          "link": "https://www.4gamer.net/games/015/G101555/20260818004/",
+          "publishedOn": "2026-08-18T02:26:50.000Z",
+          "wordCount": 8340,
+          "title": "「呪術廻戦 RUMBLE: SURVIVATON」「UN:Me」の体験版をプレイ可能。集英社ゲームズ，東京ゲームショウ2026に出展を発表",
+          "imageUrl": "https://www.4gamer.net/games/015/G101555/20260818004/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/421/G042182/20260814030/",
           "author": null,
           "description": "「牧場物語」シリーズ30周年と「ルーンファクトリー」シリーズ20周年を記念した生放送が8月24日20：00に実施される。今回もこの1週間で予定されている，ゲームに関連した公式配信番組を中心に，いくつかをピックアップして紹介しよう。",
@@ -812,6 +822,26 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/ec8f7e313c394d64a6b20e80fb1312dd6911be72?source=rss",
+          "author": null,
+          "description": "１７日夜、京都市左京区の横断歩道のない府道を横断していた中学生が、車にひかれ、意識不明の重体です。\n\n　１７日午後８時半ごろ、京都市左京区内の府道を、徒歩で東から西へ横断していた左京区内の男子中学生",
+          "link": "https://news.yahoo.co.jp/articles/ec8f7e313c394d64a6b20e80fb1312dd6911be72?source=rss",
+          "publishedOn": "2026-08-18T01:15:35.000Z",
+          "wordCount": 1689,
+          "title": "京都・左京区で横断歩道のない府道を横断していた中学生が車にひかれ意識不明の重体(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260818-00082091-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/b0d26e2dd996d1ad86c720852055a55f1b2f3004?source=rss",
+          "author": null,
+          "description": "大阪市西成区の路上で１７日夜、車を運転中に男性と接触し、そのまま逃走したとして、２９歳の男が逮捕されました。男性は搬送先の病院で死亡しています。\n\n　西成区の自営業、吉川天馬容疑者（２９）は１７日午",
+          "link": "https://news.yahoo.co.jp/articles/b0d26e2dd996d1ad86c720852055a55f1b2f3004?source=rss",
+          "publishedOn": "2026-08-18T01:09:17.000Z",
+          "wordCount": 1672,
+          "title": "大阪・西成区の交差点で男性死亡のひき逃げ　29歳自営業の男を逮捕(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260818-00082090-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/a06465163ae9206cafd64a856b1c53e111a66765?source=rss",
           "author": null,
@@ -1910,6 +1940,36 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cn0njgdlnk9o#0",
+          "author": null,
+          "description": "アメリカのトランプ大統領は17日、ホルムズ海峡をめぐる米政権とイランとの協議をオマーンが「邪魔する」なら、オマーンを爆撃すると脅した。米FOXニュースが報じた。オマーンはアメリカの同盟国。",
+          "link": "https://www.bbc.com/japanese/articles/cn0njgdlnk9o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-18T02:35:15.000Z",
+          "wordCount": 1843,
+          "title": "トランプ氏、オマーンに脅し　イランとの協議を「邪魔するなら爆撃」",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/0845/live/0d9a0730-9a52-11f1-aed2-8d6da8d75094.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cewr941gv1do#0",
+          "author": null,
+          "description": "ロシア北西部プスコフの裁判所は17日、同国の著名な反戦政治家レフ・シュロスベルグ氏（63）に対し、ロシア軍の信用を失墜させ、軍に関する虚偽の情報を流布したとして、拘禁11年1カ月の実刑判決を言い渡した。",
+          "link": "https://www.bbc.com/japanese/articles/cewr941gv1do?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-18T01:54:08.000Z",
+          "wordCount": 1770,
+          "title": "ロシアの著名な反戦政治家に拘禁11年1カ月、所属政党は選挙参加禁止に",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/6484/live/398ad2e0-9a4b-11f1-aed2-8d6da8d75094.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c204938z807o#0",
+          "author": null,
+          "description": "ロシア西部と南部で17日朝にかけてウクライナの攻撃があり、現地当局によると、子ども1人を含む計9人が殺害され、23人が負傷した。一方、ウクライナ北東部と東部でも同じ時間帯にロシアの攻撃があり、合わせて４人が殺害されたと、当局が発表した。双方による連夜の激しい攻撃となった。",
+          "link": "https://www.bbc.com/japanese/articles/c204938z807o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-18T01:24:29.000Z",
+          "wordCount": 1775,
+          "title": "ロシアとウクライナ、連夜の激しい攻撃　双方に多数の死傷者",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/ff99/live/3f3c3600-9a39-11f1-a86b-519b4d19bbee.png"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c9d8wyyyq39o#0",
           "author": null,
           "description": "2016年、当時3歳だった猫のチャーリーが行方不明になった時、飼い主のルーシー・ロバートソンさんとハナ・ロバートソンさんは「深い悲しみ」に暮れた。しかし先月、ルーシーさんの30歳の誕生日に獣医から電話があり、チャーリーが見つかったと告げられた。",
@@ -2647,6 +2707,16 @@
       "siteUrl": "https://edn.itmedia.co.jp/",
       "articles": [
         {
+          "id": "https://edn.itmedia.co.jp/edn/articles/2608/18/news038.html",
+          "author": null,
+          "description": "STマイクロエレクトロニクスは、ガルバニック絶縁ゲートドライバー「STGAP3S」ファミリーに、最大駆動電流3Aの「STGAP3S3」シリーズを追加した。すでに量産を開始している。",
+          "link": "https://edn.itmedia.co.jp/edn/articles/2608/18/news038.html",
+          "publishedOn": "2026-08-18T00:00:00.000Z",
+          "wordCount": 2611,
+          "title": "1200V／3A駆動のガルバニック絶縁ゲートドライバー",
+          "imageUrl": "https://image.itmedia.co.jp/edn/articles/2608/18/cover_news038.jpg"
+        },
+        {
           "id": "https://edn.itmedia.co.jp/edn/articles/2608/16/news002.html",
           "author": null,
           "description": "ADASでは、レーダー、LiDAR、カメラの高性能化とセンサーフュージョンにより、車両周辺の認識精度が向上している。",
@@ -2933,6 +3003,16 @@
       "feedUrl": "https://gadget.phileweb.com/feed",
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
+        {
+          "id": "https://gadget.phileweb.com/?p=130906",
+          "author": "多根清史",
+          "description": "アップルの次期フラッグシップ機「iPhone 18 Pro」と「iPhone Ultra」（折りたたみiPhoneの仮称）は来月、最新SoC（チップ）「A20 Pro」とともに発表される見通しだ。このチップについて、前モデルからの性能向上に関する情報が漏れ伝わって来ている。 中国Weiboにリーク情 […]",
+          "link": "https://gadget.phileweb.com/post-130906/",
+          "publishedOn": "2026-08-18T03:00:47.000Z",
+          "wordCount": 718,
+          "title": "新型iPhone向け「A20 Pro」チップ、性能・電力効率ともに大幅向上か",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/a735b3c7f613987e5ddf58152c179d15.jpg"
+        },
         {
           "id": "https://gadget.phileweb.com/?p=130846",
           "author": "Munenori Taniguchi",
@@ -3495,6 +3575,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=316785",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、豊富なメニュー・サイズ・食の安全へのこだわりが自慢の牛丼チェーン店舗数日本一を誇るお店「すき家」へ進撃 […]",
+          "link": "https://foodfighter.jp/sukiya-porkcurry",
+          "publishedOn": "2026-08-18T02:03:05.000Z",
+          "wordCount": 2060,
+          "title": "【すき家】ポークロックカレー【新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/e6a55ecd6e75fc1eabc3520fa4ee4f56.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=316765",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「森永製菓 板チョコアイス カラメルプリン味」を世界一詳しく調査しました。   【セブンイレブ […]",
@@ -3717,6 +3807,56 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066192.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/08/17(月) 19:56:43.39 ID:M9NzZwHA0●.net\n\n\n\n\n\n\n\n\n\n\nhttps://t.co/CuCUbFsjn3冷凍庫の中で、子どもの遺体はTシャツに包まれ、袋に入れられていた。その袋には「大好きだよ」などと書かれていたメモが貼られていたそうです。— 弁護士ドットコムニュース (@b...",
+          "link": "https://itainews.com/archives/2066192.html",
+          "publishedOn": "2026-08-18T03:01:40.000Z",
+          "wordCount": 3128,
+          "title": "「ずっと一緒にいたくて」死産した子を冷凍庫に3年8カ月、袋には「大好きだよ」…30代母親に有罪判決",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/e/4edb56f3-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066180.html",
+          "author": "dqnplus",
+          "description": "1 ：冬月記者 ★：2026/08/17(月) 10:41:49.36 ID:balciGWG9.net\n\n\n\n\n\n\n\n\n\n\n人気商売をしていれば政治云々のことは言いたくない私も言いたくないよ💦だけど最近チラホラと怖さを発言する人が増えている気がするホントに怖いんだと思う私はまじで怖い感性が鋭い方々はその...",
+          "link": "https://itainews.com/archives/2066180.html",
+          "publishedOn": "2026-08-18T02:31:02.000Z",
+          "wordCount": 3635,
+          "title": "【芸能】沢海陽子 「人気商売をしていれば政治云々のことは言いたくない…だけど最近まじで怖い　日本が壊れるのが嫌だ！」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/2/426653d3-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066182.html",
+          "author": "nobi0929",
+          "description": "1 名前：バイト歴50年 ★：2026/08/17(月) 16:28:41.23 ID:l7pi2EI/9.net\n\n\n\n\n\n\n\n「日本のソフト文化が根本的に間違っている」元ＭＳ開発者が指摘、「デジタル敗戦」状態の原因は「多重下請け構造」 https://t.co/wQ1bZVDWEX #検証デジタル・ニッポンの苦境 #中島聡氏 #...",
+          "link": "https://itainews.com/archives/2066182.html",
+          "publishedOn": "2026-08-18T02:00:02.000Z",
+          "wordCount": 3544,
+          "title": "「日本のソフト文化が根本的に間違っている」元ＭＳ開発者が指摘「デジタル敗戦」状態の原因は「多重下請け構造のせい",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/0/c09f0536-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2066176.html",
+          "author": "takakichi5346",
+          "description": "1 名前：それでも動く名無し：2026/08/17(月) 13:00:51.54 ID:20Ag1Yjj0.net[1/5]\n\n\n\n\n\n\n\n「言葉の通じないモンスターに思えた」元ジャンポケ斉藤被告がロケバス内で口腔性交…女性が“示談金2500万円”を拒んだ理由 @Gakuse_Bocho https://t.co/Kos2mTUY8o— ニュースSP...",
+          "link": "https://itainews.com/archives/2066176.html",
+          "publishedOn": "2026-08-18T01:04:51.000Z",
+          "wordCount": 3405,
+          "title": "【悲報】ジャンポケ斉藤、嫁がトドメを刺した模様。被害者「あまりにも卑劣で耐え難い屈辱でした」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/4/b4f61a68-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066175.html",
+          "author": "takakichi5346",
+          "description": "1 名前：♪♪♪ ★：2026/08/17(月) 13:25:14.57 ID:8FA4V8IM9.net\n\n\n\n\n\n\n\n\"引きずり降ろされ車を奪われる強盗事件 男が逃走中 「駅まで乗せて」話しかけられ 名古屋・南区\" https://t.co/VeP9jwe7eZ— むっつり (@mutturisukabe) August 17, 2026 \n\n\n\n\n\n\nhttps://news.y...",
+          "link": "https://itainews.com/archives/2066175.html",
+          "publishedOn": "2026-08-18T00:03:02.000Z",
+          "wordCount": 3678,
+          "title": "【名古屋】引きずり降ろされ車を奪われる強盗事件　外国人風の男が逃走中　「駅まで乗せて」話しかけられ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/7/2/72e333af-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066169.html",
           "author": "nobi0929",
@@ -6052,6 +6192,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127252/",
+          "author": null,
+          "description": "イラストレーターのナガノが手がける人気キャラクター「ちいかわ」初の劇場版となる「映画ちいかわ 人魚の島のひみつ」の入場者特典第3弾が、ちいかわ、ハチワレ、うさぎを背中に乗せたセイレーンが走り出す...",
+          "link": "https://anime.eiga.com/news/127252/",
+          "publishedOn": "2026-08-18T03:00:00.000Z",
+          "wordCount": 748,
+          "title": "「映画ちいかわ　人魚の島のひみつ」入場特典第3弾はちいかわ・ハチワレ・うさぎを背中に乗せたプルバックカー「ごきげんセイレーン♪」",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127242/",
           "author": null,
