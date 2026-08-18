@@ -2,10 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-18T15:51:41.906Z</updated>
+    <updated>2026-08-18T17:02:39.814Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「The Witness」や「Braid」を手掛けたクリエイターによる新作「Order of the Sinking Star」，発売日を10月8日に決定]]></title>
+        <id>https://www.4gamer.net/games/968/G096803/20260819001/</id>
+        <link href="https://www.4gamer.net/games/968/G096803/20260819001/"/>
+        <updated>2026-08-18T16:53:15.000Z</updated>
+        <summary type="html"><![CDATA[ArcGamesは2026年8月18日，同社による新作タイトル「OrderoftheSinkingStar」の発売日を10月8日に決定した。それに合わせて，新たなトレイラーが公開されている。AlanHazelden氏やSeanBarrett氏，JonahOstroff氏，PatrickTraynor氏ら複数のパズルゲームデザイナーが開発に参加していることが改めて紹介された。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【速報】草刈り作業中の男性が死亡　体温は搬送時約４０度　熱中症の可能性もあるとみて警察が捜査　兵庫・小野市(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/c82a7e4c44eb84b2201d586fca5fd0dd1ebf7c28?source=rss</id>
