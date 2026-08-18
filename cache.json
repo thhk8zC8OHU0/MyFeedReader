@@ -833,6 +833,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/2463a2c5030e7c2df77d6f4cab5ecc620af0a2d6?source=rss",
+          "author": null,
+          "description": "大阪市生野区の路上で６日未明、バイクに乗っていた男性が乗用車にはねられ、車が走り去ったひき逃げ事件で、大阪府警は１８日、２３歳の男を逮捕しました。\n\n　過失運転致傷と道路交通法違反（ひき逃げ）の疑い",
+          "link": "https://news.yahoo.co.jp/articles/2463a2c5030e7c2df77d6f4cab5ecc620af0a2d6?source=rss",
+          "publishedOn": "2026-08-18T05:48:11.000Z",
+          "wordCount": 1636,
+          "title": "大阪・生野区で6日発生の重傷ひき逃げ　車で逃走していた23歳建設作業員の男を逮捕(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260818-00082096-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/a82b5c6cd8c8642df4c049ba25ada1421e887fff?source=rss",
           "author": null,
           "description": "夏の高校野球、第１３日第２試合は智弁和歌山（和歌山）と仙台育英（宮城）が対戦し、１１－３で智弁和歌山が勝利しました。",
@@ -1980,6 +1990,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/c87nv4l8z4po#0",
+          "author": null,
+          "description": "アメリカのトランプ大統領が作家E・ジーン・キャロル氏に対する性的暴行と名誉毀損で損害賠償を命じられた民事訴訟の評決をめぐり、連邦最高裁は17日、これを覆すことを狙うトランプ氏の訴えを再び退けた。",
+          "link": "https://www.bbc.com/japanese/articles/c87nv4l8z4po?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-18T05:06:46.000Z",
+          "wordCount": 1910,
+          "title": "トランプ氏の再審理要求、米最高裁が再び退ける　作家キャロル氏への性的暴行認めた評決めぐり",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/8678/live/aa573860-9a50-11f1-96c4-e7f87215742d.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cn0nnlyzke9o#0",
           "author": null,
           "description": "大西洋奴隷貿易に関する世界的な議論は今年、そのトーンに劇的な変化がみられる。奴隷制度から利益を得た国や機関に対し、正式な謝罪、債務減免、金銭的補償を求める声が一段と強くなっている。そうした訴えを主導しているのが、多くの奴隷船の出港地となったガーナだ。",
@@ -3084,6 +3104,26 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=130936",
+          "author": "多根清史",
+          "description": "中国テック大手のAlibabaグループは、ゲーム開発子会社のLingxi Gamesを、アジアのプライベート・エクイティ・ファンドTrustar Capitalに売却することで合意したと報じられている。LingxiのCEOであるZhou Bingshu氏が今月初めに従業員向けに送った社内メモで合意が […]",
+          "link": "https://gadget.phileweb.com/post-130936/",
+          "publishedOn": "2026-08-18T06:02:19.000Z",
+          "wordCount": 702,
+          "title": "Alibaba『三国志』ゲーム開発子会社売却へ。AI・クラウドへの投資",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/ee15454dc6a92102fc046f45b6e7c53e.jpg"
+        },
+        {
+          "id": "https://gadget.phileweb.com/?p=130941",
+          "author": "Munenori Taniguchi",
+          "description": "顔認識、生体認証、あらゆるデータを収集しようとする企業を前に、どうやって個人情報とプライバシーを守るかに人々が頭を悩ませるこのご時勢だが、近年は新たなプライバシー侵害ツールとしてスマートグラスが台頭してきている。 スマートグラスはそのフレーム部分にカメラを内蔵しているものが多く、写真や動画をハンズフ […]",
+          "link": "https://gadget.phileweb.com/post-130941/",
+          "publishedOn": "2026-08-18T05:50:00.000Z",
+          "wordCount": 712,
+          "title": "「変態メガネ」による迷惑動画投稿収まらず。Metaの取締り強化宣言も効果薄",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/07/29c252fd74d104c4a42da4d977509684.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=130911",
           "author": "多根清史",
           "description": "2026年8月12日、オランダ国家サイバーセキュリティセンター（NCSC-NL）は、アップルがすでに緊急修正プログラムをリリース済みの画面共有機能に関する脆弱性を悪用した事例が実際に悪用されているとの報告を受けたと警告した。もし、アップルが今月初めにリリースしたmacOSの更新が未適用ならは、すぐに […]",
@@ -3897,6 +3937,36 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066201.html",
+          "author": "damono3856",
+          "description": "1 名前：煮卵 ★：2026/08/17(月) 23:12:59.30 ID:84CohWGw9.net\n\n\n\n\n\n\n\nうんこミュージアム、個人情報漏れた可能性　不正アクセスで https://t.co/w0Lj4KVRY8— ASCII.jp (@asciijpeditors) August 17, 2026  \n\n\n\n\n\n\n　うんこミュージアムは8月14日、ウェブサイトが不正...",
+          "link": "https://itainews.com/archives/2066201.html",
+          "publishedOn": "2026-08-18T06:01:34.000Z",
+          "wordCount": 3043,
+          "title": "うんこミュージアム、個人情報漏れた可能性　不正アクセスで",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/a/c/ac00b3d6-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066196.html",
+          "author": "takakichi5346",
+          "description": "1 名前：♪♪♪ ★：2026/08/17(月) 17:14:55.51 ID:OEOIDXZD9.net\n\n\n\n\n\n\n\n【速報】蔵内議長の辞職勧告決議案　採決が見送りに　自民党議員から採決中止求める動議出される　福岡県議会https://t.co/3yW5rVIUDc#福岡県議会 #蔵内議長 #福岡— 福岡TNCニュース／記者のチ...",
+          "link": "https://itainews.com/archives/2066196.html",
+          "publishedOn": "2026-08-18T05:31:17.000Z",
+          "wordCount": 3303,
+          "title": "【福岡県議会】蔵内議長の辞職勧告決議案　採決が見送りに　自民党議員から採決中止求める動議出される",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/1/f16ed40d-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066194.html",
+          "author": "takakichi5346",
+          "description": "1 名前：蚤の市 ★：2026/08/17(月) 19:39:50.36 ID:/5x1hXPV9.net\n\n\n\n\n\n\n\n風俗の仕事探す女性に「１週間で５００万円稼げる」…東南アジアに「かけ子」送り込んだ容疑、暴力団組員を再逮捕 : 読売新聞 https://t.co/4fdZaUm1C8— 読売新聞オンライン (@Yomiuri_Online) ...",
+          "link": "https://itainews.com/archives/2066194.html",
+          "publishedOn": "2026-08-18T05:03:12.000Z",
+          "wordCount": 3197,
+          "title": "風俗職探す女性を「かけ子」に勧誘、「1週間500万円稼げる」と東南アジアへ…暴力団組員再逮捕",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/f/c/fc1ba4b8-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066187.html",
           "author": "dqnplus",
