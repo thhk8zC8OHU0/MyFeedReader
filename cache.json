@@ -853,6 +853,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/07d3d906aaba3ea5031455ac412cf2ec18f2cbda?source=rss",
+          "author": null,
+          "description": "大阪市都島区で１９日未明、住宅２棟が燃える火事があり、９０代の女性が救助されましたが、意識不明の重体です。\n\n　１９日午前３時１０分ごろ、大阪市都島区都島本通２丁目で、「火事です、家が燃えています」",
+          "link": "https://news.yahoo.co.jp/articles/07d3d906aaba3ea5031455ac412cf2ec18f2cbda?source=rss",
+          "publishedOn": "2026-08-18T21:29:13.000Z",
+          "wordCount": 1662,
+          "title": "【速報】大阪市都島区の住宅で火災　近隣の住宅にも延焼　９０代女性が意識不明の重体(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260819-00082107-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/9a733a4078705259624bc426871519049a477ddc?source=rss",
+          "author": null,
+          "description": "１８日午後、東海道新幹線の車内で、他の乗客が荷物棚に置いていた、現金などが入ったリュックサックを盗んだとして、韓国籍の男が逮捕されました。\n\n　窃盗の疑いで逮捕されたのは、住居不詳無職の韓国籍の男（",
+          "link": "https://news.yahoo.co.jp/articles/9a733a4078705259624bc426871519049a477ddc?source=rss",
+          "publishedOn": "2026-08-18T20:56:15.000Z",
+          "wordCount": 1688,
+          "title": "東海道新幹線の車内で韓国籍の男が「置引き」か　無賃乗車で確保された男を調べたところＪＲ東海内で警戒されていた人物とよく似ている→車内の防犯カメラを確認すると・・・　京都府警(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260819-00082106-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/c82a7e4c44eb84b2201d586fca5fd0dd1ebf7c28?source=rss",
           "author": null,
           "description": "１８日午後、兵庫県小野市の市道で、草刈り作業をしていた男性が倒れているのが見つかり、その後死亡が確認されました。\n　男性は搬送時、体温が約４０度だったといい、警察は熱中症の可能性もあるとみて捜査を進",
@@ -3894,6 +3914,16 @@
       "feedUrl": "https://foodfighter.jp/feed",
       "siteUrl": "https://foodfighter.jp",
       "articles": [
+        {
+          "id": "https://foodfighter.jp/?p=316857",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、新メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   【マクドナルド】ク […]",
+          "link": "https://foodfighter.jp/mccafe-chocolate-mint-frappe",
+          "publishedOn": "2026-08-18T21:32:22.000Z",
+          "wordCount": 2035,
+          "title": "【マクドナルド】クッキー＆チョコミントフラッペ【マックカフェ・新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/2b81d9140eeb7149ff4344df28e0bda0.jpg"
+        },
         {
           "id": "https://foodfighter.jp/?p=316835",
           "author": "foodfighter",
