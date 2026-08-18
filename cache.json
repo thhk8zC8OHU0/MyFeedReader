@@ -853,6 +853,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/4ba658c3e3146ea11b97d6186ceafb3bf37972d3?source=rss",
+          "author": null,
+          "description": "１９日早朝、滋賀県長浜市の琵琶湖で、県外から来た２０代とみられる男性が、泳いで網で魚を捕まえる「魚とり」をしていた際に行方がわからなくなり、その後救助されましたが、搬送先の病院で死亡が確認されました",
+          "link": "https://news.yahoo.co.jp/articles/4ba658c3e3146ea11b97d6186ceafb3bf37972d3?source=rss",
+          "publishedOn": "2026-08-18T22:22:10.000Z",
+          "wordCount": 1665,
+          "title": "【速報】早朝午前４時に琵琶湖で泳いで網で魚を捕まえる「魚とり」していた男性が溺れたか　水深３ｍの湖底で発見もその後死亡　滋賀・長浜市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260819-00082108-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/07d3d906aaba3ea5031455ac412cf2ec18f2cbda?source=rss",
           "author": null,
           "description": "大阪市都島区で１９日未明、住宅２棟が燃える火事があり、９０代の女性が救助されましたが、意識不明の重体です。\n\n　１９日午前３時１０分ごろ、大阪市都島区都島本通２丁目で、「火事です、家が燃えています」",
@@ -4177,6 +4187,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066209.html",
+          "author": "nobi0929",
+          "description": "1 名前：★：2026/08/18(火) 07:28:06.79 ID:99mu+JRZ0●.net\n\n\n\n\n\n\n\n千葉県民です。先日の大雨で、残クレで買ったアルファードが水没して完全に動かなくなりました。レッカーで近くのコンビニに許可を得て置いてますこの後どう処理すればいいか、頭が真っ白でわかりませ...",
+          "link": "https://itainews.com/archives/2066209.html",
+          "publishedOn": "2026-08-18T22:00:08.000Z",
+          "wordCount": 3380,
+          "title": "車カス「残クレアルファードが水没しました。自賠責保険に入っています。頭真っ白でどうしたらいいか」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/2/42a41823-s.jpg"
+        },
         {
           "id": "https://itainews.com/archives/2066234.html",
           "author": "damono3856",
