@@ -2,10 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-18T14:05:58.279Z</updated>
+    <updated>2026-08-18T15:51:41.906Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】草刈り作業中の男性が死亡　体温は搬送時約４０度　熱中症の可能性もあるとみて警察が捜査　兵庫・小野市(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/c82a7e4c44eb84b2201d586fca5fd0dd1ebf7c28?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/c82a7e4c44eb84b2201d586fca5fd0dd1ebf7c28?source=rss"/>
+        <updated>2026-08-18T15:27:27.000Z</updated>
+        <summary type="html"><![CDATA[１８日午後、兵庫県小野市の市道で、草刈り作業をしていた男性が倒れているのが見つかり、その後死亡が確認されました。
+　男性は搬送時、体温が約４０度だったといい、警察は熱中症の可能性もあるとみて捜査を進]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【松屋】チキン南蛮定食【新メニュー】]]></title>
         <id>https://foodfighter.jp/?p=316835</id>

@@ -843,6 +843,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/c82a7e4c44eb84b2201d586fca5fd0dd1ebf7c28?source=rss",
+          "author": null,
+          "description": "１８日午後、兵庫県小野市の市道で、草刈り作業をしていた男性が倒れているのが見つかり、その後死亡が確認されました。\n　男性は搬送時、体温が約４０度だったといい、警察は熱中症の可能性もあるとみて捜査を進",
+          "link": "https://news.yahoo.co.jp/articles/c82a7e4c44eb84b2201d586fca5fd0dd1ebf7c28?source=rss",
+          "publishedOn": "2026-08-18T15:27:27.000Z",
+          "wordCount": 1680,
+          "title": "【速報】草刈り作業中の男性が死亡　体温は搬送時約４０度　熱中症の可能性もあるとみて警察が捜査　兵庫・小野市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260819-00082105-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/8c70593cb5191f3426dfbfb5a21160f92b41062b?source=rss",
           "author": null,
           "description": "兵庫県は18日、借金をする際に国の許可が必要となる「起債許可団体」になったと発表しました。大幅な公共投資の削減案を提示し、県民生活にも影響が出そうです。\n\n　18日午前、兵庫県議会・総務常任委員会に",
