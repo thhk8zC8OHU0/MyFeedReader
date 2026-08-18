@@ -843,6 +843,46 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/818da20fc0b52585e184b474f7810d416edfb8de?source=rss",
+          "author": null,
+          "description": "７月、滋賀県甲賀市のアパートに侵入した上、金品を奪おうとして、帰宅した女性を殴るなどし、重傷を負わせたとして、警察は１８日、５０歳の男を逮捕しました。\n\n　強盗致傷と住居侵入の疑いで逮捕されたのは、",
+          "link": "https://news.yahoo.co.jp/articles/818da20fc0b52585e184b474f7810d416edfb8de?source=rss",
+          "publishedOn": "2026-08-18T09:39:54.000Z",
+          "wordCount": 1656,
+          "title": "アパートに侵入し帰宅した女性を殴って金品奪おうとしたか　住居不定・無職の50歳男を逮捕　滋賀・甲賀市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260818-00082102-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/26d7175b6889b5411d6d3ffbc1e9751cc5f806f5?source=rss",
+          "author": null,
+          "description": "事業費の高騰が明らかになった鉄道新線「なにわ筋線」について、建設を担う第３セクターが、総事業費は６４２５億円になるとする新たな試算を出しました。一方で、投資に対する効果を表す「費用便益比」は「１」を",
+          "link": "https://news.yahoo.co.jp/articles/26d7175b6889b5411d6d3ffbc1e9751cc5f806f5?source=rss",
+          "publishedOn": "2026-08-18T09:07:18.000Z",
+          "wordCount": 1686,
+          "title": "なにわ筋線の総事業費６４２５億円と試算　当初計画から倍増も費用便益比は１超え「事業継続は妥当」　横山市長は２０３１年の開業目標変えず(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260818-00082100-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/0aab5c7b388afc882bd5751100bfce9f54ed5f42?source=rss",
+          "author": null,
+          "description": "去年１０月に閉幕した大阪・関西万博の会場で、海外パビリオンの中で唯一、解体に着手できていなかったチェコパビリオンの工事が、始まったことがわかりました。\n\n　関係者によりますと、チェコパビリオンの本格",
+          "link": "https://news.yahoo.co.jp/articles/0aab5c7b388afc882bd5751100bfce9f54ed5f42?source=rss",
+          "publishedOn": "2026-08-18T09:00:00.000Z",
+          "wordCount": 1679,
+          "title": "【独自】万博・チェコパビリオンの解体始まる　これまで工事に着手できず　海外パビリオンの中で最後まで残る(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260818-00082097-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/298a897f0a2912ff3c0d8646169cde39a8e1b300?source=rss",
+          "author": null,
+          "description": "日本プロ野球選手会、兵庫県尼崎市、ＣＳ放送事業者の「スカイＡ」は１８日、共同で記者会見を開き、「キャッチボールクラシック2026全国大会」と「THE LAST GAME 2026」を、尼崎市の日鉄鋼",
+          "link": "https://news.yahoo.co.jp/articles/298a897f0a2912ff3c0d8646169cde39a8e1b300?source=rss",
+          "publishedOn": "2026-08-18T08:51:18.000Z",
+          "wordCount": 1713,
+          "title": "プロ野球引退選手のセレモニー兼ねた特別試合　「THE LAST GAME 2026」12月に尼崎市で開催　キャッチボールの正確さとスピードを競う大会も(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260818-00082099-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/77505dea10523dbf532a9e5273f82ef28763d6c6?source=rss",
           "author": null,
           "description": "夏の高校野球、第１３日第３試合は横浜（神奈川）と花巻東（岩手）が対戦し、６－０で横浜が勝利しました。",
@@ -2010,6 +2050,16 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cgk450rjymyo#0",
+          "author": null,
+          "description": "スリランカの医師団が、男性患者から重さ3.1キロの膀胱（ぼうこう）結石を摘出した。直径約17センチで、記録されている最大の膀胱結石だと医師団は考えている。",
+          "link": "https://www.bbc.com/japanese/articles/cgk450rjymyo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-18T08:49:21.000Z",
+          "wordCount": 1789,
+          "title": "スリランカで男性の膀胱から重さ3.1キロの結石摘出　記録的大きさの可能性",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/b1b8/live/5e4457f0-9ac8-11f1-a74b-2f66a3b83590.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/cjrvxq8w20zo#0",
           "author": null,
           "description": "イタリアの高級スポーツ車メーカー、フェラーリ初の電気自動車（EV）がこのほど、チャリティーオークションで4000万ドル（約64億円）で落札された。オークションで販売された新車としての最高額を記録した。",
@@ -3174,6 +3224,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=131000",
+          "author": "編集部：平山洸太",
+          "description": "FCNTは、 “手の届くハイエンド” を目指したスマートフォン「arrows Alpha2」の発売日を8月27日に決定した。また、価格についても発表され、オープン市場向けモデルの市場想定価格は、8GB/256GBが94,900円、12GB/512GBが118,800円（以下、税込表記）となっている。 […]",
+          "link": "https://gadget.phileweb.com/post-131000/",
+          "publishedOn": "2026-08-18T08:20:00.000Z",
+          "wordCount": 764,
+          "title": "メモリ高騰が直撃、FCNTの“手の届くハイエンド”「arrows Alpha2」が10万円切りを実現できたわけ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/55b0605175c23208cdbf232161cfa959.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=130983",
           "author": "Munenori Taniguchi",
           "description": "フェラーリ初のBEV（バッテリー式電気自動車）として開発されたルーチェの「0号車」が、先週土曜日にサザビーズのモントレー・オークションで、4000万ドル（約64億円）で落札された。この落札による収益金はすべて慈善団体に寄付される。 このルーチェの当初予想落札額は110万ドル（約1.8億円）だったため […]",
@@ -4017,6 +4077,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066202.html",
+          "author": "damono3856",
+          "description": "1 名前：：2026/08/17(月) 22:49:51.51 ID:FdhoVHIi0●.net \n\n\n\n\n\n\n\n「オービス」盗んだ疑いで逮捕の男性　不起訴／埼玉県(テレ玉)https://t.co/gP0pX3ZZi0— don_hasegawa (@don_hasegawa) August 17, 2026  \n\n\n\n\n\n\n　ことし6月、加須市で、県警の速度違反取り締まり装...",
+          "link": "https://itainews.com/archives/2066202.html",
+          "publishedOn": "2026-08-18T09:03:39.000Z",
+          "wordCount": 3425,
+          "title": "「オービス」盗んだ疑いで逮捕の男性　不起訴／埼玉",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/f/cfb94499-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066197.html",
           "author": "nobi0929",
@@ -6503,6 +6573,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/127244/",
+          "author": null,
+          "description": "日本の主要なアニメーションスタジオ、東映アニメーションが誕生して今年で70年となる。この夏、国立映画アーカイブで開催中の上映「フィルムでみよう！東映アニメーション」に合わせ、3人による特別寄稿で...",
+          "link": "https://anime.eiga.com/news/127244/",
+          "publishedOn": "2026-08-18T09:00:00.000Z",
+          "wordCount": 774,
+          "title": "東映アニメーション作品をみよう！（2）　大川博　その先見性と苦悩（津堅信之）",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/127252/",
           "author": null,
           "description": "イラストレーターのナガノが手がける人気キャラクター「ちいかわ」初の劇場版となる「映画ちいかわ 人魚の島のひみつ」の入場者特典第3弾が、ちいかわ、ハチワレ、うさぎを背中に乗せたセイレーンが走り出す...",
@@ -7349,6 +7434,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRaaCxSF8nEpfG3ZHesXKxw",
       "siteUrl": "https://www.youtube.com/channel/UCRaaCxSF8nEpfG3ZHesXKxw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/N78FLCxbXB8",
+          "author": null,
+          "description": "本編はこちらから！↓https://www.youtube.com/watch?v=8J8kVjw6FBU",
+          "link": "https://www.youtube.com/shorts/N78FLCxbXB8",
+          "publishedOn": "2026-08-18T06:00:20.000Z",
+          "wordCount": 4164,
+          "title": "【相棒】ガッツの右京と、頭脳派の亀山【ジェラードン】 #コント#ショート",
+          "imageUrl": "https://i.ytimg.com/vi/N78FLCxbXB8/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDfqXdGITlgC4LIHr5qIYbqGWsEyA"
+        },
         {
           "id": "https://www.youtube.com/watch?v=VQg6q7UbYHA",
           "author": null,
