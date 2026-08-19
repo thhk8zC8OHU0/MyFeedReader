@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/553/G055390/20260819007/",
+          "author": null,
+          "description": "任天堂は本日（2026年8月19日），「スプラトゥーン3」の更新データVer.11.3.0を8月20日10：00に配信すると発表した。今回の更新データでは，新たなブキ「PETシューターレプリカ」が追加される。また，対戦バランスの変更として，メインウェポン，スペシャルウェポン，スペシャル必要ポイントの変更が行われた。",
+          "link": "https://www.4gamer.net/games/553/G055390/20260819007/",
+          "publishedOn": "2026-08-19T03:29:05.000Z",
+          "wordCount": 8083,
+          "title": "「スプラトゥーン3」，「PETシューター レプリカ」を8月20日に追加。一部のメインウェポンでは安全にガチエリアを確保しづらいよう変更",
+          "imageUrl": "https://www.4gamer.net/games/553/G055390/20260819007/SS/001.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/034/G103417/20260818035/",
           "author": null,
           "description": "シティコネクションは本日，「野球格闘リーグマンBasesLoaded」を2026年12月10日に発売すると発表した。本作は，アイレムが手がけ1993年にリリースしたアーケードゲーム「野球格闘リーグマン」をHDリメイクした作品だ。新キャラクターやモードを追加し，最大4人のローカル協力プレイにも対応する。",
@@ -872,6 +882,36 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/d6941ac4f8e4477444dd328cde3d3d1b725b0d5b?source=rss",
+          "author": null,
+          "description": "妻に暴行を加え死亡させた罪などに問われている男が、初公判で起訴内容について黙秘しました。\n\n　起訴状によりますと、黒木佳史被告（３６）はおととし、大阪市の自宅で、妻のいずみさん（当時５２歳）に暴行を",
+          "link": "https://news.yahoo.co.jp/articles/d6941ac4f8e4477444dd328cde3d3d1b725b0d5b?source=rss",
+          "publishedOn": "2026-08-19T03:42:46.000Z",
+          "wordCount": 1637,
+          "title": "「遺体なき傷害致死」初公判で被告が黙秘　妻暴行死の罪に問われた夫　弁護側は無罪主張(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260819-00082110-asahibcv-000-2-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/13ab370adf59bb8e5b52c62a01067b1586b3a5aa?source=rss",
+          "author": null,
+          "description": "19日未明、大阪市都島区の住宅で火事があり、８０代の女性が死亡しました。\n\n　午前３時１０分ごろ、都島区都島本通で、「火事です、家が燃えています」と近隣住民から１１９番通報がありました。\n\n　火は約",
+          "link": "https://news.yahoo.co.jp/articles/13ab370adf59bb8e5b52c62a01067b1586b3a5aa?source=rss",
+          "publishedOn": "2026-08-19T03:41:39.000Z",
+          "wordCount": 1654,
+          "title": "住宅火災で８０代女性死亡　４０代女性も軽傷　隣接住宅２軒に延焼も　大阪市都島区(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260819-00082112-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/77fd0f11031cc3370d59ab15945fe0cf42d2c583?source=rss",
+          "author": null,
+          "description": "１９日早朝、滋賀県長浜市の琵琶湖で、魚とりをしていた男性が死亡しました。\n\n　午前４時ごろ、長浜市湖北町の琵琶湖で「成人男性が溺れている」と消防に通報がありました。\n\n　警察によりますと、網で魚をと",
+          "link": "https://news.yahoo.co.jp/articles/77fd0f11031cc3370d59ab15945fe0cf42d2c583?source=rss",
+          "publishedOn": "2026-08-19T03:39:10.000Z",
+          "wordCount": 1671,
+          "title": "早朝の琵琶湖で友人と「魚とり」　２０代男性が溺れ死亡　水深３メートルの湖底で発見　滋賀・長浜市(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260819-00082111-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/a8ff3bfa4ecd985e83a551110091386f9e62c710?source=rss",
           "author": null,
@@ -2160,6 +2200,26 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/ce8klv56nkxo#0",
+          "author": null,
+          "description": "人工知能（AI）チャットボット「チャットGPT」を運営する米オープンAIは18日、18歳未満のユーザー向けの安全機能を導入すると発表した。ただし、子どもたちがチャットGPTを生きていると信じるという特定の問題への対応ではないと述べている。",
+          "link": "https://www.bbc.com/japanese/articles/ce8klv56nkxo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-19T04:07:51.000Z",
+          "wordCount": 1846,
+          "title": "チャットGPTに子ども向け安全策、より「人間らしくない」仕様に",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/a091/live/d1a80e80-9aeb-11f1-930b-57cfba7235f9.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cj4k7dq1evgo#0",
+          "author": null,
+          "description": "ソーシャルメディアのプラットフォームを運営する米メタが被告となった過去最大規模の訴訟の審理が18日、アメリカの裁判所で始まった。原告の州当局は、メタが自社のフェイスブックとインスタグラムに子どもを意図的に依存させたと主張した。",
+          "link": "https://www.bbc.com/japanese/articles/cj4k7dq1evgo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-19T03:38:46.000Z",
+          "wordCount": 1874,
+          "title": "米メタに対する最大規模の訴訟、審理開始　子どもを依存させたと州側が主張",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/4029/live/737ae0f0-9b39-11f1-adfc-97cecc6f1ad1.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c4g31424rqdo#0",
           "author": null,
           "description": "米ディズニーと傘下のテレビ局ABCは18日、アメリカの放送規制当局にあたる連邦通信委員会（FCC）を提訴した。両社は、ABCが編集内容を理由に不当に標的にされていると主張し、放送免許更新のためFCCが求めた審査前倒しの差し止めを首都ワシントンの連邦地裁に求めた。",
@@ -3374,6 +3434,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=131048",
+          "author": "多根清史",
+          "description": "iPhone 18のProモデルには、可変絞りカメラが搭載されるとの噂が2024年頃から出ているが、中国のリーカーであるIce Universe氏は、Weiboへの最近の投稿でiPhone 18 Pro Maxが「可変絞り機能を独占的に搭載する」と述べている。 そして同氏は「最高のカメラ体験を求める […]",
+          "link": "https://gadget.phileweb.com/post-131048/",
+          "publishedOn": "2026-08-19T03:54:12.000Z",
+          "wordCount": 730,
+          "title": "新型iPhone、カメラに「可変絞り搭載はPro Maxだけ」の新たなうわさ",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/bf3684c4cd78459ce969f69090f8f978.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=131032",
           "author": "多根清史",
           "description": "アップルはカメラを搭載したAirPodsの開発を進めていると噂されているが、そのチュートリアル映像らしき動画が、macOS Tahoe 26.7のリリース候補版（RC／正式リリース直前の最終テスト段階のバージョン）から見つかったと報告されている。 この短いデモ動画では、AirPodsを装着した男性が […]",
@@ -4277,6 +4347,46 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066239.html",
+          "author": "dqnplus",
+          "description": "1 ：煮卵 ★：2026/08/18(火) 18:05:51.12 ID:VSUkZbkU9.net\n\n\n\n\n\n\n\n\n\npic.twitter.com/s3xk6TSy6l— 🍜楊国福麻辣烫仙台駅前店 (@yangguofu2026) August 18, 2026 \n\n\n\n\n\n\n\n\n\n世界最大級の麻辣湯（マーラータン）チェーンを展開する「楊国福グループ」（中国・上海）が仙...",
+          "link": "https://itainews.com/archives/2066239.html",
+          "publishedOn": "2026-08-19T05:01:21.000Z",
+          "wordCount": 3025,
+          "title": "開店祝いの花に鳩山由紀夫元首相や羽生結弦さんの名前無断使用　麻辣湯チェーンと店が謝罪 楊国福麻辣湯仙台駅前店",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/c/9cfafef2.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066238.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/08/18(火) 17:50:26.42 ID:zh4oiX0x0●.net\n\n\n\n\n\n\n\n\n\n「回転焼きのつぶあんが気にくわない」など6日間で159回警察に電話 偽計業務妨害容疑で56歳男逮 - サンテレビニュース https://t.co/5W65fbQgs7— ｸｲｯｸ_ｸｴﾝﾁ (@quick_quench) August 17, 2026 \n\n\n\n\n\n\n\n\nht...",
+          "link": "https://itainews.com/archives/2066238.html",
+          "publishedOn": "2026-08-19T04:31:03.000Z",
+          "wordCount": 3297,
+          "title": "「回転焼きのつぶあんが気にくわない」など6日間で159回警察に電話 偽計業務妨害容疑で56歳男逮",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/7/47d0903a-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066232.html",
+          "author": "nobi0929",
+          "description": "1 名前：★：2026/08/18(火) 11:39:52.81 ID:sUXHOQa+0.net\n\n\n\n\n\n\n\nNISA上限の1800万円は埋めるべき? 年齢別シミュレーションで紐解く【お金の教室】 https://t.co/lVDnv0nnKb pic.twitter.com/iJ5p9leNDw— Impress Watch (@impress_watch) August 17, 2026 \n\n\n\n\n\n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2066232.html",
+          "publishedOn": "2026-08-19T04:00:51.000Z",
+          "wordCount": 3588,
+          "title": "お前ら、NISA上限の1800万円ちゃんと埋めてる？",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/e/ce01bc3b-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2066231.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/08/18(火) 14:28:58.47 ID:w9Ft+Tyb0●.net\n\n\n\n\n\n\n\n\n戦争反対、差別をなくしたい…「『当たり前』を言い続ける」朝ドラ『虎に翼』の脚本家吉田恵里香さん　「トランプの傘」頼れるか、「核抑止は『狂気』に支えられる虚構」と国際政治学者の豊下楢彦さん　ht...",
+          "link": "https://itainews.com/archives/2066231.html",
+          "publishedOn": "2026-08-19T03:31:29.000Z",
+          "wordCount": 3935,
+          "title": "共同通信「日本はトランプの核の傘から離脱すべきではないか」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/1/41bc1ebf.png"
+        },
         {
           "id": "https://itainews.com/archives/2066228.html",
           "author": "takakichi5346",
@@ -7879,6 +7989,16 @@
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRaaCxSF8nEpfG3ZHesXKxw",
       "siteUrl": "https://www.youtube.com/channel/UCRaaCxSF8nEpfG3ZHesXKxw",
       "articles": [
+        {
+          "id": "https://www.youtube.com/shorts/BRCrhKp-BJE",
+          "author": null,
+          "description": "本編はこちら↓https://youtu.be/D9GlA3NzuiI",
+          "link": "https://www.youtube.com/shorts/BRCrhKp-BJE",
+          "publishedOn": "2026-08-19T02:34:48.000Z",
+          "wordCount": 3106,
+          "title": "声の可愛い隣の患者がおじさんだった【ジェラードン】 #コント",
+          "imageUrl": "https://i.ytimg.com/vi/BRCrhKp-BJE/hq720.jpg?sqp=-oaymwEkCJUDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAnI5Lk7X9z2DYCYu-G6wdbGmo3pg"
+        },
         {
           "id": "https://www.youtube.com/watch?v=ahbeDNe0AF8",
           "author": null,
