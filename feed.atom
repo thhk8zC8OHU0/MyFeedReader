@@ -2,10 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-19T15:50:50.789Z</updated>
+    <updated>2026-08-19T17:00:34.941Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[原子炉が自動停止した関西電力・大飯原発３号機で「励磁機」と呼ばれる装置に損傷見つかる(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/4c01b50fbba305180fc2b18c96de1908010f6da6?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/4c01b50fbba305180fc2b18c96de1908010f6da6?source=rss"/>
+        <updated>2026-08-19T16:19:37.000Z</updated>
+        <summary type="html"><![CDATA[関西電力は１９日、８日深夜に大飯原発３号機で原子炉が自動停止したことについて、発電機に磁界を発生させる「励磁機」と呼ばれる装置に損傷が見つかったと発表しました。
+
+　大飯原発３号機では８日午後１１時]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Singular Photonics raises US$2.15mn for next-gen SPADs]]></title>
+        <id>https://image-sensors-world.blogspot.com/2026/08/singular-photonics-raises-us215mn-for.html</id>
+        <link href="https://image-sensors-world.blogspot.com/2026/08/singular-photonics-raises-us215mn-for.html"/>
+        <updated>2026-08-19T16:17:41.290Z</updated>
+        <summary type="html"><![CDATA[Singular Photonics Lands Funding to Launch Next-Generation Image Sensors as Commercial Traction Grows
+Fabless semiconductor startup appoints former Arm CTO to Board as demand for SPAD-based image sensors accelerates.
+Edinburgh, UK – August 19, 2026 – Singular Photonics, a developer of SPAD-based image sensors, today announced it has closed an oversubscribed $2.15 million funding round, led by ACF Investors, with participation from Wren Capital, Cambridge Angels, Scottish Enterprise, Quantum Exponential and Old College Capital. The new capital will accelerate development of a new generation of sensors, expanding the company's product roadmap in response to demand from its growing customer base.
+Singular has already doubled its full-year 2025 sales in 2026 to date, driven by customer engagem…]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[友人と川遊びをしていた17歳の男子高校生が流され死亡　岩で足を滑らせたか　奈良・吉野川(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/608b59cc2df04b8938e00554640c56ae3872c094?source=rss</id>
@@ -10604,17 +10629,6 @@ eyeo has developed the world’s most advanced nanophotonic color-splitting tech
         <updated>2026-07-21T10:00:06.000Z</updated>
         <author>
             <name>有吉の壁【公式】壁チャンネル</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[先週観たもの]]></title>
-        <id>https://note.com/hima_kuuhaku/n/n8369119d9c9d</id>
-        <link href="https://note.com/hima_kuuhaku/n/n8369119d9c9d"/>
-        <updated>2026-07-21T04:52:44.000Z</updated>
-        <summary type="html"><![CDATA[サタノファニ（３７） (ヤングマガジンコミックス)amzn.to 792円(2026年07月16日 10:40時点詳しくはこちら)    Amazon.co.jpで購入する    
-続きをみる]]></summary>
-        <author>
-            <name>暇空茜</name>
         </author>
     </entry>
 </feed>
