@@ -2,10 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-19T20:59:28.764Z</updated>
+    <updated>2026-08-19T21:56:29.225Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[「Pixel Watch 5」レビュー。4から買い替えるべき？ 変わった点と変わらない点]]></title>
+        <id>https://gadget.phileweb.com/?p=130959</id>
+        <link href="https://gadget.phileweb.com/post-130959/"/>
+        <updated>2026-08-19T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleは8月20日、同社スマートウォッチの第5世代モデル「Pixel Watch 5」を発売した。Pixel Watch 4と同様に41mmと45mmの2モデル展開で、LTEにも対応。au／ドコモ／SoftBankから発売されている。前モデル同様、MNOの中では、楽天モバイルのみ取り扱いがない […]]]></summary>
+        <author>
+            <name>山本竜也</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[どう進化した？「Pixel 11 シリーズ」4機種レビュー。着実な改善と残された2つの課題]]></title>
+        <id>https://gadget.phileweb.com/?p=131174</id>
+        <link href="https://gadget.phileweb.com/post-131174/"/>
+        <updated>2026-08-19T21:30:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleが2026年8月12日に発表した新しいスマートフォン「Pixel 11」シリーズ。今回も従来のモデル展開を踏襲し、スタンダードモデルの「Pixel 11」、上位モデルの「Pxiel 11 Pro」とその大画面モデル「Pixel 11 Pro XL」、そして横折りタイプの折り畳みモデル「P […]]]></summary>
+        <author>
+            <name>佐野正弘</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pro匹敵の心地よさ。「Google Pixel 11」1週間使って見えた完成度]]></title>
+        <id>https://gadget.phileweb.com/?p=131060</id>
+        <link href="https://gadget.phileweb.com/post-131060/"/>
+        <updated>2026-08-19T21:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Googleが「Google Pixel 11」シリーズを発表した。ラインナップは、6.3インチのPixel 11とPixel 11 Pro、6.8インチのPixel 11 Pro XL。そして今年は同じ日に、縦折りのPixel 11 Pro Foldも発売を迎えた。 Google Storeでの税 […]]]></summary>
+        <author>
+            <name>山本 敦</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[原子炉が自動停止した関西電力・大飯原発３号機で「励磁機」と呼ばれる装置に損傷見つかる(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/4c01b50fbba305180fc2b18c96de1908010f6da6?source=rss</id>
