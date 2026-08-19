@@ -943,6 +943,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/608b59cc2df04b8938e00554640c56ae3872c094?source=rss",
+          "author": null,
+          "description": "奈良県の吉野川で、川遊びをしていた１７歳の男子高校生が流され、死亡しました。\n\n　きのう正午ごろ、奈良県吉野町の吉野川で、友人グループの男女７人で遊びに来ていた、東大阪市の高校生・広田聖也さん（１７",
+          "link": "https://news.yahoo.co.jp/articles/608b59cc2df04b8938e00554640c56ae3872c094?source=rss",
+          "publishedOn": "2026-08-19T15:29:22.000Z",
+          "wordCount": 1631,
+          "title": "友人と川遊びをしていた17歳の男子高校生が流され死亡　岩で足を滑らせたか　奈良・吉野川(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260819-00082130-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/14d6ec18a63779a7c55edb519bf00ece1b03f378?source=rss",
           "author": null,
           "description": "ＬＣＣ＝格安航空会社のピーチは、自社が原因で大幅な遅延や欠航が発生した際に、利用者が負担した宿泊費や交通費を補償する新しい制度の運用を１９日から開始しました。\n\n　ピーチ・アビエーションによりますと",
@@ -4355,6 +4365,16 @@
       "siteUrl": "https://foodfighter.jp",
       "articles": [
         {
+          "id": "https://foodfighter.jp/?p=316902",
+          "author": "foodfighter",
+          "description": "毎日、デカ盛り、大盛り、おかわり自由、食べ放題のお店を探しています。   今回は、期間限定メニュー、日本で最も有名なハンバーガーチェーン「マクドナルド」へ進撃しました。   【マクドナル […]",
+          "link": "https://foodfighter.jp/mcdonalds-samurai-double-2026",
+          "publishedOn": "2026-08-19T14:42:37.000Z",
+          "wordCount": 2057,
+          "title": "【マクドナルド】サムライマック 炙り醤油風 たまごベーコンダブル肉厚ビーフ【夜マック・新メニュー】",
+          "imageUrl": "https://foodfighter.jp/wp-content/uploads/2026/08/127587994f76f9d5be4edbb44117cc10.jpg"
+        },
+        {
           "id": "https://foodfighter.jp/?p=316897",
           "author": "foodfighter",
           "description": "毎日、コンビニ、チェーン店の最新グルメを紹介しています。   今回は、セブンイレブンの新商品「お店で焼いたカリッじゅワッサン」を世界一詳しく調査しました。   【セブンイレブン】お店で焼 […]",
@@ -7325,6 +7345,16 @@
       "feedUrl": "https://logipara.com/feed",
       "siteUrl": "https://logipara.com",
       "articles": [
+        {
+          "id": "https://logipara.com/?p=13394",
+          "author": "watanabe@logipara.com",
+          "description": "ギター教室に通って、1年以上が経ちました。 　 　 　 私と同じクラスに先日、初めてギターを触る人が加入したのですが、もう技術的に抜かれそうです",
+          "link": "https://logipara.com/diary-text/2026-08-20/",
+          "publishedOn": "2026-08-19T14:14:09.000Z",
+          "wordCount": 2752,
+          "title": "先輩の威厳",
+          "imageUrl": "https://logipara.com/wp/wp-content/uploads/2018/10/ろじキノコ-01.png"
+        },
         {
           "id": "https://logipara.com/?p=13391",
           "author": "watanabe@logipara.com",
