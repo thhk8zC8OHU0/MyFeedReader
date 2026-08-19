@@ -6,6 +6,26 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/034/G103440/20260819020/",
+          "author": null,
+          "description": "ハムスターは本日，アーケードアーカイブス版「サイバーサイクルズ」を2026年8月20日に配信すると発表した。「サイバーサイクルズ」は，1995年にナムコが発売したレースゲームだ。近未来のバイクレースを舞台に，性能の異なるマシンから1台を選んでゴールを目指す。",
+          "link": "https://www.4gamer.net/games/034/G103440/20260819020/",
+          "publishedOn": "2026-08-19T08:00:00.000Z",
+          "wordCount": 8263,
+          "title": "アーケードアーカイブス「サイバーサイクルズ」，8月20日に配信開始。バイク型大型筐体で登場したナムコの近未来バイクレースゲームが復刻",
+          "imageUrl": "https://www.4gamer.net/games/034/G103440/20260819020/SS/002.jpg"
+        },
+        {
+          "id": "https://www.4gamer.net/games/534/G053435/20260819023/",
+          "author": null,
+          "description": "Innerslothは本日（2026年8月19日），宇宙人狼ゲーム「AmongUs」のアップデートを実施し，新たな役職の追加などを行った。追加されたのは，会議の投票結果を無視して追放するプレイヤーを自由に決められる役職「ジャッジ」だ。",
+          "link": "https://www.4gamer.net/games/534/G053435/20260819023/",
+          "publishedOn": "2026-08-19T06:26:46.000Z",
+          "wordCount": 8438,
+          "title": "「Among Us」，投票結果を無視して追放者を決められる新役職“ジャッジ”が登場。ただし間違えた場合は自分が追放される",
+          "imageUrl": "https://www.4gamer.net/games/534/G053435/20260819023/SS/002.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/635/G063504/20260819016/",
           "author": null,
           "description": "レッドブル・ジャパンは本日（2026年8月19日），招待制ショーマッチ「RedBullRevenge」を，9月21日に「東京ゲームショウ2026」のイベントステージで開催すると発表した。これは，「ストリートファイター」の競技シーンの名勝負を，「ストリートファイター6」で再演する企画だ。",
@@ -892,6 +912,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/231dc6ec9061aff7b38b55245d6a857676d92a0e?source=rss",
+          "author": null,
+          "description": "ＪＲ京都駅のホームに設置された非常ボタンを、緊急性がないのに押して新幹線の運行を停止させた疑いで２８歳の男が逮捕されました。\n\n　威力業務妨害の疑いで逮捕されたのは、岐阜県各務原市の自称・フリーカメ",
+          "link": "https://news.yahoo.co.jp/articles/231dc6ec9061aff7b38b55245d6a857676d92a0e?source=rss",
+          "publishedOn": "2026-08-19T07:59:39.000Z",
+          "wordCount": 1656,
+          "title": "緊急性ないのに非常ボタン押したか　ＪＲ京都駅で新幹線の運行停止させた疑い　自称・フリーカメラマンの２８歳男を逮捕(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260819-00082115-asahibcv-000-1-view.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/bd3507ef5a0d51897d8094a868df39239e87049c?source=rss",
           "author": null,
@@ -2230,6 +2260,26 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/cy07e5rxvejo#0",
+          "author": null,
+          "description": "7月に解任されたウクライナのミハイロ・フェドロフ前国防相（35）は、戦時下での大統領選実施を呼びかけた。フェドロフ氏は、「民主主義がロシアに人質にされるなど、あってはならない」と、ユーチューブに投稿した動画の中で主張した。",
+          "link": "https://www.bbc.com/japanese/articles/cy07e5rxvejo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-19T07:53:52.000Z",
+          "wordCount": 1786,
+          "title": "解任されたウクライナ前国防相、大統領選挙の実施を要求",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/26e2/live/88af3c20-9b5f-11f1-aed2-8d6da8d75094.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c36d9pl04g2o#0",
+          "author": null,
+          "description": "中国の朱鎔基元首相の告別式が18日、北京で行われた。中国政府は朱氏を「忠実な」党員として称賛する一方で、同氏の改革時代に対する国民の追悼が、現在の習政権に対する遠回しな批判に容易に転じうることを警戒している。",
+          "link": "https://www.bbc.com/japanese/articles/c36d9pl04g2o?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-19T06:22:01.000Z",
+          "wordCount": 1879,
+          "title": "【解説】 中国で朱鎔基元首相の告別式、国民の追悼を検閲　政府の思惑は",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/be9a/live/c8400770-9aba-11f1-81ae-010a5ad83b46.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/crk5y0180e4o#0",
           "author": null,
           "description": "韓国国防省は19日、アメリカと毎年実施している合同軍事演習を6日間短縮すると発表した。「アメリカ側の提案」を受けて、演習の「期間と規模」を調整したと説明した。",
@@ -3474,6 +3524,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=131087",
+          "author": "多根清史",
+          "description": "PCメモリー大手CrucialのDDR5メモリーを購入したある顧客が、その製品が初期不良だったため返品保証サービスを受けるための手続きを行った。ところが、メーカーから代替品を発送するとの連絡を受けたにもかかわらず、いつのまにかそれがキャンセルされ、代替品購入には到底足りない金額の返金対応に変更された […]",
+          "link": "https://gadget.phileweb.com/post-131087/",
+          "publishedOn": "2026-08-19T07:56:46.000Z",
+          "wordCount": 708,
+          "title": "Crucialのメモリー初期不良対応でトラブル。交換のはずが在庫尽き、返金に切替えもかなり少額に",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/6f26959c9ff7ac3e8abd1cbc8aa043ba.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=131048",
           "author": "多根清史",
           "description": "iPhone 18のProモデルには、可変絞りカメラが搭載されるとの噂が2024年頃から出ているが、中国のリーカーであるIce Universe氏は、Weiboへの最近の投稿でiPhone 18 Pro Maxが「可変絞り機能を独占的に搭載する」と述べている。 そして同氏は「最高のカメラ体験を求める […]",
@@ -4387,6 +4447,36 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066260.html",
+          "author": "takakichi5346",
+          "description": "1 名前：♪♪♪ ★：2026/08/19(水) 08:43:33.14 ID:qO1DqGgB9.net\n\n\n\n\n\n\n\n「ゴリラ」名乗る政治団体が19日設立会見、立憲現職や中道落選者ら約20人参加か(日刊スポーツ)#Yahooニュースhttps://t.co/BINyRaRqjh— ミトチャ (@Garuda08199136) August 19, 2026 \n\n\n\n\n\n\n8/1...",
+          "link": "https://itainews.com/archives/2066260.html",
+          "publishedOn": "2026-08-19T08:02:31.000Z",
+          "wordCount": 3047,
+          "title": "「ゴリラ」名乗る政治団体が19日設立会見、立憲現職や中道落選者ら約20人参加か",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/5/e/5ef0e58e-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066246.html",
+          "author": "damono3856",
+          "description": "1 名前：煮卵 ★：2026/08/18(火) 18:28:34.19 ID:7Iq6tjEi9.net\n\n\n\n\n\n\n\n生徒の外国人が「止まれ」理解できず事故で死亡か、日本語学校長が啓発強化…地元警察も協力・英語併記切り替え進む事故を受け、現場の交差点西側では、英語が記載された標識に取り換えられたhttps...",
+          "link": "https://itainews.com/archives/2066246.html",
+          "publishedOn": "2026-08-19T07:01:17.000Z",
+          "wordCount": 3986,
+          "title": "【共生】生徒の外国人が「止まれ」理解できず事故で死亡か、日本語学校長が啓発強化…地元警察も協力 “英語併記切り替え”進む",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/4/9/49f7b01d.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066243.html",
+          "author": "takakichi5346",
+          "description": "1 名前：煮卵 ★：2026/08/18(火) 21:55:21.81 ID:NSI7cR6v9.net\n\n\n\n\n\n\n\n【放火し両親殺害未遂疑い 15歳逮捕】https://t.co/MlsKxMh9Oc— Yahoo!ニュース (@YahooNewsTopics) August 18, 2026 \n\n\n\n\n\n\n18日未明、福岡県大牟田市で木造住宅が全焼する火事がありました。\n\n...",
+          "link": "https://itainews.com/archives/2066243.html",
+          "publishedOn": "2026-08-19T06:33:39.000Z",
+          "wordCount": 3282,
+          "title": "【福岡】男子中学生(15)放火と殺人未遂で逮捕　自宅にガソリンか…「お父さんが暴力を振ってくるのが嫌いで」「両親を殺そうと」家は全焼",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/1/9169e0d7-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066242.html",
           "author": "nobi0929",
@@ -8205,7 +8295,18 @@
       "title": "永田　ハードオフ久留米国分店",
       "feedUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCo72rUcAcuJO4MLlPXCZxaQ",
       "siteUrl": "https://www.youtube.com/channel/UCo72rUcAcuJO4MLlPXCZxaQ",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://www.youtube.com/watch?v=b-UkETwYVBo",
+          "author": null,
+          "description": "",
+          "link": "https://www.youtube.com/watch?v=b-UkETwYVBo",
+          "publishedOn": "2026-08-18T06:17:34.000Z",
+          "wordCount": null,
+          "title": "札幌ドームで300人からリクエストを募集したら、子供たちの選曲が予想外すぎた",
+          "imageUrl": null
+        }
+      ]
     },
     {
       "title": "モンスターハンターNow 公式",
