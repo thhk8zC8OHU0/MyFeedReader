@@ -6,6 +6,16 @@
       "siteUrl": "https://www.4gamer.net/",
       "articles": [
         {
+          "id": "https://www.4gamer.net/games/015/G101577/20260820035/",
+          "author": null,
+          "description": "8月14日から16日まで，「究極のディズニーファンイベント」と呼ぶ「D23」がアメリカで開催された。「キングダムハーツIV」の発売時期やアニメシリーズの発表で盛り上がったイベントのレポートと，ディズニー側ディレクターへの単独インタビューをお届けしよう。",
+          "link": "https://www.4gamer.net/games/015/G101577/20260820035/",
+          "publishedOn": "2026-08-20T23:00:00.000Z",
+          "wordCount": 8662,
+          "title": "究極のディズニーファンイベント「D23」で語られた「キングダム ハーツ」25年の本質とはなにか",
+          "imageUrl": "https://www.4gamer.net/games/015/G101577/20260820035/SS/004.jpg"
+        },
+        {
           "id": "https://www.4gamer.net/games/010/G101055/20260814005/",
           "author": null,
           "description": "スクウェア・エニックスは本日，「ドラゴンクエストモンスターズ4　枯れ木の国のビアンカ・フローラ」の最新情報を公開した。今回は，魔刻石によって異変が起きているカレキの国で出会うキャラクターや，生命樹を再生しながら各地を巡るフィールド探索の詳細が明らかになった。",
@@ -1132,6 +1142,16 @@
       "feedUrl": "https://news.yahoo.co.jp/rss/media/asahibc/all.xml",
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
+        {
+          "id": "https://news.yahoo.co.jp/articles/dc710f499b4dbb957406772d2c0e9463adc9992e?source=rss",
+          "author": null,
+          "description": "少し暑さが和らいできた矢先、近畿では２０日、京都・兵庫・和歌山で熱中症警戒アラートが出されました。引き続き、厳しい残暑に注意が必要です。",
+          "link": "https://news.yahoo.co.jp/articles/dc710f499b4dbb957406772d2c0e9463adc9992e?source=rss",
+          "publishedOn": "2026-08-20T23:00:00.000Z",
+          "wordCount": 1697,
+          "title": "「疲れが取れない」「食欲がわかない」…それって“残暑バテ”かも？　今からできる対策を医師が解説(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260820-00082148-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
         {
           "id": "https://news.yahoo.co.jp/articles/cfa8e71a42ef580b810548ce9a1e3a58163636b4?source=rss",
           "author": null,

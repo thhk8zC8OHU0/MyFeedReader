@@ -2,10 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-20T22:01:56.615Z</updated>
+    <updated>2026-08-20T23:04:23.160Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[究極のディズニーファンイベント「D23」で語られた「キングダム ハーツ」25年の本質とはなにか]]></title>
+        <id>https://www.4gamer.net/games/015/G101577/20260820035/</id>
+        <link href="https://www.4gamer.net/games/015/G101577/20260820035/"/>
+        <updated>2026-08-20T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[8月14日から16日まで，「究極のディズニーファンイベント」と呼ぶ「D23」がアメリカで開催された。「キングダムハーツIV」の発売時期やアニメシリーズの発表で盛り上がったイベントのレポートと，ディズニー側ディレクターへの単独インタビューをお届けしよう。]]></summary>
+        <author>
+            <name>4Gamer.net − Switch</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[「疲れが取れない」「食欲がわかない」…それって“残暑バテ”かも？　今からできる対策を医師が解説(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/dc710f499b4dbb957406772d2c0e9463adc9992e?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/dc710f499b4dbb957406772d2c0e9463adc9992e?source=rss"/>
+        <updated>2026-08-20T23:00:00.000Z</updated>
+        <summary type="html"><![CDATA[少し暑さが和らいできた矢先、近畿では２０日、京都・兵庫・和歌山で熱中症警戒アラートが出されました。引き続き、厳しい残暑に注意が必要です。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[立憲民主広報委員会杉尾秀哉と、AI女性議員「中村りほ」の中の人のツーショットがこちら]]></title>
         <id>https://itainews.com/archives/2066289.html</id>
