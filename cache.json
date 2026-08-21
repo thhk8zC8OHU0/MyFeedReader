@@ -1233,6 +1233,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/39482bf56bc4bb6ff73beb1413b74ccb2d8cafab?source=rss",
+          "author": null,
+          "description": "神戸市で、自宅アパートの一室で男性の遺体を遺棄したとして、この部屋に住む５５歳の男が逮捕されました。\n\n　死体遺棄の疑いで逮捕されたのは、神戸市灘区の会社員の男（５５）です。\n\n　男は２１日午後、自",
+          "link": "https://news.yahoo.co.jp/articles/39482bf56bc4bb6ff73beb1413b74ccb2d8cafab?source=rss",
+          "publishedOn": "2026-08-21T17:26:57.000Z",
+          "wordCount": 1628,
+          "title": "同居していた双子の兄か　男性の遺体を遺棄した疑いで５５歳男を逮捕　神戸・灘区(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260822-00082171-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/e3f0404d8f4334a54ac8722afea1d286d47e2dff?source=rss",
           "author": null,
           "description": "劇物を入れたマフィンを知人の男性に摂取させ、殺害しようとしたとして、４６歳の女が逮捕されました。\n\n　殺人未遂の疑いで逮捕されたのは、滋賀県東近江市に住む派遣社員、藤木香奈容疑者（４６）です。",
@@ -5258,6 +5268,16 @@
       "siteUrl": "https://image-sensors-world.blogspot.com/",
       "articles": [
         {
+          "id": "https://image-sensors-world.blogspot.com/2026/08/novoviz-releases-variable-frame-rate.html",
+          "author": null,
+          "description": "Link: https://novoviz.com/variable-frame-rate-spad-camera/\nThe NVx5VFR-HW variable frame rate camera was developed for applications requiring high sensitivity and/or frame rate but with reduced output bandwidth. The camera combines the benefits of a SPAD camera, namely the single-photon resolution and fast operating speeds, with those of an event camera—low output data rates. \nFeatures: \n\n480 x 320 or 256 x 192 SPAD pixels\nEvent-based readout\nAdjustable event threshold\n20ns global shutter\nOn-chip pixel binning\nUSB 3.0  \n\nEvent camera emulation\n[...] because there is a single sensor and a single acquisition, the two modalities are inherently synchronized in time and space, without genlocking, cross-sensor calibration, or timestamp drift. The SPAD sensor thus functions as a flexible substrate that can be reprocessed into multiple imaging modalities entirely in software. \nHDR Imaging\n[...] photon-counting approach lets each pixel build its own exposure curve, avoiding the clipping and noise floor issues that limit standard CMOS or CCD imaging. \nInstantaneous adaptation to lighting variation\n[...] photon-counting approach lets the sensor adapt instantly to drastic lighting shifts, with no exposure recalibration, no motion blur, and no saturation, capturing both the bright and near-dark scenes with equal clarity in the same brief 2ms window.",
+          "link": "https://image-sensors-world.blogspot.com/2026/08/novoviz-releases-variable-frame-rate.html",
+          "publishedOn": "2026-08-21T18:41:00.000Z",
+          "wordCount": 3959,
+          "title": "NovoViz releases variable frame rate SPAD sensor",
+          "imageUrl": null
+        },
+        {
           "id": "https://image-sensors-world.blogspot.com/2026/08/singular-photonics-raises-us215mn-for.html",
           "author": null,
           "description": "Singular Photonics Lands Funding to Launch Next-Generation Image Sensors as Commercial Traction Grows\nFabless semiconductor startup appoints former Arm CTO to Board as demand for SPAD-based image sensors accelerates.\nEdinburgh, UK – August 19, 2026 – Singular Photonics, a developer of SPAD-based image sensors, today announced it has closed an oversubscribed $2.15 million funding round, led by ACF Investors, with participation from Wren Capital, Cambridge Angels, Scottish Enterprise, Quantum Exponential and Old College Capital. The new capital will accelerate development of a new generation of sensors, expanding the company's product roadmap in response to demand from its growing customer base.\nSingular has already doubled its full-year 2025 sales in 2026 to date, driven by customer engagem…",
@@ -8113,16 +8133,6 @@
           "wordCount": 2810,
           "title": "イックションペはゴンの母親説のHUNTER考察者ちーどるは多分パクリ野郎",
           "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/f233f43841e732c59ec0a87fc5ecfb95bcafc158.png"
-        },
-        {
-          "id": "https://note.com/hima_kuuhaku/n/n4a7cb8623a69",
-          "author": null,
-          "description": "神奈川新聞2026年5月19日朝刊\nストーカー規制法違反容疑で逮捕された堀口英利（28　自称KCL、学歴詐称高卒）は報道によると、面会を要求したかどで逮捕されたとのことでしたが、この度本人らしき発信により、その詳細が明らかになりました\n続きをみる",
-          "link": "https://note.com/hima_kuuhaku/n/n4a7cb8623a69",
-          "publishedOn": "2026-07-23T06:05:22.000Z",
-          "wordCount": 2424,
-          "title": "ストーカー規制法違反容疑で逮捕された堀口英利の逮捕理由が判明しました",
-          "imageUrl": "https://d2l930y2yx77uc.cloudfront.net/production/social_images/9a04c27e531a0437bc352f7e864f67e2365b7c0a.png"
         }
       ]
     },

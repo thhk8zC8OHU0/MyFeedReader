@@ -2,10 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-21T17:14:33.393Z</updated>
+    <updated>2026-08-21T19:08:35.098Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[NovoViz releases variable frame rate SPAD sensor]]></title>
+        <id>https://image-sensors-world.blogspot.com/2026/08/novoviz-releases-variable-frame-rate.html</id>
+        <link href="https://image-sensors-world.blogspot.com/2026/08/novoviz-releases-variable-frame-rate.html"/>
+        <updated>2026-08-21T18:41:00.000Z</updated>
+        <summary type="html"><![CDATA[Link: https://novoviz.com/variable-frame-rate-spad-camera/
+The NVx5VFR-HW variable frame rate camera was developed for applications requiring high sensitivity and/or frame rate but with reduced output bandwidth. The camera combines the benefits of a SPAD camera, namely the single-photon resolution and fast operating speeds, with those of an event camera—low output data rates. 
+Features: 
+
+480 x 320 or 256 x 192 SPAD pixels
+Event-based readout
+Adjustable event threshold
+20ns global shutter
+On-chip pixel binning
+USB 3.0  
+
+Event camera emulation
+[...] because there is a single sensor and a single acquisition, the two modalities are inherently synchronized in time and space, without genlocking, cross-sensor calibration, or timestamp drift. The SPAD sensor thus functions as a flexible substrate that can be reprocessed into multiple imaging modalities entirely in software. 
+HDR Imaging
+[...] photon-counting approach lets each pixel build its own exposure curve, avoiding the clipping and noise floor issues that limit standard CMOS or CCD imaging. 
+Instantaneous adaptation to lighting variation
+[...] photon-counting approach lets the sensor adapt instantly to drastic lighting shifts, with no exposure recalibration, no motion blur, and no saturation, capturing both the bright and near-dark scenes with equal clarity in the same brief 2ms window.]]></summary>
+        <author>
+            <name>Image Sensors World</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[同居していた双子の兄か　男性の遺体を遺棄した疑いで５５歳男を逮捕　神戸・灘区(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/39482bf56bc4bb6ff73beb1413b74ccb2d8cafab?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/39482bf56bc4bb6ff73beb1413b74ccb2d8cafab?source=rss"/>
+        <updated>2026-08-21T17:26:57.000Z</updated>
+        <summary type="html"><![CDATA[神戸市で、自宅アパートの一室で男性の遺体を遺棄したとして、この部屋に住む５５歳の男が逮捕されました。
+
+　死体遺棄の疑いで逮捕されたのは、神戸市灘区の会社員の男（５５）です。
+
+　男は２１日午後、自]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【北海道】殺人未遂罪の大川 清被告(77）函館山で遺体で発見　病院から姿を消して6日目]]></title>
         <id>https://itainews.com/archives/2066340.html</id>
@@ -12907,18 +12947,6 @@ eyeo has developed the world’s most advanced nanophotonic color-splitting tech
         <updated>2026-07-23T11:00:26.000Z</updated>
         <author>
             <name>もちごめ兄弟ちゃんねる</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ストーカー規制法違反容疑で逮捕された堀口英利の逮捕理由が判明しました]]></title>
-        <id>https://note.com/hima_kuuhaku/n/n4a7cb8623a69</id>
-        <link href="https://note.com/hima_kuuhaku/n/n4a7cb8623a69"/>
-        <updated>2026-07-23T06:05:22.000Z</updated>
-        <summary type="html"><![CDATA[神奈川新聞2026年5月19日朝刊
-ストーカー規制法違反容疑で逮捕された堀口英利（28　自称KCL、学歴詐称高卒）は報道によると、面会を要求したかどで逮捕されたとのことでしたが、この度本人らしき発信により、その詳細が明らかになりました
-続きをみる]]></summary>
-        <author>
-            <name>暇空茜</name>
         </author>
     </entry>
 </feed>
