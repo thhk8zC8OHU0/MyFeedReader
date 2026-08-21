@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-21T20:54:19.658Z</updated>
+    <updated>2026-08-21T21:54:57.162Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[天理市で住宅火災　１人死亡(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/784675bed989981d388b877f8505a60dbf7b4e4a?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/784675bed989981d388b877f8505a60dbf7b4e4a?source=rss"/>
+        <updated>2026-08-21T20:55:59.000Z</updated>
+        <summary type="html"><![CDATA[２１日夜、奈良県天理市の住宅で火事があり、１人が死亡しました。警察は、遺体がこの家に住む男性の可能性もあるとみて調べを進めています。
+
+　２１日午後１０時半過ぎ、天理市杣之内町で近くに住む人から「家]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NovoViz releases variable frame rate SPAD sensor]]></title>
         <id>https://image-sensors-world.blogspot.com/2026/08/novoviz-releases-variable-frame-rate.html</id>
