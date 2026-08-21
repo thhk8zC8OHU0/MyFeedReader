@@ -2,10 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-21T21:54:57.162Z</updated>
+    <updated>2026-08-21T22:55:20.377Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[【速報】JR神戸線・大阪駅―西明石駅間で運転見合わせ　線路トラブル(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d319187b7b5964bb01b7f00b7ee7eb6058925ac1?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d319187b7b5964bb01b7f00b7ee7eb6058925ac1?source=rss"/>
+        <updated>2026-08-21T22:43:20.000Z</updated>
+        <summary type="html"><![CDATA[ＪＲ西日本によりますと、２２日午前７時１４分頃、ＪＲ神戸線の塚本駅―尼崎駅間で線路トラブルが発生し、現在、大阪駅―西明石駅間で運転を見合わせています。
+
+　ＪＲ西日本は状況の確認を進めています。]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[クレカ窃盗の慶大新沢かれんちゃん、大手金融機関に内定していた]]></title>
+        <id>https://itainews.com/archives/2066324.html</id>
+        <link href="https://itainews.com/archives/2066324.html"/>
+        <updated>2026-08-21T22:00:37.000Z</updated>
+        <summary type="html"><![CDATA[1 名前：★：2026/08/21(金) 08:14:21.99 ID:hO/DwfjS0.net
+
+
+
+
+
+
+
+【《NY生まれの令嬢》バイト先でクレカ窃盗逮捕の慶応女子大生　大手金融の内定も棒に…知人が明かす「男遊びが盛んでブランド好き」な“素顔”】https://t.co/vSzm6tdLKF #事件 #慶應義塾大学 #窃盗 #...]]></summary>
+        <author>
+            <name>nobi0929</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[レッカー車が電柱やガードレールなどに衝突　運転手「ブレーキがきかなくなった」　周辺の住宅約４２０軒で一時停電　神戸・灘区(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/d4b6c5bb75d70d6434a6bf22c4459e41de8c87dd?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/d4b6c5bb75d70d6434a6bf22c4459e41de8c87dd?source=rss"/>
+        <updated>2026-08-21T22:00:00.000Z</updated>
+        <summary type="html"><![CDATA[「ブレーキがきかなくなった」と話しているということです。
+
+　２０日午後８時ごろ、神戸市灘区の交差点で、トラックをけん引していたレッカー車が電柱などに衝突する事故がありました。
+
+　警察によりますと]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[天理市で住宅火災　１人死亡(ABCニュース)]]></title>
         <id>https://news.yahoo.co.jp/articles/784675bed989981d388b877f8505a60dbf7b4e4a?source=rss</id>

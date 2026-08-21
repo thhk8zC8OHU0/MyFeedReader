@@ -1233,6 +1233,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/d319187b7b5964bb01b7f00b7ee7eb6058925ac1?source=rss",
+          "author": null,
+          "description": "ＪＲ西日本によりますと、２２日午前７時１４分頃、ＪＲ神戸線の塚本駅―尼崎駅間で線路トラブルが発生し、現在、大阪駅―西明石駅間で運転を見合わせています。\n\n　ＪＲ西日本は状況の確認を進めています。",
+          "link": "https://news.yahoo.co.jp/articles/d319187b7b5964bb01b7f00b7ee7eb6058925ac1?source=rss",
+          "publishedOn": "2026-08-21T22:43:20.000Z",
+          "wordCount": 1658,
+          "title": "【速報】JR神戸線・大阪駅―西明石駅間で運転見合わせ　線路トラブル(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260822-00082173-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/d4b6c5bb75d70d6434a6bf22c4459e41de8c87dd?source=rss",
+          "author": null,
+          "description": "「ブレーキがきかなくなった」と話しているということです。\n\n　２０日午後８時ごろ、神戸市灘区の交差点で、トラックをけん引していたレッカー車が電柱などに衝突する事故がありました。\n\n　警察によりますと",
+          "link": "https://news.yahoo.co.jp/articles/d4b6c5bb75d70d6434a6bf22c4459e41de8c87dd?source=rss",
+          "publishedOn": "2026-08-21T22:00:00.000Z",
+          "wordCount": 1663,
+          "title": "レッカー車が電柱やガードレールなどに衝突　運転手「ブレーキがきかなくなった」　周辺の住宅約４２０軒で一時停電　神戸・灘区(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260821-00082162-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/784675bed989981d388b877f8505a60dbf7b4e4a?source=rss",
           "author": null,
           "description": "２１日夜、奈良県天理市の住宅で火事があり、１人が死亡しました。警察は、遺体がこの家に住む男性の可能性もあるとみて調べを進めています。\n\n　２１日午後１０時半過ぎ、天理市杣之内町で近くに住む人から「家",
@@ -5717,6 +5737,16 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066324.html",
+          "author": "nobi0929",
+          "description": "1 名前：★：2026/08/21(金) 08:14:21.99 ID:hO/DwfjS0.net\n\n\n\n\n\n\n\n【《NY生まれの令嬢》バイト先でクレカ窃盗逮捕の慶応女子大生　大手金融の内定も棒に…知人が明かす「男遊びが盛んでブランド好き」な“素顔”】https://t.co/vSzm6tdLKF #事件 #慶應義塾大学 #窃盗 #...",
+          "link": "https://itainews.com/archives/2066324.html",
+          "publishedOn": "2026-08-21T22:00:37.000Z",
+          "wordCount": 3523,
+          "title": "クレカ窃盗の慶大新沢かれんちゃん、大手金融機関に内定していた",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/9/2/9246c32b-s.jpg"
+        },
         {
           "id": "https://itainews.com/archives/2066340.html",
           "author": "damono3856",
