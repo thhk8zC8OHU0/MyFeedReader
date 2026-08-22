@@ -2,10 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://thhk8zc8ohu0.github.io/myfeedreader/index.html</id>
     <title>osmos::feed</title>
-    <updated>2026-08-22T19:52:16.983Z</updated>
+    <updated>2026-08-22T20:53:46.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://thhk8zc8ohu0.github.io/myfeedreader/index.html"/>
     <link rel="self" href="https://thhk8zc8ohu0.github.io/myfeedreader/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[奈良・薬師寺の国宝「仏足石」に液体をかけた疑い　台湾出身の女　逮捕(ABCニュース)]]></title>
+        <id>https://news.yahoo.co.jp/articles/1a10e03abce9857a8717411c299292f2291cd57d?source=rss</id>
+        <link href="https://news.yahoo.co.jp/articles/1a10e03abce9857a8717411c299292f2291cd57d?source=rss"/>
+        <updated>2026-08-22T20:17:23.000Z</updated>
+        <summary type="html"><![CDATA[今年４月、奈良県の薬師寺で国宝の「仏足石」に液体がかけられた事件で、警察は２２日、台湾出身の３９歳の女を逮捕しました。
+
+文化財保護法違反の疑いで逮捕されたのは、台湾出身で自称司会業の蔡宜臻容疑者（３]]></summary>
+        <author>
+            <name>ABCニュース - Yahoo!ニュース</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【三重】インコ大量死、原因は謎のまま　松阪の中部台　6月に34羽、腸内環境悪化]]></title>
         <id>https://itainews.com/archives/2066377.html</id>
