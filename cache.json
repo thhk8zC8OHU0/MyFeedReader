@@ -1233,6 +1233,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/37c8f5c6cc3cc5c37bc926c3dfbb437b7dabd135?source=rss",
+          "author": null,
+          "description": "ＪＲ西日本によりますと２２日午前８時５０分過ぎ、ＪＲの茨木駅―千里丘駅間で特急電車の「サンダーバード７号」が人と接触しました。\n\n　この影響で・京都線・神戸線は西明石駅―京都駅間で・宝塚線は尼崎駅―",
+          "link": "https://news.yahoo.co.jp/articles/37c8f5c6cc3cc5c37bc926c3dfbb437b7dabd135?source=rss",
+          "publishedOn": "2026-08-22T00:19:16.000Z",
+          "wordCount": 1600,
+          "title": "【速報】人身事故のＪＲ　運転再開　京都―西明石、尼崎ー新三田、京橋ー尼崎、山科駅―近江塩津駅間(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260822-00082174-asahibcv-000-2-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/55afab9d97b45369bb6b25bb3a55944fa1f5d331?source=rss",
           "author": null,
           "description": "「返金対応を前提として確認・協議を進めている」と強調しています。\n\n　滋賀県の３つの市で、同時に１万発以上の花火を打ち上げるとしてチケットを販売していたものの、中止が発表された花火大会について、実行",
@@ -3079,6 +3089,26 @@
       "feedUrl": "https://feeds.bbci.co.uk/japanese/rss.xml",
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
+        {
+          "id": "https://www.bbc.com/japanese/articles/c62qpe3g9lpo#0",
+          "author": null,
+          "description": "イギリスのサセックス公爵ハリー王子や歌手サー・エルトン・ジョンなど計7人の著名人は21日、英紙デイリー・メールと同メール・オン・サンデーの発行元を訴えたプライバシー侵害訴訟で敗訴したことを受け、訴えた出版社の訴訟費用を支払うよう高等法院に命じられた。この費用は最大3450万ポンド（約75億円）になる可能性がある。",
+          "link": "https://www.bbc.com/japanese/articles/c62qpe3g9lpo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-22T02:56:23.000Z",
+          "wordCount": 1896,
+          "title": "プライバシー侵害訴訟で敗訴のハリー英王子やエルトン・ジョンさんら7人、最大75億円の費用負担の可能性",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/b9d1/live/0b65a550-9d63-11f1-a291-b542ee92de7c.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/c2lq58knejjo#0",
+          "author": null,
+          "description": "ウクライナ中部クリヴィー・リフで21日、市内最大のショッピングセンターがロシア軍のドローンによる二重攻撃を受けた。地元当局によると、少なくとも16人が殺害され、子ども23人を含む130人が負傷したほか、がれきの下に閉じ込められている人も複数いる。最初の攻撃の後、救助隊の到着後に再び攻撃して被害を拡大しようとする、いわゆる「ダブルタップ攻撃」だったという。",
+          "link": "https://www.bbc.com/japanese/articles/c2lq58knejjo?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-22T02:51:40.000Z",
+          "wordCount": 2120,
+          "title": "ロシアがショッピングセンターに「ダブルタップ攻撃」　16人殺害とウクライナ当局",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png"
+        },
         {
           "id": "https://www.bbc.com/japanese/articles/c70g2x1nnk9o#0",
           "author": null,
@@ -5757,6 +5787,56 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066335.html",
+          "author": "dqnplus",
+          "description": "1 ：七波羅探題 ★：2026/08/21(金) 15:01:16.66 ID:qrtj74R79.net\n\n\n\n\n\n\n\n\n\n\n甲子園出場で紛糾…秋田代表「横手高校」は進学校なのか論争　卒業生は「東京と秋田では進学事情が違いすぎる」と指摘　成績優秀な生徒が“東京大学を受験しない”理由https://t.co/zkCzyydQs...",
+          "link": "https://itainews.com/archives/2066335.html",
+          "publishedOn": "2026-08-22T03:01:50.000Z",
+          "wordCount": 3090,
+          "title": "甲子園出場で紛糾 秋田代表横手高校は進学校なのか論争 卒業生「東京と秋田では進学事情が違いすぎる」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/a/2ad1f528-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066334.html",
+          "author": "takakichi5346",
+          "description": "1 名前：：2026/08/21(金) 13:26:57.13 ID:r2V/sEIn0●.net 2BP(3001)\n\n\n\n\n\n\n\n【解説】相次ぐ芸能事務所の倒産、昨年は「過去最多」メディアの多様化で芸能事務所が転換期を迎えています【主なポイント】・2025年の芸能事務所の倒産は26件で、2014年以降最多・2026年も7...",
+          "link": "https://itainews.com/archives/2066334.html",
+          "publishedOn": "2026-08-22T02:31:54.000Z",
+          "wordCount": 3278,
+          "title": "「芸能事務所」、オワコンに　倒産が過去最多",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/0/d0c486f7-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066336.html",
+          "author": "nobi0929",
+          "description": "1 名前：それでも動く名無し：2026/08/21(金) 13:12:15.83 ID:T7di+XHu0.net\n\n\n\n\n\n\n\n金属バット片手に「殺すか ここで」カメラが捉えた殺人未遂事件の一部始終　逆走して正面衝突…容疑者と被害女性は“面識なし”　茨城　#イットhttps://t.co/wsFoy38UKf— FNNプライム...",
+          "link": "https://itainews.com/archives/2066336.html",
+          "publishedOn": "2026-08-22T02:00:47.000Z",
+          "wordCount": 3484,
+          "title": "38歳男性「殺すかここで」逆走して20代女性の運転する車に突っ込む←ほんまに日本か、ここは",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/d/e/decdc9cf-s.jpg"
+        },
+        {
+          "id": "https://itainews.com/archives/2066331.html",
+          "author": "takakichi5346",
+          "description": "1 名前：Hitzeschleier ★：2026/08/21(金) 12:26:12.63 ID:+EWiM7J/9.net\n\n\n\n\n\n\n\n「暴力と胸や尻を触るセクハラが日常に」北海道京極町の農業法人で何が…避難したミャンマー人女性4人が明かす凄惨な実態　町議務める“父親”ら取材に応じず https://t.co/OORl8QIesA— ...",
+          "link": "https://itainews.com/archives/2066331.html",
+          "publishedOn": "2026-08-22T01:00:45.000Z",
+          "wordCount": 3557,
+          "title": "「暴力と胸や尻を触るセクハラが日常」北海道の農業法人で町議務める父親とその息子から虐待か…ミャンマー人女性4人が明かす凄惨な実態",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/b/c/bcde9e31-s.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066327.html",
+          "author": "takakichi5346",
+          "description": "1 名前：煮卵 ★：2026/08/21(金) 08:59:34.98 ID:P9oJEMUs9.net\n\n\n\n\n\n\n\nこども家庭庁、最多7.8兆円の概算要求へ　子どもの自殺対策費など朝日新聞8/20(木)20:00￼こども家庭庁… pic.twitter.com/xvGqtDqK4K— Masashi (@DomaineEtoiles) August 20, 2026 \n\n\n\n\n\n\nこども...",
+          "link": "https://itainews.com/archives/2066327.html",
+          "publishedOn": "2026-08-22T00:01:38.000Z",
+          "wordCount": 4400,
+          "title": "【こども家庭庁】最多7.8兆円の概算要求へ　子どもの自殺対策費など",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/5/253348a2-s.png"
+        },
         {
           "id": "https://itainews.com/archives/2066325.html",
           "author": "nobi0929",
@@ -9132,6 +9212,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127273/",
+          "author": null,
+          "description": "黒井白によるサバイバルスリラーを描いた大ヒット漫画「リバイアサン」の実写映画化が決定。道枝駿佑（なにわ男子）が主演を務め、ヒロインに出口夏希を迎え、2027年2月11日に公開される。あわせて予告...",
+          "link": "https://anime.eiga.com/news/127273/",
+          "publishedOn": "2026-08-22T03:00:00.000Z",
+          "wordCount": 744,
+          "title": "道枝駿佑×出口夏希が挑む壮絶な生き残りゲーム　大ヒット漫画「リバイアサン」実写映画化決定　監督は藤井道人＆新宮良平",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127281/",
           "author": null,
