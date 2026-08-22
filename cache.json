@@ -1233,6 +1233,26 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/6b59a3107ce52ab6fbf3304ec09a214f8ceed506?source=rss",
+          "author": null,
+          "description": "滋賀県大津市にあるびわ湖バレイに、新たな絶景スポットとして歩行者専用のつり橋が完成しました。\n\n　びわ湖バレイに完成した「スカイブリッジ」は、標高約１１００メートルの山々を結ぶ歩行者専用のつり橋で、",
+          "link": "https://news.yahoo.co.jp/articles/6b59a3107ce52ab6fbf3304ec09a214f8ceed506?source=rss",
+          "publishedOn": "2026-08-22T04:16:29.000Z",
+          "wordCount": 1642,
+          "title": "全長２２０ｍの絶景つり橋　びわ湖バレイに「スカイブリッジ」　滋賀(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260822-00082176-asahibcv-000-1-thumb.jpg?exp=10800"
+        },
+        {
+          "id": "https://news.yahoo.co.jp/articles/90b4fbd506b2d017fd0fb56b47943091346c3a6c?source=rss",
+          "author": null,
+          "description": "夏の高校野球は２２日、決勝が行われ、智弁和歌山（和歌山）が健大高崎（群馬）に４－３で勝利し、５年ぶり４度目の優勝を果たしました。",
+          "link": "https://news.yahoo.co.jp/articles/90b4fbd506b2d017fd0fb56b47943091346c3a6c?source=rss",
+          "publishedOn": "2026-08-22T03:10:31.000Z",
+          "wordCount": 1637,
+          "title": "【夏の高校野球】智弁和歌山（和歌山）が健大高崎（群馬）に４－３で勝利　５年ぶり４度目の優勝(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260822-00082175-asahibcv-000-2-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/37c8f5c6cc3cc5c37bc926c3dfbb437b7dabd135?source=rss",
           "author": null,
           "description": "ＪＲ西日本によりますと２２日午前８時５０分過ぎ、ＪＲの茨木駅―千里丘駅間で特急電車の「サンダーバード７号」が人と接触しました。\n\n　この影響で・京都線・神戸線は西明石駅―京都駅間で・宝塚線は尼崎駅―",
@@ -3090,6 +3110,26 @@
       "siteUrl": "https://www.bbc.com/japanese",
       "articles": [
         {
+          "id": "https://www.bbc.com/japanese/articles/c75g2p7715ro#0",
+          "author": null,
+          "description": "イギリスで大気汚染規制が導入された地域に住む幼い子どもたちの肺が、驚くほど早く回復し成長し始めたことが、最新の研究で明らかになった。ロンドンでは2019年、首都の大気汚染を改善するため、サディク・カーン市長によって「超低排出ゾーン（ULEZ）」が導入された。",
+          "link": "https://www.bbc.com/japanese/articles/c75g2p7715ro?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-22T04:50:05.000Z",
+          "wordCount": 1953,
+          "title": "ロンドンの大気汚染対策で子どもの肺機能が回復、研究チームも驚く",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/4dc6/live/93fc0f30-9ad4-11f1-aed2-8d6da8d75094.jpg"
+        },
+        {
+          "id": "https://www.bbc.com/japanese/articles/cwyr0zvelqro#0",
+          "author": null,
+          "description": "2024年4月1日にガザ中部デイル・アル・バラフで慈善団体「ワールド・セントラル・キッチン（WCK）」のスタッフ7人が殺害された事案について、イスラエルが19日に刑事捜査しないと発表したことに対し、イギリス、カナダ、オーストリア各国の政府は21日、「恥ずべきこと」だと非難した。",
+          "link": "https://www.bbc.com/japanese/articles/cwyr0zvelqro?at_medium=RSS&at_campaign=rss",
+          "publishedOn": "2026-08-22T04:33:15.000Z",
+          "wordCount": 2108,
+          "title": "ガザでの援助活動家ら殺害をイスラエルは刑事捜査せず　英豪カナダが非難",
+          "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_japanese/44aa/live/1a046dd0-9d6d-11f1-b109-879e35c24276.jpg"
+        },
+        {
           "id": "https://www.bbc.com/japanese/articles/c62qpe3g9lpo#0",
           "author": null,
           "description": "イギリスのサセックス公爵ハリー王子や歌手サー・エルトン・ジョンなど計7人の著名人は21日、英紙デイリー・メールと同メール・オン・サンデーの発行元を訴えたプライバシー侵害訴訟で敗訴したことを受け、訴えた出版社の訴訟費用を支払うよう高等法院に命じられた。この費用は最大3450万ポンド（約75億円）になる可能性がある。",
@@ -4594,6 +4634,16 @@
       "siteUrl": "https://gadget.phileweb.com",
       "articles": [
         {
+          "id": "https://gadget.phileweb.com/?p=131413",
+          "author": "編集部：平山洸太",
+          "description": "ARグラスを展開するVITUREは、5周年記念の製品体験イベント「One Day with VITURE」を8月22〜23日の2日間で開催する。入場料は無料。予約優先だが、予約なしでの来場も可能。 場所は東京・JR原宿駅前の商業施設「WITH HARAJUKU」の3階にある「LIFORK 原宿」。8 […]",
+          "link": "https://gadget.phileweb.com/post-131413/",
+          "publishedOn": "2026-08-22T04:25:00.000Z",
+          "wordCount": 735,
+          "title": "VITUREの最新ARグラスが試せるイベント、原宿で開催中。8月22日・23日限定",
+          "imageUrl": "https://gadget.phileweb.com/wp-content/uploads/2026/08/2f9945451e6d751e965f7723bcb6b6eb.jpg"
+        },
+        {
           "id": "https://gadget.phileweb.com/?p=131372",
           "author": "Munenori Taniguchi",
           "description": "8月19日、米サンディエゴ市議会で開かれた会議に、映画『スター・ウォーズ』に登場する著名キャラクター「ダース・ベイダー」に扮した謎の人物が現れ、発言する珍事があった。 サンディエゴ市では、市警（SDPD）が昨年、市の監視監督条例による正式な承認プロセスを経ずに警察向け監視技術企業であるFlockと契 […]",
@@ -5787,6 +5837,36 @@
       "feedUrl": "https://itainews.com/index.rdf",
       "siteUrl": "https://itainews.com/",
       "articles": [
+        {
+          "id": "https://itainews.com/archives/2066342.html",
+          "author": "dqnplus",
+          "description": "1 ：：2026/08/21(金) 15:34:12.65 ID:hPuDui1l0●.net \n\n\n\n\n\n\n\n\nベトナムが海外不法滞在の罰則強化へ　来月10日の施行前に日本の入管に出頭者増える▼詳しくは画像をタッチhttps://t.co/tjfeDIjOc7@tv_asahi_news— テレ朝NEWS (@tv_asahi_news) August 21, 2026 \n\n\n\n\n\n...",
+          "link": "https://itainews.com/archives/2066342.html",
+          "publishedOn": "2026-08-22T04:31:25.000Z",
+          "wordCount": 3382,
+          "title": "ベトナム政府「海外不法滞在の罰則を強化する！→日本の入管へぞろぞろと出頭ｗ",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/2/5/259511bc.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066339.html",
+          "author": "dqnplus",
+          "description": "1 ：muffin ★：2026/08/21(金) 17:00:48.21 ID:iEMkbiHy9.net\n\n\n\n\n\n\n\n\n\nキッカーズ2軍の愛之助が、平将門の首塚の石碑に抱きつきまたがり奇声上げているが、過去にここを蹴ったサダさん数年後に事故死している。ここはネタとかエンタメで済む場所ではないんだよ。将門様...",
+          "link": "https://itainews.com/archives/2066339.html",
+          "publishedOn": "2026-08-22T04:01:37.000Z",
+          "wordCount": 3572,
+          "title": "男性迷惑系配信者「平将門塚」で石碑をよじ登り奇声、厳しい声が噴出「罰当たりすぎる」「知性も教養もない」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/e/d/eddf7fa1.png"
+        },
+        {
+          "id": "https://itainews.com/archives/2066337.html",
+          "author": "dqnplus",
+          "description": "1 ：muffin ★：2026/08/21(金) 14:47:10.05 ID:iEMkbiHy9.net\n\n\n\n\n\n\n\n\n「絶対ショートスリーパーを目指すのはやめとけ」睡眠専門医が堀大輔の「1日30分睡眠」を解説▼記事https://t.co/TtgoEtst1o・登録者20万人の睡眠専門医・渥美正彦が動画で見解・短時間睡眠のリスク...",
+          "link": "https://itainews.com/archives/2066337.html",
+          "publishedOn": "2026-08-22T03:31:10.000Z",
+          "wordCount": 3537,
+          "title": "「絶対ショートスリーパーを目指すのはやめとけ」睡眠専門医が堀大輔氏の「1日30分睡眠」を「取り返しがつかない健康リスク」",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/0/7/07aac3a2.png"
+        },
         {
           "id": "https://itainews.com/archives/2066335.html",
           "author": "dqnplus",
@@ -9213,6 +9293,21 @@
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
         {
+          "id": "https://anime.eiga.com/news/127285/",
+          "author": null,
+          "description": "8月28日公開の「劇場版 魔法少女まどか☆マギカ ワルプルギスの廻天」と、アニメの新エピソードが今冬に公開予定の「〈物語〉シリーズ」のスペシャルコラボが実現した。 今回のスペシャルコラボでは、「...",
+          "link": "https://anime.eiga.com/news/127285/",
+          "publishedOn": "2026-08-22T04:00:00.000Z",
+          "wordCount": 784,
+          "title": "「まど☆マギ　ワルプルギスの廻天」×「〈物語〉シリーズ」SPコラボ　西尾維新書き下ろし短編「魔法童女よつぎ☆ピース」公開中",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
+        {
           "id": "https://anime.eiga.com/news/127273/",
           "author": null,
           "description": "黒井白によるサバイバルスリラーを描いた大ヒット漫画「リバイアサン」の実写映画化が決定。道枝駿佑（なにわ男子）が主演を務め、ヒロインに出口夏希を迎え、2027年2月11日に公開される。あわせて予告...",
@@ -10602,16 +10697,6 @@
           "publishedOn": "2026-07-25T13:05:26.000Z",
           "wordCount": null,
           "title": "病院の待合室で、院長の自主制作ラジオが流れてる【ジェラードン】",
-          "imageUrl": null
-        },
-        {
-          "id": "https://www.youtube.com/watch?v=mE9wYtxOW40",
-          "author": null,
-          "description": "",
-          "link": "https://www.youtube.com/watch?v=mE9wYtxOW40",
-          "publishedOn": "2026-07-23T14:49:05.000Z",
-          "wordCount": null,
-          "title": "坐薬を絶対に跳ね返しちゃう患者と、あの手この手でどうにか坐薬入れこみたい医者【ジェラードン】",
           "imageUrl": null
         }
       ]
