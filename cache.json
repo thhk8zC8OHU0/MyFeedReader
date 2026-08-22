@@ -1233,6 +1233,16 @@
       "siteUrl": "https://news.yahoo.co.jp/media/asahibc?source=rss",
       "articles": [
         {
+          "id": "https://news.yahoo.co.jp/articles/7512adb7d12ac0a257d9d24b5f844e2c748a1d78?source=rss",
+          "author": null,
+          "description": "劇物を混入させたマフィンを男性に食べさせたとして殺人未遂の疑いで逮捕された女が、「お土産」と言ってマフィンを渡していたことがわかりました。\n\n　滋賀県東近江市に住む派遣社員・藤木香奈容疑者（４６）は",
+          "link": "https://news.yahoo.co.jp/articles/7512adb7d12ac0a257d9d24b5f844e2c748a1d78?source=rss",
+          "publishedOn": "2026-08-22T08:46:54.000Z",
+          "wordCount": 1661,
+          "title": "「お土産だから渡して」　逮捕の女が知人に依頼か　劇物入りマフィンを男性に食べさせた疑い(ABCニュース)",
+          "imageUrl": "https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260822-00082178-asahibcv-000-1-view.jpg?exp=10800"
+        },
+        {
           "id": "https://news.yahoo.co.jp/articles/6b59a3107ce52ab6fbf3304ec09a214f8ceed506?source=rss",
           "author": null,
           "description": "滋賀県大津市にあるびわ湖バレイに、新たな絶景スポットとして歩行者専用のつり橋が完成しました。\n\n　びわ湖バレイに完成した「スカイブリッジ」は、標高約１１００メートルの山々を結ぶ歩行者専用のつり橋で、",
@@ -5848,6 +5858,16 @@
       "siteUrl": "https://itainews.com/",
       "articles": [
         {
+          "id": "https://itainews.com/archives/2066355.html",
+          "author": "damono3856",
+          "description": "1 名前：蚤の市 ★：2026/08/22(土) 07:22:53.58 ID:QORCslTp9.net\n\n\n\n\n\n\n\n複数社で作業、連携不備か － 東武鉄道4人死亡特急事故https://t.co/4BpZnKrt7R— 共同通信公式 (@kyodo_official) August 21, 2026  \n\n\n\n\n\n\n　鹿沼市の東武日光線新鹿沼駅で、作業員4人が特急列...",
+          "link": "https://itainews.com/archives/2066355.html",
+          "publishedOn": "2026-08-22T08:03:01.000Z",
+          "wordCount": 3482,
+          "title": "【東武鉄道事故】複数社で作業、連携不備か",
+          "imageUrl": "https://livedoor.blogimg.jp/dqnplus/imgs/c/0/c0d8ad2d-s.png"
+        },
+        {
           "id": "https://itainews.com/archives/2066351.html",
           "author": "takakichi5346",
           "description": "1 名前：：2026/08/21(金) 18:56:31.25 ID:● 2BP(3000).net\n\n\n\n\n\n\n\n法務省「ラヴ上等」タイアップポスター取りやめ　「出演者や更生への取組を否定するものではない」　SNSなどで批判相次ぐhttps://t.co/pMH8JNk2W8— FNNプライムオンライン (@FNN_News) August 21, 202...",
@@ -9352,6 +9372,21 @@
       "feedUrl": "https://anime.eiga.com/feed/news/rss.xml",
       "siteUrl": "https://anime.eiga.com/news/",
       "articles": [
+        {
+          "id": "https://anime.eiga.com/news/127287/",
+          "author": null,
+          "description": "テレビアニメ「おそ松さん」の10周年記念コラボレーション企画の最終・第3弾として、テレビアニメ「銀魂」とのコラボが決まり、両作品のキャラクターの個性が際立つコラボビジュアルが公開された。 同ビジ...",
+          "link": "https://anime.eiga.com/news/127287/",
+          "publishedOn": "2026-08-22T09:00:00.000Z",
+          "wordCount": 792,
+          "title": "おそ松さん×銀魂、コラボビジュアル公開　オリジナルグッズも制作決定",
+          "enclosure": {
+            "url": "https://media.eiga.com/images/movie/gallery.gif",
+            "type": "image/gif",
+            "length": ""
+          },
+          "imageUrl": "https://media.eiga.com/images/movie/gallery.gif"
+        },
         {
           "id": "https://anime.eiga.com/news/127294/",
           "author": null,
